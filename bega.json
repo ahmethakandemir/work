@@ -1,0 +1,402 @@
+{
+    "Outdoor Luminaries": {
+        "data": {},
+        "seriler": {
+            "Recessed wall luminaires": {
+                "seri data": "The light from recessed wall luminaires can vary enormously. Wide beam luminaires help you to find your way and tend to be smaller in size. Luminaires with directed light are used to illuminate pathways and areas both on the ground and on the ceiling. Since the luminaire body is fully installed within the wall, recessed wall luminaires pose no risk of accidents.",
+                "gruplar": {
+                    "Recessed wall luminaires with compact dimensions": {
+                        "grup data": {},
+                        "alt gruplar": {
+                            "Recessed wall luminaires": {
+                                "alt grup data": {
+                                    "alt grup url": "https://www.bega.com/en/products/outdoor-luminaires/recessed-wall-luminaires/recessed-wall-luminaires-24-v-dc-22109/?t=unshielded-light",
+                                    "general info": [
+                                        "Compact recessed wall luminaires for operation on 24 V power supply units for a variety of applications – indoors and out.",
+                                        "Recessed luminaires for the illumination of corridors, pathways and staircases, and wherever dangerous areas have to be marked. Shallow installation depths and the BEGA mounting system ensure simple and economical installation in solid or hollow structures.",
+                                        "Three luminaire groups for the illumination of corridors, paths and staircases – both indoors and out.",
+                                        "The unshielded luminaires are suitable as location luminaires for higher ambient brightness."
+                                    ],
+                                    "image gallery": [
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/3ABSv76gj9lp1QL1nPZS45/862fdeee58fca8140edc4d5b0a7c7c28/Amazon_Spheres_08_22369.jpg?fit=fill&fm=avif&f=left&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/4nGkRMOyg17aokBtpGwt3x/54829b9f529bed5043a476d20a242daf/22109_08.anw.jpg?fit=fill&fm=avif&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/iv2La0DBUAtb3NRojqX7P/b1692597fb749c9066ab0652b394e01b/Amazon_Spheres_07_22369.jpg?fit=fill&fm=avif&f=right&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/5irvXAX1y3FUyC880ghyJl/8aac26dc3c44228a3132f3fb2400e7b1/22109_04.anw.jpg?fit=fill&fm=avif&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/5Nlgb5xY2bexj8hzIfEbY6/1f9aeab38a65ff74346edeb747080ce8/Privathaus_Essen_08_22109_Braun.jpg?fit=fill&fm=avif&f=bottom_left&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/2EDNM8I2dLRBhrlU9G8smd/b4ebcaede8ccd78e40563d887704e5e3/22101_01.anw.jpg?fit=fill&fm=avif&q=80"
+                                    ],
+                                    "alt-grup id": {}
+                                },
+                                "modeller": {
+                                    "Unshielded light": {
+                                        "model data": {
+                                            "technical info": [
+                                                "Protection class IP 65",
+                                                "Safety class III",
+                                                "Cast aluminium, aluminium and stainless steel",
+                                                "BEGA Unidure® coating technology",
+                                                "Safety glass",
+                                                "A separate 24 V DC power supply unit is required to operate the luminaires.",
+                                                "20-year availability guarantee for LED module"
+                                            ],
+                                            "technical images": [
+                                                "https://images.ctfassets.net/w2xcep4i3dcd/77LuAGM73JesXfqo6JJA7S/a363befec2f41047b3e9a01d187c35dc/22109_01.pr.jpg?fit=fill&fm=avif&w=300&h=300&q=80",
+                                                "https://images.ctfassets.net/w2xcep4i3dcd/3MWFYefyq2FribmPeGv5x7/73f9b7aceb892c0b508314e41423e3c4/22109.zkl.svg?fit=fill&w=300&h=300&f=center&q=80"
+                                            ]
+                                        },
+                                        "urunler": {
+                                            "22109K3": {
+                                                "General information": {
+                                                    "Colour": "graphite",
+                                                    "Material": "Cast aluminium",
+                                                    "Glass type": "Safety glass white",
+                                                    "Width": "80 mm",
+                                                    "Height": "80 mm",
+                                                    "Depth": "80 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.3 W",
+                                                    "Supply voltage": "24 V",
+                                                    "DC": "✓",
+                                                    "Safety class": "III",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "3000 K",
+                                                    "Luminaire luminous flux": "31 lm",
+                                                    "Colour rendering index": "90",
+                                                    "Light distribution": "unshielded",
+                                                    "BUG rating": "0-1-0",
+                                                    "CEN Flux Code": "12-37-67-50-100-12-37-67-50",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "71",
+                                                    "Installation depth": "90 mm"
+                                                },
+                                                "Safety": {
+                                                    "Protection class": "IP 65",
+                                                    "Impact resistance": "IK08",
+                                                    "Max. ambient temperature": "60 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/22109K3/current/images/high-resolution",
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/ies/default"
+                                                ],
+                                                "accessories": {
+                                                    "Mounting accessories": {
+                                                        "accessory link": "/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10415&tab=info",
+                                                        "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/10415/current/images/high-resolution",
+                                                        "downloads": [
+                                                            "https://cdn.bega.com/bega/products/10415/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/10415/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/10015/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/10015/current/documents/manuals/en"
+                                                        ]
+                                                    },
+                                                    "Electrotechnical accessories": {
+                                                        "accessory link": "/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70564&tab=info",
+                                                        "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70564/current/images/high-resolution",
+                                                        "downloads": [
+                                                            "https://cdn.bega.com/bega/products/70564/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70564/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70465/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70465/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70565/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70565/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70566/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70566/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70567/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70567/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70169/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70169/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70114/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70114/current/documents/manuals/en"
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "22109K4": {
+                                                "General information": {
+                                                    "Colour": "graphite",
+                                                    "Material": "Cast aluminium",
+                                                    "Glass type": "Safety glass white",
+                                                    "Width": "80 mm",
+                                                    "Height": "80 mm",
+                                                    "Depth": "80 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.3 W",
+                                                    "Supply voltage": "24 V",
+                                                    "DC": "✓",
+                                                    "Safety class": "III",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "4000 K",
+                                                    "Luminaire luminous flux": "32 lm",
+                                                    "Colour rendering index": "90",
+                                                    "Light distribution": "unshielded",
+                                                    "BUG rating": "0-1-0",
+                                                    "CEN Flux Code": "12-37-67-50-100-12-37-67-50",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "71",
+                                                    "Installation depth": "90 mm"
+                                                },
+                                                "Safety": {
+                                                    "Protection class": "IP 65",
+                                                    "Impact resistance": "IK08",
+                                                    "Max. ambient temperature": "60 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/22109K4/current/images/high-resolution",
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/ies/default"
+                                                ],
+                                                "accessories": {
+                                                    "Mounting accessories": {
+                                                        "accessory link": "/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10415&tab=info",
+                                                        "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10415/current/images/high-resolution",
+                                                        "downloads": [
+                                                            "https://cdn.bega.com/bega/products/10415/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/10415/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/10015/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/10015/current/documents/manuals/en"
+                                                        ]
+                                                    },
+                                                    "Electrotechnical accessories": {
+                                                        "accessory link": "/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70564&tab=info",
+                                                        "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70564/current/images/high-resolution",
+                                                        "downloads": [
+                                                            "https://cdn.bega.com/bega/products/70564/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70564/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70465/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70465/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70565/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70565/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70566/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70566/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70567/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70567/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70169/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70169/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70114/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70114/current/documents/manuals/en"
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "22109AK3": {
+                                                "General information": {
+                                                    "Colour": "silver",
+                                                    "Material": "Cast aluminium",
+                                                    "Glass type": "Safety glass white",
+                                                    "Width": "80 mm",
+                                                    "Height": "80 mm",
+                                                    "Depth": "80 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.3 W",
+                                                    "Supply voltage": "24 V",
+                                                    "DC": "✓",
+                                                    "Safety class": "III",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "3000 K",
+                                                    "Luminaire luminous flux": "31 lm",
+                                                    "Colour rendering index": "90",
+                                                    "Light distribution": "unshielded",
+                                                    "BUG rating": "0-1-0",
+                                                    "CEN Flux Code": "12-37-67-50-100-12-37-67-50",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "71",
+                                                    "Installation depth": "90 mm"
+                                                },
+                                                "Safety": {
+                                                    "Protection class": "IP 65",
+                                                    "Impact resistance": "IK08",
+                                                    "Max. ambient temperature": "60 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/22109AK3/current/images/high-resolution",
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/22109AK3/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/22109AK3/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/22109AK3/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/22109AK3/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/22109AK3/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/22109AK3/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/22109AK3/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/22109AK3/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/22109AK3/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/22109AK3/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/22109AK3/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/22109AK3/current/documents/ies/default"
+                                                ],
+                                                "accessories": {
+                                                    "Mounting accessories": {
+                                                        "accessory link": "/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10415&tab=info",
+                                                        "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10415/current/images/high-resolution",
+                                                        "downloads": [
+                                                            "https://cdn.bega.com/bega/products/10415/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/10415/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/10015/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/10015/current/documents/manuals/en"
+                                                        ]
+                                                    },
+                                                    "Electrotechnical accessories": {
+                                                        "accessory link": "/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70564&tab=info",
+                                                        "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70564/current/images/high-resolution",
+                                                        "downloads": [
+                                                            "https://cdn.bega.com/bega/products/70564/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70564/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70465/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70465/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70565/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70565/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70566/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70566/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70567/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70567/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70169/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70169/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70114/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70114/current/documents/manuals/en"
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "22109AK4": {
+                                                "General information": {
+                                                    "Colour": "silver",
+                                                    "Material": "Cast aluminium",
+                                                    "Glass type": "Safety glass white",
+                                                    "Width": "80 mm",
+                                                    "Height": "80 mm",
+                                                    "Depth": "80 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.3 W",
+                                                    "Supply voltage": "24 V",
+                                                    "DC": "✓",
+                                                    "Safety class": "III",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "4000 K",
+                                                    "Luminaire luminous flux": "32 lm",
+                                                    "Colour rendering index": "90",
+                                                    "Light distribution": "unshielded",
+                                                    "BUG rating": "0-1-0",
+                                                    "CEN Flux Code": "12-37-67-50-100-12-37-67-50",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "71",
+                                                    "Installation depth": "90 mm"
+                                                },
+                                                "Safety": {
+                                                    "Protection class": "IP 65",
+                                                    "Impact resistance": "IK08",
+                                                    "Max. ambient temperature": "60 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/22109AK4/current/images/high-resolution",
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/22109AK4/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/22109AK4/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/22109AK4/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/22109AK4/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/22109AK4/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/22109AK4/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/22109AK4/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/22109AK4/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/22109AK4/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/22109AK4/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/22109AK4/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/22109AK4/current/documents/ies/default"
+                                                ],
+                                                "accessories": {
+                                                    "Mounting accessories": {
+                                                        "accessory link": "/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10415&tab=info",
+                                                        "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10415/current/images/high-resolution",
+                                                        "downloads": [
+                                                            "https://cdn.bega.com/bega/products/10415/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/10415/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/10015/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/10015/current/documents/manuals/en"
+                                                        ]
+                                                    },
+                                                    "Electrotechnical accessories": {
+                                                        "accessory link": "/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70564&tab=info",
+                                                        "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70564/current/images/high-resolution",
+                                                        "downloads": [
+                                                            "https://cdn.bega.com/bega/products/70564/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70564/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70465/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70465/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70565/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70565/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70566/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70566/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70567/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70567/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70169/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70169/current/documents/manuals/en",
+                                                            "https://cdn.bega.com/bega/products/70114/current/documents/data-sheets/en",
+                                                            "https://cdn.bega.com/bega/products/70114/current/documents/manuals/en"
+                                                        ]
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,422 @@
+[
+    {
+        "title": "Neutrogena Hydro Boost Jel Vücut Kremi 200 ml",
+        "price": "146.00",
+        "page": 1
+    },
+    {
+        "title": "Janssen Cosmetics Yüksek Nem Sağlamaya Yardımcı Ampul 3'lü",
+        "price": "325.00",
+        "page": 1
+    },
+    {
+        "title": "Janssen Cosmetics Toparlamaya Yardımcı Ampul 3'lü",
+        "price": "325.00",
+        "page": 1
+    },
+    {
+        "title": "Janssen Cosmetics Kök Hücre Anti-Age Ampul 3'lü",
+        "price": "325.00",
+        "page": 1
+    },
+    {
+        "title": "Cire Aseptine Aloe Vera Vazelin 150 ml",
+        "price": "70.50",
+        "page": 1
+    },
+    {
+        "title": "Browwauw Kaş Peelingi 30 ml",
+        "price": "91.50",
+        "page": 1
+    },
+    {
+        "title": "Janssen Cosmetics Cosmo JNS Göz Derma Roller 0,25 mm Titanyum Gold",
+        "price": "450.00",
+        "page": 1
+    },
+    {
+        "title": "Bee Beauty Hipoalerjenik Güneş Sütü Çocuk & Bebek İçin 50+SPF 100 ml",
+        "price": "236.00",
+        "page": 1
+    },
+    {
+        "title": "Promani Hassas Yüz Epilasyon Yayı",
+        "price": "94.50",
+        "page": 1
+    },
+    {
+        "title": "Vaseline Lip Therapy Yumuşatıcı Dudak Kremi Original 20 gr",
+        "price": "117.00",
+        "page": 1
+    },
+    {
+        "title": "Life In Sarı Kantaron Yağı 20 ml",
+        "price": "60.00",
+        "page": 1
+    },
+    {
+        "title": "Derby Lady 2 Kadın Tıraş Bıçağı 5'li Poşet",
+        "price": "51.00",
+        "page": 1
+    },
+    {
+        "title": "Dermokil Brightening C Vitamini Serum 30 ml",
+        "price": "275.00",
+        "page": 1
+    },
+    {
+        "title": "Ziaja Keçi Sütü Ultra Hafif Kremli Yüz Temizleme Micro Scrub Jeli 75 ml",
+        "price": "223.50",
+        "page": 1
+    },
+    {
+        "title": "Ziaja Lifting Solüsyon 40+ Göz ve Dudak Bölgesi Serumu 30 ml",
+        "price": "406.00",
+        "page": 1
+    },
+    {
+        "title": "Ziaja Hassas Cilt Sıkılaştırıcı Gece Kremi 50 ml",
+        "price": "360.00",
+        "page": 1
+    },
+    {
+        "title": "Ziaja Lifting Solüsyon 40+ Kırışıklık Karşıtı Gece Kremi 50 ml",
+        "price": "406.00",
+        "page": 1
+    },
+    {
+        "title": "Ziaja Safran Yağı 60+ Kırışıklık Karşıtı Aydınlatıcı Gündüz Kremi SPF6 50 ml",
+        "price": "424.00",
+        "page": 1
+    },
+    {
+        "title": "Ziaja Safran Yağı 60+ Kırışıklık Karşıtı Aydınlatıcı Göz Kremi 15 ml",
+        "price": "424.00",
+        "page": 1
+    },
+    {
+        "title": "Ziaja Keçi Sütü Gece Kremi 50 ml",
+        "price": "360.00",
+        "page": 1
+    },
+    {
+        "title": "Ziaja Keçi Sütü Ultra Hafif Temizleme Sütü 200 ml",
+        "price": "223.50",
+        "page": 1
+    },
+    {
+        "title": "Loreal Paris Revitalift Lazer Saf Retinol Gece Serumu 30 ml",
+        "price": "699.50",
+        "page": 2
+    },
+    {
+        "title": "Garnier Hyaluronik Aloe Tazeleyici Kağıt Yüz Maskesi 32 gr",
+        "price": "69.50",
+        "page": 2
+    },
+    {
+        "title": "Garnier Niasinamid Detoks Etkili Ampul Kağıt Yüz Maskesi",
+        "price": "87.50",
+        "page": 2
+    },
+    {
+        "title": "Garnier C Vitamini Yorgunluk Karşıtı Ampul Kağıt Yüz Maskesi 15 gr",
+        "price": "87.50",
+        "page": 2
+    },
+    {
+        "title": "Garnier Hyaluronik Asit Sıkılaştırıcı Ampul Kağıt Yüz Maskesi",
+        "price": "87.50",
+        "page": 2
+    },
+    {
+        "title": "Janssen Cosmetics Detox Özellikli Ampul Yüz Serumu 2 ml",
+        "price": "69.00",
+        "page": 2
+    },
+    {
+        "title": "Bomb Cosmetics Strawberry & Cream Vücut Kremi 200 ml",
+        "price": "599.00",
+        "page": 2
+    },
+    {
+        "title": "Jeuvenile Hyalüronik Asit İçerikli Yüz Temizleme Jeli 150 ml",
+        "price": "269.50",
+        "page": 2
+    },
+    {
+        "title": "Jeuvenile Anti-Aging Krem 50 ml",
+        "price": "499.50",
+        "page": 2
+    },
+    {
+        "title": "Ziaja Acai Meyvesi Özlü Misel Yüz Temizleme Scrub Jel 200 ml",
+        "price": "200.00",
+        "page": 2
+    },
+    {
+        "title": "Ziaja Acai Meyvesi Özlü Express Yumuşatıcı ve Sıkılaştırıcı Yüz ve Boyun Serumu 50 ml",
+        "price": "360.00",
+        "page": 2
+    },
+    {
+        "title": "Jeuvenile Resveratrol Serum 30 ml",
+        "price": "369.50",
+        "page": 2
+    },
+    {
+        "title": "Facelab Retinol %0,2 in Squalene Regenerating Serum 30 ml",
+        "price": "269.50",
+        "page": 2
+    },
+    {
+        "title": "Juvenis Ayak Kremi 90 ml",
+        "price": "150.00",
+        "page": 2
+    },
+    {
+        "title": "Bee Beauty Güneş Sonrası Aloe Veralı Kağıt Maske 25 ml",
+        "price": "28.00",
+        "page": 2
+    },
+    {
+        "title": "Neutrogena Hızlı Emilen Ekspres Vücut Spreyi 200 ml",
+        "price": "206.00",
+        "page": 2
+    },
+    {
+        "title": "Jeuvenile Centella Serum 30 ml",
+        "price": "369.50",
+        "page": 2
+    },
+    {
+        "title": "Jeuvenile Vitamin B3 Niacinamide Cream 50 ml",
+        "price": "369.50",
+        "page": 2
+    },
+    {
+        "title": "Jeuvenile Glutatyon Serum 30 ml",
+        "price": "369.50",
+        "page": 2
+    },
+    {
+        "title": "Dermal Vitamin Kolajen Maskesi 23 gr",
+        "price": "58.00",
+        "page": 2
+    },
+    {
+        "title": "Tabanex Erkek Koku Önleyici Tabanlık",
+        "price": "150.00",
+        "page": 2
+    },
+    {
+        "title": "Loreal Paris Revitalift Lazer Saf Retinol Gece Serumu 30 ml",
+        "price": "699.50",
+        "page": 3
+    },
+    {
+        "title": "Garnier Hyaluronik Aloe Tazeleyici Kağıt Yüz Maskesi 32 gr",
+        "price": "69.50",
+        "page": 3
+    },
+    {
+        "title": "Garnier Niasinamid Detoks Etkili Ampul Kağıt Yüz Maskesi",
+        "price": "87.50",
+        "page": 3
+    },
+    {
+        "title": "Garnier C Vitamini Yorgunluk Karşıtı Ampul Kağıt Yüz Maskesi 15 gr",
+        "price": "87.50",
+        "page": 3
+    },
+    {
+        "title": "Garnier Hyaluronik Asit Sıkılaştırıcı Ampul Kağıt Yüz Maskesi",
+        "price": "87.50",
+        "page": 3
+    },
+    {
+        "title": "Janssen Cosmetics Detox Özellikli Ampul Yüz Serumu 2 ml",
+        "price": "69.00",
+        "page": 3
+    },
+    {
+        "title": "Bomb Cosmetics Strawberry & Cream Vücut Kremi 200 ml",
+        "price": "599.00",
+        "page": 3
+    },
+    {
+        "title": "Jeuvenile Hyalüronik Asit İçerikli Yüz Temizleme Jeli 150 ml",
+        "price": "269.50",
+        "page": 3
+    },
+    {
+        "title": "Jeuvenile Anti-Aging Krem 50 ml",
+        "price": "499.50",
+        "page": 3
+    },
+    {
+        "title": "Ziaja Acai Meyvesi Özlü Misel Yüz Temizleme Scrub Jel 200 ml",
+        "price": "200.00",
+        "page": 3
+    },
+    {
+        "title": "Ziaja Acai Meyvesi Özlü Express Yumuşatıcı ve Sıkılaştırıcı Yüz ve Boyun Serumu 50 ml",
+        "price": "360.00",
+        "page": 3
+    },
+    {
+        "title": "Jeuvenile Resveratrol Serum 30 ml",
+        "price": "369.50",
+        "page": 3
+    },
+    {
+        "title": "Facelab Retinol %0,2 in Squalene Regenerating Serum 30 ml",
+        "price": "269.50",
+        "page": 3
+    },
+    {
+        "title": "Juvenis Ayak Kremi 90 ml",
+        "price": "150.00",
+        "page": 3
+    },
+    {
+        "title": "Bee Beauty Güneş Sonrası Aloe Veralı Kağıt Maske 25 ml",
+        "price": "28.00",
+        "page": 3
+    },
+    {
+        "title": "Neutrogena Hızlı Emilen Ekspres Vücut Spreyi 200 ml",
+        "price": "206.00",
+        "page": 3
+    },
+    {
+        "title": "Jeuvenile Centella Serum 30 ml",
+        "price": "369.50",
+        "page": 3
+    },
+    {
+        "title": "Jeuvenile Vitamin B3 Niacinamide Cream 50 ml",
+        "price": "369.50",
+        "page": 3
+    },
+    {
+        "title": "Jeuvenile Glutatyon Serum 30 ml",
+        "price": "369.50",
+        "page": 3
+    },
+    {
+        "title": "Dermal Vitamin Kolajen Maskesi 23 gr",
+        "price": "58.00",
+        "page": 3
+    },
+    {
+        "title": "Tabanex Erkek Koku Önleyici Tabanlık",
+        "price": "150.00",
+        "page": 3
+    },
+    {
+        "title": "Life In Avokado Yağı 125 ml",
+        "price": "115.00",
+        "page": 4
+    },
+    {
+        "title": "Nascita Bronz Yan Ağız Cımbız 57",
+        "price": "91.50",
+        "page": 4
+    },
+    {
+        "title": "Bioten Hey Clay Arındırıcı Creamy Maske 2 x 8 ml",
+        "price": "152.50",
+        "page": 4
+    },
+    {
+        "title": "Roc Kırışıklık Karşıtı Canlandırıcı Göz Kremi 15 ml",
+        "price": "751.50",
+        "page": 4
+    },
+    {
+        "title": "Roc Çift Etkili Göz Makyaj Temizleyici 125 ml",
+        "price": "683.50",
+        "page": 4
+    },
+    {
+        "title": "Roc Canlandırıcı Tonik 200 ml",
+        "price": "661.50",
+        "page": 4
+    },
+    {
+        "title": "Roc Micellar Temizleme Suyu 400 ml",
+        "price": "679.50",
+        "page": 4
+    },
+    {
+        "title": "Dermokil Biocomplex Gece Kremi 50 ml",
+        "price": "339.50",
+        "page": 4
+    },
+    {
+        "title": "Janssen Cosmetics Karma Ciltler Toz Temizleyici 100 gr",
+        "price": "1089.00",
+        "page": 4
+    },
+    {
+        "title": "Janssen Cosmetics Çizgi Açıcı Ampul Yüz Serumu 2 ml",
+        "price": "69.00",
+        "page": 4
+    },
+    {
+        "title": "Balmy 3 Etkili Ayak Törpüsü",
+        "price": "152.50",
+        "page": 4
+    },
+    {
+        "title": "Balmy 2 Etkili Ayak Törpüsü",
+        "price": "136.00",
+        "page": 4
+    },
+    {
+        "title": "Bepanthol SensiDaily Vücut Kremi 200 ml",
+        "price": "399.50",
+        "page": 4
+    },
+    {
+        "title": "Ziaja Keçi Sütü Ultra Hafif Yüz ve Boyun Enzimatik Peelingi 75 ml",
+        "price": "223.50",
+        "page": 4
+    },
+    {
+        "title": "Ziaja Yasemin Yağı 50+ Kırışıklık Karşıtı Göz Kremi 15 ml",
+        "price": "406.00",
+        "page": 4
+    },
+    {
+        "title": "Ziaja Yasemin Yağı 50+ Kırışıklık Karşıtı Gündüz Kremi SPF6 50 ml",
+        "price": "406.00",
+        "page": 4
+    },
+    {
+        "title": "Ziaja Yasemin Yağı 50+ Kırışıklık Karşıtı Gece Kremi 50 ml",
+        "price": "406.00",
+        "page": 4
+    },
+    {
+        "title": "Ziaja Yasemin Yağı 50+ Kırışıklık Karşıtı Serum 30 ml",
+        "price": "406.00",
+        "page": 4
+    },
+    {
+        "title": "Ziaja Keçi Sütü El ve Tırnak Kremi 80 ml",
+        "price": "180.00",
+        "page": 4
+    },
+    {
+        "title": "Nascita Düz Ağızlı Nanoteknoloji Cımbız",
+        "price": "97.00",
+        "page": 4
+    },
+    {
+        "title": "Bee Beauty Organik Yüz Bakım Serumu 50 ml",
+        "price": "144.00",
+        "page": 4
+    }
+]

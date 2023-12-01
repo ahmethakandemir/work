@@ -1,0 +1,19 @@
+{
+    "Aile Adı": {
+        "aile_data": {},
+        "seriler": {
+            "Seri Adı": {
+                "seri_data": {},
+                "gruplar": {
+                    "Grup Adı": {
+                        "grup_data": {},
+                        "ürünler": [
+                            {},
+                            {}
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

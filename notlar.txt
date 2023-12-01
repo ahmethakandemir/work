@@ -1,0 +1,48 @@
+class icin . koy
+classin girilen metni icermesi yeterli tamamen esit olmak zorunda degil
+div.classname
+
+id bulmak icin #
+div#idname
+
+divin icinde h5 bulmak icin:
+ 
+bosluk birakinca children icinde arama yapar
+
+div > id > h5 bulmak icin
+div#idname h5
+
+direct child yani divin hemen icindeki labellari bulmak icin
+
+div.classname div > label
+// classinin adi classname olan divin icindeki divlerin hemen icindeki daha derinde olmayan labellari bulur
+
+birden fazla css selector ile arama yapmak icin , kullan
+div.classname div > label, div#idname h5
+
+: filtrelemeye yarar
+
+classname i bir seyi icerenleri cikarmak icin :not(input)
+
+kacinci elemani secmek istedigini soyluyorsan :nth-child(int n)
+
+attribute ile bulmak icin, 
+div[attributeadi='attributevalue'] //bosluk icermemesi gerekiyor, tamamini yazmak gerekiyor
+
+attributeu www.carcur ile baslayan elementleri verir // $ isareti de ayni seyin oyle bitenlerini bulmak icin
+// * koyarsana da icinde carcur gecmesi yeterli olur
+div[data-domain^='www.carcur']
+
+iki tane attribute ile filtrelemek icin de 
+div[data-domain^='www.carcur'][yeni kosul] // arada bosluk birakma
+
+
+
+
+
+
+
+
+
+
+
