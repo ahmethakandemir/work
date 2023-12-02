@@ -36,7 +36,7 @@ for aile_ismi_index in range(2): # range(len(aile_isimleri))
     soup = bs(driver.page_source, "lxml")
     aile_isimleri = soup.select("div.grid.grid-cols-2")    
     # jsonliste aile adını ekledik
-    # jsona kolay erismek icin aile adini yeni bir degiskene ata
+    
     if(aile_ismi_index == 0):
         aileadi = "Outdoor Luminaries"
     elif(aile_ismi_index == 1):
@@ -86,7 +86,7 @@ for aile_ismi_index in range(2): # range(len(aile_isimleri))
         if len(gruplar) < 2:
             myrange = len(gruplar) 
         
-        for grupindex in range(myrange): #range(len(gruplar))
+        for grupindex in range(len(gruplar)): #range(len(gruplar))
             WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR,"div.grid.grid-cols-2")))
             gruplar = soup3.select("div.grid.grid-cols-2")
             grup_adi = gruplar[grupindex].select_one("h5").text.strip()
@@ -97,11 +97,10 @@ for aile_ismi_index in range(2): # range(len(aile_isimleri))
             altgruplar = grup["alt gruplar"]
             serilink = driver.current_url
             gruplarclickable = driver.find_elements(By.CSS_SELECTOR,"div.grid.grid-cols-2 > .rounded")
-            for grupclickableindex in range(range): #range(len(gruplarclickable))
+            for grupclickableindex in range(len(gruplarclickable)): #range(len(gruplarclickable))
                 WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"div.grid.grid-cols-2 > .rounded")))
                 gruplarclickable = driver.find_elements(By.CSS_SELECTOR,"div.grid.grid-cols-2 > .rounded")
                 gruplarclickable[grupclickableindex].click()
-                #WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'div.multiselect__tags > div > span.multiselect__tag multiselect__tag-icon')))
                 soup4 = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
                 
                 altgrupadi = soup4.select_one("div.text-white > h1 > span").text.strip()
@@ -111,20 +110,17 @@ for aile_ismi_index in range(2): # range(len(aile_isimleri))
                 altgrupdata = altgruplar[altgrupadi]["alt grup data"]
                 altgruplar[altgrupadi]["modeller"] = {}
                 modeller = altgruplar[altgrupadi]["modeller"]
-                
 
-                
-                modelcogul = False
                 try:
-                    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR,'div.tabs__item_active')))
+                    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR,'div.tabs__item_active'))) ## cogulluk tekillik sorunu
                     soup4 = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
                     modelinadi = soup4.select_one("div.tabs__item_active").text.strip()
                 except:
                     modelinadi = "modelin adi yok"
-                    modelcogul = True
                 finally:
                     modeller[modelinadi] = {}
                     model = modeller[modelinadi]
+                    model["urunler"] = {}
                     model["model data"] = {}
                     modeldata = model["model data"]
                 
@@ -134,17 +130,15 @@ for aile_ismi_index in range(2): # range(len(aile_isimleri))
                 WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR,'section.scroll-mt-10 > div > div > div > p')))
                 generalinfos = []
 
-                #add a webdriver wait to get technical infos div
+                #get technical infos div
                 technicalinfos = []
-                #technicalinfosdiv = driver.find_element(By.CSS_SELECTOR,'div.mx-auto > div.w-full > div.mx-auto > div.max-w-60ch > div.contents').find_elements(By.TAG_NAME, 'p')
                 WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR,'div.mx-auto > div.w-full > div.mx-auto > div.max-w-60ch > div.contents')))
                 WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR,'div#technical-data div.contents span.contents > span')))
                 soup4 = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
                 infos = soup4.find_all('div', attrs={'class': 'max-w-60ch md:max-w-75ch'})
 
                 generalinfosdiv = infos[5].find_all('p') ## cozum duzeltilecek ##
-                
-                
+
                 technicalinfosdiv = soup4.select('div#technical-data div.contents span.contents')
                 
                 
@@ -203,7 +197,6 @@ for aile_ismi_index in range(2): # range(len(aile_isimleri))
                 
                 grupurl = driver.current_url
                 WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR,"div.pt-6 tbody.divide-y > tr")))
-                #urunlerdiv = driver.find_elements(By.CSS_SELECTOR,"div.pt-6 tbody.divide-y > tr")
                 linkuzantilari = []
                 cogul = False
                 counter = 0
@@ -219,8 +212,6 @@ for aile_ismi_index in range(2): # range(len(aile_isimleri))
                                 link2 = link2.replace(" ", "")
                                 
                                 linkuzantilari.append(link2)
-
-
 
                         elif len(anlik_sayfa) > 1:
                             cogul = True
@@ -246,13 +237,10 @@ for aile_ismi_index in range(2): # range(len(aile_isimleri))
                             print("urunun info pageine girilemedi")
                             tofile(jsonlist)
                             break
-                        
-                
-                # newdriver = webdriver.Chrome(options=options)
-                # newdriver.maximize_window()
+
                 degisken = '&'
-                model["urunler"] = {}
-                for index in range(len(linkuzantilari)):
+                
+                for index in range(1): # len(linkuzantilari)
                     urunlinki = urunlinkitemp
                     try:
                         urunlinki = urunlinki + f"{degisken}product={linkuzantilari[index]}&tab=info"
@@ -266,18 +254,22 @@ for aile_ismi_index in range(2): # range(len(aile_isimleri))
                         driver.get(urunlinki)
                         WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CSS_SELECTOR,"nav.mb-0"))) 
                     finally:
-                        # newdriver.get(urunlinki)
                         sleep(2)
                 
                     
                     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR,"span.font-semibold")))
-                    #uruntitle = driver.find_element(By.CSS_SELECTOR, "span.font-semibold").text.strip()
-                    
+               
                     model["urunler"][linkuzantilari[index]] = {}
                     urun = model["urunler"][linkuzantilari[index]]
+                    
+                    try:
+                        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR,"div.app-wrap div.h-full > picture > img")))
+                        urunfotosu = driver.find_element(By.CSS_SELECTOR, "div.app-wrap div.h-full > picture > img").get_attribute("data-src")
+                        urun["urun fotosu"] = urunfotosu
+                    except:
+                        print("urun fotosu alinamadi")
+                        urun["urun fotosu"] = "urun fotosu alinamadi"
 
-                    urunfotosu = driver.find_element(By.CSS_SELECTOR, "div.app-wrap div.h-full > picture > img").get_attribute("data-src")
-                    urun["urun fotosu"] = urunfotosu
 
                     alldivs = driver.find_elements(By.CSS_SELECTOR, "div.mb-4 div.pb-6")
                     for div in alldivs:
@@ -303,15 +295,12 @@ for aile_ismi_index in range(2): # range(len(aile_isimleri))
                             currenturl = driver.current_url
                             currenturl = currenturl.replace("info", "download")
                             driver.get(currenturl)
-                            #####
+
                             WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'div.mb-5 li.po__list')))
-                            #####
-                            
                             soup3 = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
                             alldivs = soup3.find('div', attrs={'class': 'mb-5'})
                             title2 = alldivs.find('h5').text.replace("\n","")
                             title2 = title2.strip()
-                            #jsonlist[kategoriler_list[i]][subbasliklar[k].text]["urun_grubu"][linkuzantilari[index]].update({title2: {}})
                             liobjects = alldivs.find_all('li', attrs={'class': 'po__list po__list-border'})
                             downlinklist = []
                             for li in liobjects:
@@ -325,8 +314,6 @@ for aile_ismi_index in range(2): # range(len(aile_isimleri))
                                         downlinklist.append(downlink)
                             except:
                                 pass
-                            
-                            #jsonlist[kategoriler_list[i]][subbasliklar[k].text]["urun_grubu"][linkuzantilari[index]][title2].update({"Download Links": downlinklist})
                             urun.update({"Download Links": downlinklist})
                             break
                         except Exception as e:
@@ -338,75 +325,37 @@ for aile_ismi_index in range(2): # range(len(aile_isimleri))
                             counter4 += 1
                     #### ACCESSORIES ####
                     
-                    while True:
-                        try:
-                            accessories = {}
-                            currenturl = driver.current_url
-                            currenturl = currenturl.replace("download", "supplements")
-                            driver.get(currenturl)
-                            WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'h5.mb-1')))
-                            soup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
-                            alldivs = soup.select('div.tab-content div.po__supplementary-group')
-                            for div in alldivs:
-                                accessoryname = div.select_one('h5.mb-1 > span').text.strip()
-                                accessories[accessoryname] = {}
-                                accessory = accessories[accessoryname]
-                                accessory["accessory link"] = div.select_one('a')['href']
-                                accessory["accessory image"] = div.select_one('a picture img')['src']
-                                
-                                downloads = []
-                                temp = div.select('div.po__list-item-content-download > a')
-                                for t in temp:
-                                    downloads.append(t['href'])
-                                    
-                                accessory["downloads"] = downloads
-                            break
-                        except:
-                            print("ZOOOOOOOOORRRTTTTTTTTTTTTTTT")
-                    urun["accessories"] = {}
-                    urun["accessories"] = accessories
-                
-                
-                # for urunindex in range(len(urunlerdiv)): #range(len(urunlerdiv)
-                #     urunlerdiv = driver.find_elements(By.CSS_SELECTOR,"div.pt-6 tbody.divide-y > tr")
-                #     urunlerdiv[urunindex].click()
+        
+                    try:
+                        accessories = {}
+                        currenturl = driver.current_url
+                        currenturl = currenturl.replace("download", "supplements")
+                        driver.get(currenturl)
+                        WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'h5.mb-1')))
+                        soup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
+                        alldivs = soup.select('div.tab-content div.po__supplementary-group')
+                        for div in alldivs:
+                            accessoryname = div.select_one('h5.mb-1 > span').text.strip()
+                            accessories[accessoryname] = {}
+                            accessory = accessories[accessoryname]
+                            accessory["accessory link"] = div.select_one('a')['href']
+                            accessory["accessory image"] = div.select_one('a picture img')['src']
                             
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    #driver go back to history [-1]
-                    #driver.back() 
-                    
-                    
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
+                            downloads = []
+                            temp = div.select('div.po__list-item-content-download > a')
+                            for t in temp:
+                                downloads.append(t['href'])
+                                
+                            accessory["downloads"] = downloads
+                            urun["accessories"] = {}
+                            urun["accessories"] = accessories
+                        
+                    except:
+                        print("urunun accessories pagei yok")
                 
                 driver.get(serilink)
-        
-        
         driver.get(mainurl)     
 
-        
-        
 tofile(jsonlist)
 pass
 driver.quit()
