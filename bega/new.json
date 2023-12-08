@@ -1,0 +1,32 @@
+{
+  "aile1": {
+    "ailedata": {},
+    "seriler": {
+      "seri1": {
+        "seridata": {},
+        "grup1": "value_for_grup1",
+        "grup2": "value_for_grup2"
+      },
+      "seri2": {
+        "seridata": {},
+        "grup1": "value_for_grup1",
+        "grup2": "value_for_grup2"
+      }
+    }
+  },
+  "aile2": {
+    "ailedata": {},
+    "seriler": {
+      "seri1": {
+        "seridata": {},
+        "grup1": "value_for_grup1",
+        "grup2": "value_for_grup2"
+      },
+      "seri2": {
+        "seridata": {},
+        "grup1": "value_for_grup1",
+        "grup2": "value_for_grup2"
+      }
+    }
+  }
+}

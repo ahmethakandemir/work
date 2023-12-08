@@ -1,0 +1,1291 @@
+{
+    "Outdoor Luminaries": {
+        "aile data": {},
+        "seriler": {
+            "Recessed wall luminaires": {
+                "seri data": "The light from recessed wall luminaires can vary enormously. Wide beam luminaires help you to find your way and tend to be smaller in size. Luminaires with directed light are used to illuminate pathways and areas both on the ground and on the ceiling. Since the luminaire body is fully installed within the wall, recessed wall luminaires pose no risk of accidents.",
+                "gruplar": {
+                    "Recessed wall luminaires with compact dimensions": {
+                        "grup data": {},
+                        "alt gruplar": {
+                            "Recessed wall luminaires": {
+                                "alt grup data": {
+                                    "alt grup url": "https://www.bega.com/en/products/outdoor-luminaires/recessed-wall-luminaires/",
+                                    "general info": [
+                                        "Compact recessed wall luminaires for operation on 24 V power supply units for a variety of applications – indoors and out.",
+                                        "Recessed luminaires for the illumination of corridors, pathways and staircases, and wherever dangerous areas have to be marked. Shallow installation depths and the BEGA mounting system ensure simple and economical installation in solid or hollow structures.",
+                                        "Three luminaire groups for the illumination of corridors, paths and staircases – both indoors and out.",
+                                        "The unshielded luminaires are suitable as location luminaires for higher ambient brightness."
+                                    ],
+                                    "image gallery": [
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/3ABSv76gj9lp1QL1nPZS45/862fdeee58fca8140edc4d5b0a7c7c28/Amazon_Spheres_08_22369.jpg?fit=fill&fm=avif&f=left&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/4nGkRMOyg17aokBtpGwt3x/54829b9f529bed5043a476d20a242daf/22109_08.anw.jpg?fit=fill&fm=avif&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/iv2La0DBUAtb3NRojqX7P/b1692597fb749c9066ab0652b394e01b/Amazon_Spheres_07_22369.jpg?fit=fill&fm=avif&f=right&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/5irvXAX1y3FUyC880ghyJl/8aac26dc3c44228a3132f3fb2400e7b1/22109_04.anw.jpg?fit=fill&fm=avif&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/5Nlgb5xY2bexj8hzIfEbY6/1f9aeab38a65ff74346edeb747080ce8/Privathaus_Essen_08_22109_Braun.jpg?fit=fill&fm=avif&f=bottom_left&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/2EDNM8I2dLRBhrlU9G8smd/b4ebcaede8ccd78e40563d887704e5e3/22101_01.anw.jpg?fit=fill&fm=avif&q=80"
+                                    ],
+                                    "alt-grup id": {}
+                                },
+                                "modeller": {
+                                    "modelin adi yok": {
+                                        "urunler": {
+                                            "22109K3": {
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/22109K3/current/images/high-resolution",
+                                                "General information": {
+                                                    "Colour": "graphite",
+                                                    "Material": "Cast aluminium",
+                                                    "Glass type": "Safety glass white",
+                                                    "Width": "80 mm",
+                                                    "Height": "80 mm",
+                                                    "Depth": "80 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.3 W",
+                                                    "Supply voltage": "24 V",
+                                                    "DC": "✓",
+                                                    "Safety class": "III",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "3000 K",
+                                                    "Luminaire luminous flux": "31 lm",
+                                                    "Colour rendering index": "90",
+                                                    "Light distribution": "unshielded",
+                                                    "BUG rating": "0-1-0",
+                                                    "CEN Flux Code": "12-37-67-50-100-12-37-67-50",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "71",
+                                                    "Installation depth": "90 mm"
+                                                },
+                                                "Safety": {
+                                                    "Protection class": "IP 65",
+                                                    "Impact resistance": "IK08",
+                                                    "Max. ambient temperature": "60 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/22109K3/current/documents/ies/default"
+                                                ],
+                                                "accessories": {
+                                                    "Mounting accessories": {
+                                                        "Installation housing 10415": {
+                                                            "accessory name": "Installation housing 10415",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10415&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10415/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/10415/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/10415/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "Plaster frame 10015": {
+                                                            "accessory name": "Plaster frame 10015",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10015&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10015/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/10015/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/10015/current/documents/manuals/en"
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Electrotechnical accessories": {
+                                                        "24 V DC power supply for LED luminaires 70564": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70564",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70564&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70564/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70564/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70564/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70465": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70465",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70465&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70465/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70465/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70465/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70565": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70565",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70565&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70565/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70565/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70565/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70566": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70566",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70566&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70566/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70566/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70566/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70567": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70567",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70567&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70567/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70567/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70567/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70169": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70169",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70169&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70169/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70169/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70169/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "": {
+                                                            "accessory name": "",
+                                                            "accessory link": "https://www.bega.com/en/products/outdoor-luminaires/recessed-wall-luminaires/recessed-wall-luminaires-24-v-dc-22109/?t=unshielded-light&product=22109K3&tab=project-list&product-finish=coating-graphite&colour-temperature=3000&title=24%20V%20DC%20power%20supply%20for%20LED%20luminaires&productToAdd=70114",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70114/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70114/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70114/current/documents/manuals/en"
+                                                            ]
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "22109K4": {
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/22109K4/current/images/high-resolution",
+                                                "General information": {
+                                                    "Colour": "graphite",
+                                                    "Material": "Cast aluminium",
+                                                    "Glass type": "Safety glass white",
+                                                    "Width": "80 mm",
+                                                    "Height": "80 mm",
+                                                    "Depth": "80 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.3 W",
+                                                    "Supply voltage": "24 V",
+                                                    "DC": "✓",
+                                                    "Safety class": "III",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "4000 K",
+                                                    "Luminaire luminous flux": "32 lm",
+                                                    "Colour rendering index": "90",
+                                                    "Light distribution": "unshielded",
+                                                    "BUG rating": "0-1-0",
+                                                    "CEN Flux Code": "12-37-67-50-100-12-37-67-50",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "71",
+                                                    "Installation depth": "90 mm"
+                                                },
+                                                "Safety": {
+                                                    "Protection class": "IP 65",
+                                                    "Impact resistance": "IK08",
+                                                    "Max. ambient temperature": "60 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/22109K4/current/documents/ies/default"
+                                                ],
+                                                "accessories": {
+                                                    "Mounting accessories": {
+                                                        "Installation housing 10415": {
+                                                            "accessory name": "Installation housing 10415",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10415&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10415/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/10415/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/10415/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "Plaster frame 10015": {
+                                                            "accessory name": "Plaster frame 10015",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10015&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10015/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/10015/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/10015/current/documents/manuals/en"
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Electrotechnical accessories": {
+                                                        "24 V DC power supply for LED luminaires 70564": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70564",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70564&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70564/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70564/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70564/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70465": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70465",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70465&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70465/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70465/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70465/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70565": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70565",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70565&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70565/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70565/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70565/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70566": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70566",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70566&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70566/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70566/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70566/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70567": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70567",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70567&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70567/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70567/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70567/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70169": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70169",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70169&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70169/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70169/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70169/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "": {
+                                                            "accessory name": "",
+                                                            "accessory link": "https://www.bega.com/en/products/outdoor-luminaires/recessed-wall-luminaires/recessed-wall-luminaires-24-v-dc-22109/?t=unshielded-light&product=22109K4&tab=project-list&product-finish=coating-graphite&colour-temperature=3000&title=24%20V%20DC%20power%20supply%20for%20LED%20luminaires&productToAdd=70114",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70114/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70114/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70114/current/documents/manuals/en"
+                                                            ]
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "model data": {
+                                            "technical info": [
+                                                "Protection class IP 65",
+                                                "Safety class III",
+                                                "Cast aluminium, aluminium and stainless steel",
+                                                "BEGA Unidure® coating technology",
+                                                "Safety glass",
+                                                "A separate 24 V DC power supply unit is required to operate the luminaires.",
+                                                "20-year availability guarantee for LED module"
+                                            ],
+                                            "technical images": [
+                                                "https://images.ctfassets.net/w2xcep4i3dcd/77LuAGM73JesXfqo6JJA7S/a363befec2f41047b3e9a01d187c35dc/22109_01.pr.jpg?fit=fill&fm=avif&w=300&h=300&q=80",
+                                                "https://images.ctfassets.net/w2xcep4i3dcd/3MWFYefyq2FribmPeGv5x7/73f9b7aceb892c0b508314e41423e3c4/22109.zkl.svg?fit=fill&w=300&h=300&f=center&q=80"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Luminaires for flush and surface-mounted installation": {
+                        "grup data": {},
+                        "alt gruplar": {
+                            "Recessed wall luminaires 24 V DC": {
+                                "alt grup data": {
+                                    "alt grup url": "https://www.bega.com/en/products/outdoor-luminaires/recessed-wall-luminaires/recessed-wall-luminaires-24-v-dc-22109/?t=shielded-light&product-finish=coating-graphite&colour-temperature=3000",
+                                    "general info": [
+                                        "Compact recessed wall luminaires for operation on 24 V power supply units for a variety of applications – indoors and out.",
+                                        "Recessed luminaires for the illumination of corridors, pathways and staircases, and wherever dangerous areas have to be marked. Shallow installation depths and the BEGA mounting system ensure simple and economical installation in solid or hollow structures.",
+                                        "Three luminaire groups for the illumination of corridors, paths and staircases – both indoors and out.",
+                                        "The unshielded luminaires are suitable as location luminaires for higher ambient brightness."
+                                    ],
+                                    "image gallery": [
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/3ABSv76gj9lp1QL1nPZS45/862fdeee58fca8140edc4d5b0a7c7c28/Amazon_Spheres_08_22369.jpg?fit=fill&fm=avif&f=left&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/4nGkRMOyg17aokBtpGwt3x/54829b9f529bed5043a476d20a242daf/22109_08.anw.jpg?fit=fill&fm=avif&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/iv2La0DBUAtb3NRojqX7P/b1692597fb749c9066ab0652b394e01b/Amazon_Spheres_07_22369.jpg?fit=fill&fm=avif&f=right&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/5irvXAX1y3FUyC880ghyJl/8aac26dc3c44228a3132f3fb2400e7b1/22109_04.anw.jpg?fit=fill&fm=avif&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/5Nlgb5xY2bexj8hzIfEbY6/1f9aeab38a65ff74346edeb747080ce8/Privathaus_Essen_08_22109_Braun.jpg?fit=fill&fm=avif&f=bottom_left&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/2EDNM8I2dLRBhrlU9G8smd/b4ebcaede8ccd78e40563d887704e5e3/22101_01.anw.jpg?fit=fill&fm=avif&q=80"
+                                    ],
+                                    "alt-grup id": {}
+                                },
+                                "modeller": {
+                                    "Shielded light": {
+                                        "urunler": {
+                                            "22101K3": {
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/22101K3/current/images/high-resolution",
+                                                "General information": {
+                                                    "Colour": "graphite",
+                                                    "Material": "Cast aluminium",
+                                                    "Glass type": "Safety glass, frosted",
+                                                    "Width": "80 mm",
+                                                    "Height": "80 mm",
+                                                    "Depth": "80 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.3 W",
+                                                    "Supply voltage": "24 V",
+                                                    "DC": "✓",
+                                                    "Safety class": "III",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "3000 K",
+                                                    "Luminaire luminous flux": "9 lm",
+                                                    "Colour rendering index": "90",
+                                                    "Light distribution": "asymmetrical",
+                                                    "BUG rating": "0-1-0",
+                                                    "CEN Flux Code": "14-50-85-100-100",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "71",
+                                                    "Installation depth": "90 mm"
+                                                },
+                                                "Safety": {
+                                                    "Protection class": "IP 65",
+                                                    "Impact resistance": "IK05",
+                                                    "Max. ambient temperature": "60 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/22101K3/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/22101K3/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/22101K3/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/22101K3/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/22101K3/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/22101K3/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/22101K3/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/22101K3/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/22101K3/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/22101K3/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/22101K3/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/22101K3/current/documents/ies/default"
+                                                ],
+                                                "accessories": {
+                                                    "Mounting accessories": {
+                                                        "Installation housing 10415": {
+                                                            "accessory name": "Installation housing 10415",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10415&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10415/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/10415/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/10415/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "Plaster frame 10015": {
+                                                            "accessory name": "Plaster frame 10015",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10015&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10015/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/10015/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/10015/current/documents/manuals/en"
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Electrotechnical accessories": {
+                                                        "24 V DC power supply for LED luminaires 70564": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70564",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70564&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70564/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70564/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70564/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70465": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70465",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70465&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70465/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70465/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70465/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70565": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70565",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70565&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70565/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70565/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70565/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70566": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70566",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70566&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70566/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70566/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70566/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70567": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70567",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70567&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70567/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70567/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70567/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70169": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70169",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70169&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70169/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70169/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70169/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "": {
+                                                            "accessory name": "",
+                                                            "accessory link": "https://www.bega.com/en/products/outdoor-luminaires/recessed-wall-luminaires/recessed-wall-luminaires-24-v-dc-22109/?t=shielded-light&product=22101K3&tab=project-list&product-finish=coating-graphite&colour-temperature=3000&title=24%20V%20DC%20power%20supply%20for%20LED%20luminaires&productToAdd=70114",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70114/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70114/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70114/current/documents/manuals/en"
+                                                            ]
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "22101K4": {
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/22101K4/current/images/high-resolution",
+                                                "General information": {
+                                                    "Colour": "graphite",
+                                                    "Material": "Cast aluminium",
+                                                    "Glass type": "Safety glass, frosted",
+                                                    "Width": "80 mm",
+                                                    "Height": "80 mm",
+                                                    "Depth": "80 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.3 W",
+                                                    "Supply voltage": "24 V",
+                                                    "DC": "✓",
+                                                    "Safety class": "III",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "4000 K",
+                                                    "Luminaire luminous flux": "9 lm",
+                                                    "Colour rendering index": "90",
+                                                    "Light distribution": "asymmetrical",
+                                                    "BUG rating": "0-1-0",
+                                                    "CEN Flux Code": "14-50-85-100-100",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "71",
+                                                    "Installation depth": "90 mm"
+                                                },
+                                                "Safety": {
+                                                    "Protection class": "IP 65",
+                                                    "Impact resistance": "IK05",
+                                                    "Max. ambient temperature": "60 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/22101K4/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/22101K4/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/22101K4/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/22101K4/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/22101K4/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/22101K4/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/22101K4/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/22101K4/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/22101K4/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/22101K4/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/22101K4/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/22101K4/current/documents/ies/default"
+                                                ],
+                                                "accessories": {
+                                                    "Mounting accessories": {
+                                                        "Installation housing 10415": {
+                                                            "accessory name": "Installation housing 10415",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10415&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10415/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/10415/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/10415/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "Plaster frame 10015": {
+                                                            "accessory name": "Plaster frame 10015",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10015&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10015/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/10015/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/10015/current/documents/manuals/en"
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Electrotechnical accessories": {
+                                                        "24 V DC power supply for LED luminaires 70564": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70564",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70564&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70564/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70564/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70564/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70465": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70465",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70465&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70465/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70465/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70465/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70565": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70565",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70565&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70565/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70565/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70565/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70566": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70566",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70566&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70566/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70566/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70566/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70567": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70567",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70567&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70567/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70567/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70567/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70169": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70169",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70169&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70169/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70169/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70169/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "": {
+                                                            "accessory name": "",
+                                                            "accessory link": "https://www.bega.com/en/products/outdoor-luminaires/recessed-wall-luminaires/recessed-wall-luminaires-24-v-dc-22109/?t=shielded-light&product=22101K4&tab=project-list&product-finish=coating-graphite&colour-temperature=3000&title=24%20V%20DC%20power%20supply%20for%20LED%20luminaires&productToAdd=70114",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70114/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70114/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70114/current/documents/manuals/en"
+                                                            ]
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "model data": {
+                                            "technical info": [
+                                                "Protection class IP 65",
+                                                "Safety class III",
+                                                "Cast aluminium, aluminium and stainless steel",
+                                                "BEGA Unidure® coating technology",
+                                                "Safety glass",
+                                                "A separate 24 V DC power supply unit is required to operate the luminaires.",
+                                                "20-year availability guarantee for LED module"
+                                            ],
+                                            "technical images": [
+                                                "https://images.ctfassets.net/w2xcep4i3dcd/77LuAGM73JesXfqo6JJA7S/a363befec2f41047b3e9a01d187c35dc/22109_01.pr.jpg?fit=fill&fm=avif&w=300&h=300&q=80",
+                                                "https://images.ctfassets.net/w2xcep4i3dcd/3MWFYefyq2FribmPeGv5x7/73f9b7aceb892c0b508314e41423e3c4/22109.zkl.svg?fit=fill&w=300&h=300&f=center&q=80"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Recessed luminaires made of stainless steel": {
+                        "grup data": {},
+                        "alt gruplar": {
+                            "Recessed wall luminaires 24 V DC": {
+                                "alt grup data": {
+                                    "alt grup url": "https://www.bega.com/en/products/outdoor-luminaires/recessed-wall-luminaires/recessed-wall-luminaires-24-v-dc-22109/?t=directed-light&product-finish=coating-graphite&colour-temperature=3000",
+                                    "general info": [
+                                        "Compact recessed wall luminaires for operation on 24 V power supply units for a variety of applications – indoors and out.",
+                                        "Recessed luminaires for the illumination of corridors, pathways and staircases, and wherever dangerous areas have to be marked. Shallow installation depths and the BEGA mounting system ensure simple and economical installation in solid or hollow structures.",
+                                        "Three luminaire groups for the illumination of corridors, paths and staircases – both indoors and out.",
+                                        "The unshielded luminaires are suitable as location luminaires for higher ambient brightness."
+                                    ],
+                                    "image gallery": [
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/3ABSv76gj9lp1QL1nPZS45/862fdeee58fca8140edc4d5b0a7c7c28/Amazon_Spheres_08_22369.jpg?fit=fill&fm=avif&f=left&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/4nGkRMOyg17aokBtpGwt3x/54829b9f529bed5043a476d20a242daf/22109_08.anw.jpg?fit=fill&fm=avif&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/iv2La0DBUAtb3NRojqX7P/b1692597fb749c9066ab0652b394e01b/Amazon_Spheres_07_22369.jpg?fit=fill&fm=avif&f=right&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/5irvXAX1y3FUyC880ghyJl/8aac26dc3c44228a3132f3fb2400e7b1/22109_04.anw.jpg?fit=fill&fm=avif&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/5Nlgb5xY2bexj8hzIfEbY6/1f9aeab38a65ff74346edeb747080ce8/Privathaus_Essen_08_22109_Braun.jpg?fit=fill&fm=avif&f=bottom_left&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/2EDNM8I2dLRBhrlU9G8smd/b4ebcaede8ccd78e40563d887704e5e3/22101_01.anw.jpg?fit=fill&fm=avif&q=80"
+                                    ],
+                                    "alt-grup id": {}
+                                },
+                                "modeller": {
+                                    "Directed light": {
+                                        "urunler": {
+                                            "22369K3": {
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/22369K3/current/images/high-resolution",
+                                                "General information": {
+                                                    "Colour": "graphite",
+                                                    "Material": "Cast aluminium",
+                                                    "Glass type": "Safety glass, frosted",
+                                                    "Width": "80 mm",
+                                                    "Height": "80 mm",
+                                                    "Depth": "100 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.7 W",
+                                                    "Supply voltage": "24 V",
+                                                    "DC": "✓",
+                                                    "Safety class": "III",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "3000 K",
+                                                    "Luminaire luminous flux": "97 lm",
+                                                    "Colour rendering index": "80",
+                                                    "Light distribution": "asymmetrical",
+                                                    "BUG rating": "0-1-0",
+                                                    "CEN Flux Code": "35-72-93-98-100-2-14-43-2",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "71",
+                                                    "Installation depth": "90 mm"
+                                                },
+                                                "Safety": {
+                                                    "Protection class": "IP 65",
+                                                    "Impact resistance": "IK08",
+                                                    "Max. ambient temperature": "55 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/22369K3/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/22369K3/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/22369K3/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/22369K3/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/22369K3/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/22369K3/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/22369K3/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/22369K3/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/22369K3/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/22369K3/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/22369K3/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/22369K3/current/documents/ies/default"
+                                                ],
+                                                "accessories": {
+                                                    "Mounting accessories": {
+                                                        "Installation housing 10415": {
+                                                            "accessory name": "Installation housing 10415",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10415&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10415/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/10415/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/10415/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "Plaster frame 10015": {
+                                                            "accessory name": "Plaster frame 10015",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10015&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10015/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/10015/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/10015/current/documents/manuals/en"
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Electrotechnical accessories": {
+                                                        "24 V DC power supply for LED luminaires 70564": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70564",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70564&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70564/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70564/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70564/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70465": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70465",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70465&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70465/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70465/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70465/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70565": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70565",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70565&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70565/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70565/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70565/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70566": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70566",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70566&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70566/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70566/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70566/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70567": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70567",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70567&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70567/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70567/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70567/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70169": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70169",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70169&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70169/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70169/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70169/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "": {
+                                                            "accessory name": "",
+                                                            "accessory link": "https://www.bega.com/en/products/outdoor-luminaires/recessed-wall-luminaires/recessed-wall-luminaires-24-v-dc-22109/?t=directed-light&product=22369K3&tab=project-list&product-finish=coating-graphite&colour-temperature=3000&title=24%20V%20DC%20power%20supply%20for%20LED%20luminaires&productToAdd=70114",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70114/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70114/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70114/current/documents/manuals/en"
+                                                            ]
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "22369K4": {
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/22369K4/current/images/high-resolution",
+                                                "General information": {
+                                                    "Colour": "graphite",
+                                                    "Material": "Cast aluminium",
+                                                    "Glass type": "Safety glass, frosted",
+                                                    "Width": "80 mm",
+                                                    "Height": "80 mm",
+                                                    "Depth": "100 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.7 W",
+                                                    "Supply voltage": "24 V",
+                                                    "DC": "✓",
+                                                    "Safety class": "III",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "4000 K",
+                                                    "Luminaire luminous flux": "99 lm",
+                                                    "Colour rendering index": "80",
+                                                    "Light distribution": "asymmetrical",
+                                                    "BUG rating": "0-1-0",
+                                                    "CEN Flux Code": "35-72-93-98-100-2-14-43-2",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "71",
+                                                    "Installation depth": "90 mm"
+                                                },
+                                                "Safety": {
+                                                    "Protection class": "IP 65",
+                                                    "Impact resistance": "IK08",
+                                                    "Max. ambient temperature": "55 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/22369K4/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/22369K4/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/22369K4/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/22369K4/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/22369K4/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/22369K4/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/22369K4/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/22369K4/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/22369K4/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/22369K4/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/22369K4/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/22369K4/current/documents/ies/default"
+                                                ],
+                                                "accessories": {
+                                                    "Mounting accessories": {
+                                                        "Installation housing 10415": {
+                                                            "accessory name": "Installation housing 10415",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10415&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10415/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/10415/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/10415/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "Plaster frame 10015": {
+                                                            "accessory name": "Plaster frame 10015",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/accessories-for-round-recessed-wall-luminaires-10415/?product=10015&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/10015/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/10015/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/10015/current/documents/manuals/en"
+                                                            ]
+                                                        }
+                                                    },
+                                                    "Electrotechnical accessories": {
+                                                        "24 V DC power supply for LED luminaires 70564": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70564",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70564&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70564/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70564/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70564/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70465": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70465",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70465&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70465/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70465/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70465/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70565": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70565",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70565&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=150,h=150,fit=contain,f=auto/https://cdn.bega.com/bega/products/70565/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70565/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70565/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70566": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70566",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70566&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70566/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70566/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70566/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70567": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70567",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70567&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70567/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70567/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70567/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "24 V DC power supply for LED luminaires 70169": {
+                                                            "accessory name": "24 V DC power supply for LED luminaires 70169",
+                                                            "accessory link": "https://www.bega.com/en/products/accessories/accessories-for-outdoor-luminaires/constant-voltage-power-supply-units-71134/?product=70169&tab=info",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70169/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70169/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70169/current/documents/manuals/en"
+                                                            ]
+                                                        },
+                                                        "": {
+                                                            "accessory name": "",
+                                                            "accessory link": "https://www.bega.com/en/products/outdoor-luminaires/recessed-wall-luminaires/recessed-wall-luminaires-24-v-dc-22109/?t=directed-light&product=22369K4&tab=project-list&product-finish=coating-graphite&colour-temperature=3000&title=24%20V%20DC%20power%20supply%20for%20LED%20luminaires&productToAdd=70114",
+                                                            "accessory image": "https://cdn.bega.com/cdn-cgi/image/w=50,h=50,fit=contain,f=auto/https://cdn.bega.com/bega/products/70114/current/images/high-resolution",
+                                                            "downloads": [
+                                                                "https://cdn.bega.com/bega/products/70114/current/documents/data-sheets/en",
+                                                                "https://cdn.bega.com/bega/products/70114/current/documents/manuals/en"
+                                                            ]
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "model data": {
+                                            "technical info": [
+                                                "Protection class IP 65",
+                                                "Safety class III",
+                                                "Cast aluminium, aluminium and stainless steel",
+                                                "BEGA Unidure® coating technology",
+                                                "Safety glass",
+                                                "A separate 24 V DC power supply unit is required to operate the luminaires.",
+                                                "20-year availability guarantee for LED module"
+                                            ],
+                                            "technical images": [
+                                                "https://images.ctfassets.net/w2xcep4i3dcd/77LuAGM73JesXfqo6JJA7S/a363befec2f41047b3e9a01d187c35dc/22109_01.pr.jpg?fit=fill&fm=avif&w=300&h=300&q=80",
+                                                "https://images.ctfassets.net/w2xcep4i3dcd/3MWFYefyq2FribmPeGv5x7/73f9b7aceb892c0b508314e41423e3c4/22109.zkl.svg?fit=fill&w=300&h=300&f=center&q=80"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Indoor Luminaries": {
+        "aile data": {},
+        "seriler": {
+            "Recessed wall luminaires": {
+                "seri data": "The light from recessed wall luminaires can vary enormously. Wide beam luminaires help you to find your way and tend to be smaller in size. Luminaires with directed light are used to illuminate pathways and areas both on the ground \nand on the ceiling. As an integral part of the architecture, all recessed wall luminaires provide structure and define the room. Since the body of the luminaire is fully installed within the wall, this luminaire causes no risk of accident.",
+                "gruplar": {
+                    "ACCENTA recessed wall luminaires": {
+                        "grup data": {},
+                        "alt gruplar": {
+                            "Recessed wall luminaires": {
+                                "alt grup data": {
+                                    "alt grup url": "https://www.bega.com/en/products/indoor-luminaires/recessed-wall-luminaires/accenta-recessed-wall-luminaires-50158/?product-finish=colour-white&colour-temperature=3000",
+                                    "general info": [
+                                        "A series of small and compact recessed wall luminaires with high-grade LED technology. Luminaires that can be quickly and easily installed in standard switch or cavity wall boxes with a diameter of 68 mm. They are luminaires with unshielded light for directing and guiding illumination.",
+                                        "Each luminaire comes with a matching cavity wall box."
+                                    ],
+                                    "image gallery": [
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/5oqcsfKZ44jnX9oes7PFwo/2950d7a626fd3afd3144f4100be079cc/50158_01.anw.jpg?fit=fill&fm=avif&q=80"
+                                    ],
+                                    "alt-grup id": {}
+                                },
+                                "modeller": {
+                                    "modelin adi yok": {
+                                        "urunler": {
+                                            "50158.1K3": {
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/50158.1K3/current/images/high-resolution",
+                                                "General information": {
+                                                    "Colour": "Colour white",
+                                                    "Material": "Die-cast zinc",
+                                                    "Glass type": "Safety glass white",
+                                                    "Width": "75 mm",
+                                                    "Height": "75 mm",
+                                                    "Depth": "65 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.1 W",
+                                                    "Supply voltage": "220-240 V",
+                                                    "AC/DC": "✓",
+                                                    "Mains frequency": "0/50-60 Hz",
+                                                    "Safety class": "I",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "3000 K",
+                                                    "Luminaire luminous flux": "52 lm",
+                                                    "Colour rendering index": "90",
+                                                    "Light distribution": "unshielded",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "68",
+                                                    "Installation depth": "65 mm"
+                                                },
+                                                "Safety": {
+                                                    "Max. ambient temperature": "45 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/50158.1K3/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/50158.1K3/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/50158.1K3/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/50158.1K3/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/50158.1K3/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/50158.1K3/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/50158.1K3/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/50158.1K3/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/50158.1K3/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/50158.1K3/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/50158.1K3/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/50158.1K3/current/documents/ies/default"
+                                                ]
+                                            },
+                                            "50158.2K3": {
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/50158.2K3/current/images/high-resolution",
+                                                "General information": {
+                                                    "Colour": "Stainless steel",
+                                                    "Material": "Die-cast zinc",
+                                                    "Glass type": "Safety glass white",
+                                                    "Width": "75 mm",
+                                                    "Height": "75 mm",
+                                                    "Depth": "65 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.1 W",
+                                                    "Supply voltage": "220-240 V",
+                                                    "AC/DC": "✓",
+                                                    "Mains frequency": "0/50-60 Hz",
+                                                    "Safety class": "I",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "3000 K",
+                                                    "Luminaire luminous flux": "52 lm",
+                                                    "Colour rendering index": "90",
+                                                    "Light distribution": "unshielded",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "68",
+                                                    "Installation depth": "65 mm"
+                                                },
+                                                "Safety": {
+                                                    "Max. ambient temperature": "45 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/50158.2K3/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/50158.2K3/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/50158.2K3/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/50158.2K3/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/50158.2K3/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/50158.2K3/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/50158.2K3/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/50158.2K3/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/50158.2K3/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/50158.2K3/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/50158.2K3/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/50158.2K3/current/documents/ies/default"
+                                                ]
+                                            }
+                                        },
+                                        "model data": {
+                                            "technical info": [
+                                                "Wall trim ring",
+                                                "Safety glass, inside white",
+                                                "On/off power supply units",
+                                                "Colour rendering index (CRI) > 90",
+                                                "20-year availability guarantee for LED module"
+                                            ],
+                                            "technical images": [
+                                                "https://images.ctfassets.net/w2xcep4i3dcd/6qSUdsfYphmpKVeUxKs1CO/3b2d85ad9ba451bbc72e3a2f4f3a8b88/50158_01.pr.jpg?fit=fill&fm=avif&w=300&h=300&q=80",
+                                                "https://images.ctfassets.net/w2xcep4i3dcd/5n42unoUzhkkXkExDaY3QE/ffff6728bdac2a9d11a0947265d9ce76/50158.zkl.svg?fit=fill&w=300&h=300&f=center&q=80"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Recessed ceiling and wall luminaires": {
+                        "grup data": {},
+                        "alt gruplar": {
+                            "ACCENTA recessed wall luminaires": {
+                                "alt grup data": {
+                                    "alt grup url": "https://www.bega.com/en/products/indoor-luminaires/recessed-wall-luminaires/accenta-recessed-wall-luminaires-50117/?t=unshielded-light&product-finish=colour-white&colour-temperature=3000",
+                                    "general info": [
+                                        "A series of small and compact recessed wall luminaires with high-grade LED technology.",
+                                        "Luminaires that can be quickly and easily installed in standard switch or cavity wall boxes with a diameter of 68 mm. Luminaires with unshielded light for directing and guiding illumination, or luminaires with shielded light for illuminating ground surfaces, e.g. for marking stairs and potential hazards.",
+                                        "Each luminaire comes with a matching cavity wall box."
+                                    ],
+                                    "image gallery": [
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/35oMDt81CdfGvVhicTaWAZ/f46f4bb28329974f0c49268aed07266c/Li50156_Bohmte_008.anw.jpg?fit=fill&fm=avif&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/3BsySJxWSzLWBXTzIfWar0/345162e00b31b1670553dfc7859faa69/Li50156_Bohmte_006.anw.jpg?fit=fill&fm=avif&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/10Y8ElyEMn3VyzD4mOeAOH/69e13c6d7aea43f1352c4732d7ab7ed4/Li50898_50156_Bohmte_001.anw.jpg?fit=fill&fm=avif&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/1whO3tmrIS5440dWc3G1ad/73f990d868861f687842a9fa58151eb4/50156_01.anw.jpg?fit=fill&fm=avif&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/55AhJ4MRxTfqbNRRj2upMG/25aeac021f3bb88836fdbebe6226502d/Li50156_Bohmte_003.anw.jpg?fit=fill&fm=avif&q=80",
+                                        "https://images.ctfassets.net/w2xcep4i3dcd/5xofgqa771C9Evvl0wDvhl/fd678bff52bfa85627d9f5d747442456/50117_01.anw.jpg?fit=fill&fm=avif&q=80"
+                                    ],
+                                    "alt-grup id": {}
+                                },
+                                "modeller": {
+                                    "Unshielded light": {
+                                        "urunler": {
+                                            "50117.1K3": {
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/50117.1K3/current/images/high-resolution",
+                                                "General information": {
+                                                    "Colour": "Colour white",
+                                                    "Material": "Die-cast zinc",
+                                                    "Glass type": "Safety glass white",
+                                                    "Width": "75 mm",
+                                                    "Height": "75 mm",
+                                                    "Depth": "65 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.1 W",
+                                                    "Supply voltage": "220-240 V",
+                                                    "AC/DC": "✓",
+                                                    "Mains frequency": "0/50-60 Hz",
+                                                    "Safety class": "I",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "3000 K",
+                                                    "Luminaire luminous flux": "42 lm",
+                                                    "Colour rendering index": "90",
+                                                    "Light distribution": "unshielded",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "68",
+                                                    "Installation depth": "65 mm"
+                                                },
+                                                "Safety": {
+                                                    "Max. ambient temperature": "45 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/50117.1K3/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/50117.1K3/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/50117.1K3/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/50117.1K3/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/50117.1K3/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/50117.1K3/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/50117.1K3/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/50117.1K3/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/50117.1K3/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/50117.1K3/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/50117.1K3/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/50117.1K3/current/documents/ies/default"
+                                                ]
+                                            },
+                                            "50117.2K3": {
+                                                "urun fotosu": "https://cdn.bega.com/cdn-cgi/image/w=1200,h=1200,fit=contain,f=auto/https://cdn.bega.com/bega/products/50117.2K3/current/images/high-resolution",
+                                                "General information": {
+                                                    "Colour": "Stainless steel",
+                                                    "Material": "Die-cast zinc",
+                                                    "Glass type": "Safety glass white",
+                                                    "Width": "75 mm",
+                                                    "Height": "75 mm",
+                                                    "Depth": "65 mm",
+                                                    "Weight": "0.25 kg"
+                                                },
+                                                "Electrical data": {
+                                                    "Type of lamp": "LED",
+                                                    "Connected wattage": "2.1 W",
+                                                    "Supply voltage": "220-240 V",
+                                                    "AC/DC": "✓",
+                                                    "Mains frequency": "0/50-60 Hz",
+                                                    "Safety class": "I",
+                                                    "Controllable": "on/off"
+                                                },
+                                                "Lighting technology": {
+                                                    "Colour temperature": "3000 K",
+                                                    "Luminaire luminous flux": "42 lm",
+                                                    "Colour rendering index": "90",
+                                                    "Light distribution": "unshielded",
+                                                    "Adjustability": "fixed"
+                                                },
+                                                "Installation": {
+                                                    "Recessed opening": "68",
+                                                    "Installation depth": "65 mm"
+                                                },
+                                                "Safety": {
+                                                    "Max. ambient temperature": "45 °C",
+                                                    "ENEC certification": "✓",
+                                                    "CE conformity": "✓"
+                                                },
+                                                "Download Links": [
+                                                    "https://cdn.bega.com/bega/products/50117.2K3/current/documents/data-sheets/en",
+                                                    "https://cdn.bega.com/bega/products/50117.2K3/current/documents/manuals/en",
+                                                    "https://cdn.bega.com/bega/products/50117.2K3/current/documents/quotation-texts/en",
+                                                    "https://cdn.bega.com/bega/products/50117.2K3/current/documents/quotation-texts-neutral/en",
+                                                    "https://cdn.bega.com/bega/products/50117.2K3/current/documents/d81",
+                                                    "https://cdn.bega.com/bega/products/50117.2K3/current/documents/x81",
+                                                    "https://cdn.bega.com/bega/products/50117.2K3/current/documents/dxf",
+                                                    "https://cdn.bega.com/bega/products/50117.2K3/current/documents/dwg",
+                                                    "https://cdn.bega.com/bega/products/50117.2K3/current/documents/rfa/en",
+                                                    "https://cdn.bega.com/bega/products/50117.2K3/current/documents/uld/default.uld",
+                                                    "https://cdn.bega.com/bega/products/50117.2K3/current/documents/eulumdat/default",
+                                                    "https://cdn.bega.com/bega/products/50117.2K3/current/documents/ies/default"
+                                                ]
+                                            }
+                                        },
+                                        "model data": {
+                                            "technical info": [
+                                                "Wall trim ring",
+                                                "Safety glass, inside white",
+                                                "On/off power supply units",
+                                                "Colour rendering index (CRI) > 90",
+                                                "20-year availability guarantee for LED module",
+                                                "Reflector surface made of pure aluminium\n"
+                                            ],
+                                            "technical images": [
+                                                "https://images.ctfassets.net/w2xcep4i3dcd/WEnDBwFeb0pbpHmG1i9U8/67538e2b8069a7caeb70893961bbf468/50117_01.pr.jpg?fit=fill&fm=avif&w=300&h=300&q=80",
+                                                "https://images.ctfassets.net/w2xcep4i3dcd/2ApGHg7WMaVzefkAUXwP8W/6bc43c7310dc560cc06a714f3744834d/50117.zkl.svg?fit=fill&w=300&h=300&f=center&q=80"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
