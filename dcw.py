@@ -16,14 +16,14 @@ mainurl = "https://dcw-editions.fr/en/collections"
 photoUrlBeginning = "https://dcw-editions.fr"
 #write a function to write the errors to the log.txt file we will append to it every error
 jsondata = {}
-
-log = open('log.txt','a')
+open('log.txt','w',).close()
+log = open('log.txt','a', encoding="utf-8")
 
 
 
 def tofile(jsondata):
-    with open('data.json', 'w') as outfile:
-        json.dump(jsondata, outfile, indent=2)
+    with open('data.json', 'w', encoding="utf-8") as outfile:
+        json.dump(jsondata, outfile, indent=2, ensure_ascii=False)
 
 
 driver.get(mainurl)
@@ -34,10 +34,11 @@ soup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'),
 familydivs = soup.select_one('div.thumbs-list')
 familydivs = familydivs.select('div.dcw-card')
 # limit familydivs to 2
-familydivs = familydivs[1:3]
- 
+familydivs = familydivs[0:3]
+id = 700000
 i = 0
 for familydiv in familydivs:
+    familyid = id + (i * 40)
     webdriverwait = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.dcw-card')))
     soup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
     
@@ -46,9 +47,10 @@ for familydiv in familydivs:
     family_img_mainpage = photoUrlBeginning + familydiv.select_one('img')['src']
     
     jsondata[family_name] = family = {}
-    family['aile_data'] = aile_data = {'family_name': family_name, 'collection_designer': family_designer, 'collection_image': family_img_mainpage}
+    family['aile_data'] = aile_data = {'family_id': 0,'family_name': family_name, 'family_designer': family_designer, 'family_image': family_img_mainpage}
     
     webdriverwait = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.dcw-card h1.collection')))
+    tempurl = driver.current_url
     counter = 0
     while counter < 5:    
         try:
@@ -59,13 +61,11 @@ for familydiv in familydivs:
             innersoup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
             
             family_img_inner = photoUrlBeginning + innersoup.select_one('div.collection div.wrapper div.image img')['src']
-            family_info_text = innersoup.select_one('div.collection div.wrapper div.text div.titre').text.strip() + '--' + innersoup.select_one('div.collection div.wrapper div.text div.texte').text.strip()
-            family_info_text = family_info_text.split('\n','--')
-            family_info_text = list(filter(None, family_info_text))
-            aile_data['inner_collection_image'] = family_img_inner
-            aile_data['collection_info'] = family_info_text
+            family_info_text = innersoup.select_one('div.collection div.wrapper div.text div.titre').text.strip().replace('\n','. ') + innersoup.select_one('div.collection div.wrapper div.text div.texte').text.strip().replace('\n',' ')
+            aile_data['family_info'] = family_info_text
             break
         except:
+            driver.get(tempurl)
             counter += 1
             if counter == 5:
                 log.write(family_name + ' --> ' + 'ERROR' + '\n')
@@ -73,22 +73,51 @@ for familydiv in familydivs:
             pass
     
     aileurl = driver.current_url
-    aile_data['aile_url'] = aileurl
+    aile_data['family_id'] = familyid
+    aile_data['family_link'] = aileurl
+    
+    seriid = str(familyid) + '-1'
+    
+    family["seriler"] = seriler = {}
+    seriler[family_name] = seri = {}
+    seri["seri_data"] = seri_data = {}
+    seri_data['seri_id'] = seriid
+    seri_data['seri_name'] = family_name
+    seri_data['seri_img'] = family_img_inner
+    seri_data['seri_link'] = aileurl
+    
+    seri["gruplar"] = gruplar = {}
+    
+    
     products = driver.find_elements(By.CSS_SELECTOR, 'div.thumbs-list div.dcw-card')
     
     g = 0
     for product in products:
+        productdict = {}
         counter = 0
         while counter < 5:
             try:
                 WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.thumbs-list div.dcw-card div.title')))
                 soup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
-                product_name = soup.select('div.title')[g].text.strip()
-                product_img = soup.select('img')[g]['src']
+                product_name = soup.select('div.thumbs-list div.title')[g].text.strip()
+                product_img = soup.select('div.thumbs-list img')[g]['src']
                 if product_img[0] == '/':
                     product_img = photoUrlBeginning + product_img
                 
-                element = driver.find_elements(By.CSS_SELECTOR, 'div.title')[g]
+                element = driver.find_elements(By.CSS_SELECTOR, 'div.thumbs-list div.title')[g]
+                
+                gruplar[product_name] = grup = {}
+                grup['grup_data'] = grup_data = {}
+                
+                grupid = seriid + '-' + chr(g + 65)
+                grup_data['grup_id'] = grupid
+                
+                grup_data['grup_name'] = product_name
+                grup_data['grup_img'] = product_img
+                grup_data['grup_link'] = ''
+                grup['ürünler'] = urunler = []
+                
+                
                 driver.execute_script("arguments[0].click();", element)# click on the family
                 # print(product_name , " --> ", product_img)
                 break
@@ -97,32 +126,78 @@ for familydiv in familydivs:
                 counter += 1
                 if(counter == 5):
                     log.write(family_name + ' --> ' + product_name + ' --> ' + 'ERROR' + '\n')
-
                 pass
         counter = 0
         while counter < 5:
-            try:   
+            try:
+                grup_data['grup_link'] = driver.current_url
                 WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'img')))
                 soup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
                 product_images = soup.select('div.swiper-slide:not(.swiper-slide-duplicate)')
                 images = []
-                for index in range(len(product_images)):
-                    images.append(photoUrlBeginning + product_images[index].select_one('img')['src'])
+                video_link = []
+                for index in product_images:
+                    try:
+                        try:
+                            images.append(photoUrlBeginning + index.select_one('img')['src'])
+                        except:
+                            images.append(photoUrlBeginning + index.select_one('img')['data-src'])
+                    except:
+                        video_link.append(index.select_one('iframe')['src'])
+                
+                productdict['product_name'] = product_name
+                productdict['product_id'] = grup_data['grup_id'] + '-1'
+                productdict['product_img'] = product_img
+                productdict['images'] = images
+                if len(video_link) > 0:
+                    productdict['video_link'] = str(video_link[0])
+                
+                # print('------------------')
                 break
             
             except Exception as e:
                 counter += 1
                 if(counter == 5):
                     print(e)
-                    print('error in images')
-                    print(f"aile: {i},grup: {g}")
-                    log.write(family_name + ' --> ' + product_name + ' --> ' + 'ERROR' + '\n')
+                    errorlocation = f"error in images of aile: {i},grup: {g}"
+                    log.write(errorlocation + '\n')
 
                 pass
         
+        description = soup.select_one('div.container div.infos div.usages > div.content').text.strip().replace('\n',' ')
+        
+        tech_infosdiv = soup.select('div.container div.infos div.technical-infos > div.content > div.technical-infos-bloc')
+        tech_infoslist = {}
+        
+        for index in tech_infosdiv:
+            tech_infoslist[index.select_one('div.technical-infos-titre').text.strip()] = index.select_one('div.technical-infos-content').text.strip().replace('\n',' ')
+            try:
+                tech_infoslist['ip_class_img'] = photoUrlBeginning + index.select_one('div.technical-infos-content > img')['src']
+            except:
+                pass
+        downloadsdivs = soup.select('div.container div.infos div.downloads > div.content > div.document > a')
+        downloads = {}
+        
+        for index in downloadsdivs:
+            downloads[index.text.strip()] = photoUrlBeginning + index['href']
+            
+        
+        tech_schema = photoUrlBeginning + soup.select_one('div.container div.infos div.technical-schema > div.content > img')['src']
+        
+        productdict['description'] = description
+        productdict['tech_infos'] = tech_infoslist
+        productdict['downloads'] = downloads
+        productdict['tech_schema'] = tech_schema
         
         
-        print(len(images))
+        
+        
+        
+        
+        
+        urunler.append(productdict)
+        
+        # print(len(images))
         
         
         
@@ -141,7 +216,8 @@ for familydiv in familydivs:
     i += 1
     driver.get(mainurl)
 
+driver.quit()
+
 tofile(jsondata)
 log.close()
-    
     

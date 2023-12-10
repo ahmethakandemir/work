@@ -1,18 +1,369 @@
 {
+  "Collection Cauvet": {
+    "aile_data": {
+      "family_id": 700000,
+      "family_name": "Collection Cauvet",
+      "family_designer": "Clément Cauvet",
+      "family_image": "https://dcw-editions.fr/storage/img/collections/41/dcw-editions-collection-collection-cauvet-cijsvmy9.jpg",
+      "family_info": "A timeless dialogueIota Tau Pi, three lamps that borrow their names and shapes from the Greek alphabet. A return to the essentials of language, a timeless dialogue. The object is on the border between a sculpture and an architectural building, it is functional through its light.",
+      "family_link": "https://dcw-editions.fr/en/collection/41/collection-cauvet"
+    },
+    "seriler": {
+      "Collection Cauvet": {
+        "seri_data": {
+          "seri_id": "700000-1",
+          "seri_name": "Collection Cauvet",
+          "seri_img": "https://dcw-editions.fr/storage/img/collections/41/presentation/dcw-editions-collection-presentation-collection-cauvet-tgf971c0/dcw-editions-collection-presentation-collection-cauvet-tgf971c0-s.jpg",
+          "seri_link": "https://dcw-editions.fr/en/collection/41/collection-cauvet"
+        },
+        "gruplar": {
+          "Iota": {
+            "grup_data": {
+              "grup_id": "700000-1-A",
+              "grup_name": "Iota",
+              "grup_img": "https://dcw-editions.fr/storage/img/modeles/261/dcw-editions-collection-cauvet-iota-thumb-kc4rc7s3.jpg",
+              "grup_link": "https://dcw-editions.fr/en/modele/261/iota"
+            },
+            "ürünler": [
+              {
+                "product_name": "Iota",
+                "product_id": "700000-1-A-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/261/dcw-editions-collection-cauvet-iota-thumb-kc4rc7s3.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-jsbf0jer/dcw-editions-collection-cauvet-modele-iota-photos-jsbf0jer-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-nlasbtw5/dcw-editions-collection-cauvet-modele-iota-photos-nlasbtw5-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-4n1hqxmk/dcw-editions-collection-cauvet-modele-iota-photos-4n1hqxmk-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-ucqp3ieu/dcw-editions-collection-cauvet-modele-iota-photos-ucqp3ieu-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-t78v0ibi/dcw-editions-collection-cauvet-modele-iota-photos-t78v0ibi-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-i5hyyqsj/dcw-editions-collection-cauvet-modele-iota-photos-i5hyyqsj-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-abwsrqp8/dcw-editions-collection-cauvet-modele-iota-photos-abwsrqp8-s.jpg"
+                ],
+                "description": "IOTA borrows its name and shape from the Greek alphabet. A return to the essentials of language, a timeless dialogue. On a table, a console, a desk, the finesse of the object is revealed when the light caresses this radicalness.  Available from September 2023",
+                "tech_infos": {
+                  "Dimensions": "434 x 238 x 203 mm",
+                  "Materials": "Concrete, steel",
+                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (76.16 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1013",
+                  "Technical sheets (93.71 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1014",
+                  "3D & 2D files (131.57 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1015",
+                  "Technical drawings (46.42 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1016"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/261/documents/dcw-editions-modele-iota-document-schema-technique-cl3d0hr2.png"
+              }
+            ]
+          },
+          "Tau": {
+            "grup_data": {
+              "grup_id": "700000-1-B",
+              "grup_name": "Tau",
+              "grup_img": "https://dcw-editions.fr/storage/img/modeles/262/dcw-editions-collection-cauvet-tau-thumb-ptteyig4.jpg",
+              "grup_link": "https://dcw-editions.fr/en/modele/262/tau"
+            },
+            "ürünler": [
+              {
+                "product_name": "Tau",
+                "product_id": "700000-1-B-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/262/dcw-editions-collection-cauvet-tau-thumb-ptteyig4.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/262/galerie/dcw-editions-collection-cauvet-modele-tau-photos-vgutbn17/dcw-editions-collection-cauvet-modele-tau-photos-vgutbn17-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/262/galerie/dcw-editions-collection-cauvet-modele-tau-photos-0fhtua4w/dcw-editions-collection-cauvet-modele-tau-photos-0fhtua4w-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/262/galerie/dcw-editions-collection-cauvet-modele-tau-photos-yqjpn2qd/dcw-editions-collection-cauvet-modele-tau-photos-yqjpn2qd-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/262/galerie/dcw-editions-collection-cauvet-modele-tau-photos-b7prilbp/dcw-editions-collection-cauvet-modele-tau-photos-b7prilbp-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/262/galerie/dcw-editions-collection-cauvet-modele-tau-photos-mh7mih62/dcw-editions-collection-cauvet-modele-tau-photos-mh7mih62-s.jpg"
+                ],
+                "description": "The object is on the border between a sculpture and an architectural building, it is functional through its light. Its light spreads downwards.  Available from September 2023",
+                "tech_infos": {
+                  "Dimensions": "458 x 400 x 170 mm",
+                  "Materials": "Concrete, steel",
+                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Technical sheets (107.85 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1017",
+                  "3D & 2D files (58.35 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1018",
+                  "Technical drawings (92.13 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1019"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/262/documents/dcw-editions-modele-tau-document-schema-technique-hxqhf8a4.png"
+              }
+            ]
+          },
+          "Pi": {
+            "grup_data": {
+              "grup_id": "700000-1-C",
+              "grup_name": "Pi",
+              "grup_img": "https://dcw-editions.fr/storage/img/modeles/260/dcw-editions-collection-cauvet-pi-thumb-qmhybq4b.jpg",
+              "grup_link": "https://dcw-editions.fr/en/modele/260/pi"
+            },
+            "ürünler": [
+              {
+                "product_name": "Pi",
+                "product_id": "700000-1-C-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/260/dcw-editions-collection-cauvet-pi-thumb-qmhybq4b.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/260/galerie/dcw-editions-collection-cauvet-modele-pi-photos-0livw2ed/dcw-editions-collection-cauvet-modele-pi-photos-0livw2ed-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/260/galerie/dcw-editions-collection-cauvet-modele-pi-photos-v7iph5ec/dcw-editions-collection-cauvet-modele-pi-photos-v7iph5ec-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/260/galerie/dcw-editions-collection-cauvet-modele-pi-photos-6g7runrp/dcw-editions-collection-cauvet-modele-pi-photos-6g7runrp-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/260/galerie/dcw-editions-collection-cauvet-modele-pi-photos-els19uas/dcw-editions-collection-cauvet-modele-pi-photos-els19uas-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/260/galerie/dcw-editions-collection-cauvet-modele-pi-photos-nlcffefa/dcw-editions-collection-cauvet-modele-pi-photos-nlcffefa-s.jpg"
+                ],
+                "description": "The object is on the border between a sculpture and an architectural building, it is functional through its light. The light source shines backwards, so PI is installed next to a wall, which it will illuminate to give a pleasant light.  Available from September 2023",
+                "tech_infos": {
+                  "Dimensions": "453 x 443 x 155 mm",
+                  "Materials": "Concrete, steel",
+                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Technical sheets (89.66 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1009",
+                  "Installation guidelines (76.05 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1010",
+                  "3D & 2D files (76.75 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1011",
+                  "Technical drawings (63.28 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1012"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/260/documents/dcw-editions-modele-pi-document-schema-technique-caurvfwm.png"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
   "Light Me Tender": {
     "aile_data": {
+      "family_id": 700040,
       "family_name": "Light Me Tender",
-      "collection_designer": "Patrick Jouin",
-      "collection_image": "https://dcw-editions.fr/storage/img/collections/42/dcw-editions-collection-light-me-tender-jduybyac.jpg",
-      "aile_url": "https://dcw-editions.fr/en/modele/261/iota"
+      "family_designer": "Patrick Jouin",
+      "family_image": "https://dcw-editions.fr/storage/img/collections/42/dcw-editions-collection-light-me-tender-jduybyac.jpg",
+      "family_info": "A soft light that reveals us in the mirrorLIGHT ME TENDER allows you to modulate  the light and the material. We wanted to work on the bathroom space, specific to the time of morning or evening. An elegant light for an object that plays with intimacy. Inspired by the shades of dawn or dusk, LIGHT ME TENDER is a soft light that reveals us in the mirror. To be tender is to be enlightened. To accept oneself is to modulate the light. The design is very simple, like a single cloud standing out against a blue sky.  Initially designed for the bathroom, LIGHT ME TENDER can also be used in a hallway or entrance.",
+      "family_link": "https://dcw-editions.fr/en/collection/42/light-me-tender"
+    },
+    "seriler": {
+      "Light Me Tender": {
+        "seri_data": {
+          "seri_id": "700040-1",
+          "seri_name": "Light Me Tender",
+          "seri_img": "https://dcw-editions.fr/storage/img/collections/42/presentation/dcw-editions-collection-presentation-light-me-tender-jejyck5m/dcw-editions-collection-presentation-light-me-tender-jejyck5m-s.jpg",
+          "seri_link": "https://dcw-editions.fr/en/collection/42/light-me-tender"
+        },
+        "gruplar": {
+          "Light Me Tender Horizontal": {
+            "grup_data": {
+              "grup_id": "700040-1-A",
+              "grup_name": "Light Me Tender Horizontal",
+              "grup_img": "https://dcw-editions.fr/storage/img/modeles/263/dcw-editions-light-me-tender-light-me-tender-horizontal-thumb-ys7lin5a.jpg",
+              "grup_link": "https://dcw-editions.fr/en/modele/263/light-me-tender-horizontal"
+            },
+            "ürünler": [
+              {
+                "product_name": "Light Me Tender Horizontal",
+                "product_id": "700040-1-A-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/263/dcw-editions-light-me-tender-light-me-tender-horizontal-thumb-ys7lin5a.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/263/galerie/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-lyinrdgm/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-lyinrdgm-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/263/galerie/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-jhu7tdvp/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-jhu7tdvp-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/263/galerie/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-hn3eddba/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-hn3eddba-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/263/galerie/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-hbrc57vd/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-hbrc57vd-s.jpg"
+                ],
+                "description": "We wanted to work on the bathroom space, specific to the time of morning or evening. An elegant light for an object that plays with intimacy. The design is very simple, like a single cloud standing out against a blue sky. Initially designed for the bathroom, LIGHT ME TENDER can also be used in a hallway or entrance.  Available from September 2023",
+                "tech_infos": {
+                  "Dimensions": "300 x 250 x 76 mm",
+                  "Materials": "Glass, aluminum",
+                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP44.svg"
+                },
+                "downloads": {
+                  "Technical sheets (70.32 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1020",
+                  "Technical drawings (72.11 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1021",
+                  "3D & 2D files (1.73 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1022"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/263/documents/dcw-editions-modele-light-me-tender-horizontal-document-schema-technique-0tetfksb.png"
+              }
+            ]
+          },
+          "Light Me Tender Vertical": {
+            "grup_data": {
+              "grup_id": "700040-1-B",
+              "grup_name": "Light Me Tender Vertical",
+              "grup_img": "https://dcw-editions.fr/storage/img/modeles/264/dcw-editions-light-me-tender-light-me-tender-vertical-thumb-fbuxjj37.jpg",
+              "grup_link": "https://dcw-editions.fr/en/modele/264/light-me-tender-vertical"
+            },
+            "ürünler": [
+              {
+                "product_name": "Light Me Tender Vertical",
+                "product_id": "700040-1-B-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/264/dcw-editions-light-me-tender-light-me-tender-vertical-thumb-fbuxjj37.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/264/galerie/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-jvamfujq/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-jvamfujq-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/264/galerie/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-q4t3yf4q/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-q4t3yf4q-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/264/galerie/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-t4cvdafm/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-t4cvdafm-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/264/galerie/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-5t3didtb/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-5t3didtb-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/264/galerie/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-ebgflyfu/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-ebgflyfu-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/264/galerie/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-lq4sksix/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-lq4sksix-s.jpg"
+                ],
+                "description": "We wanted to work on the bathroom space, specific to the time of morning or evening. An elegant light for an object that plays with intimacy. The design is very simple, like a single cloud standing out against a blue sky. Initially designed for the bathroom, LIGHT ME TENDER can also be used in a hallway or entrance.  Available from September 2023",
+                "tech_infos": {
+                  "Dimensions": "320 x 230 x 76 mm",
+                  "Materials": "Glass, aluminum",
+                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP44.svg"
+                },
+                "downloads": {
+                  "Technical sheets (78.78 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1023",
+                  "Technical drawings (92.71 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1024"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/264/documents/dcw-editions-modele-light-me-tender-vertical-document-schema-technique-6gkrhqve.png"
+              }
+            ]
+          }
+        }
+      }
     }
   },
   "SOUL Outdoor": {
     "aile_data": {
+      "family_id": 700080,
       "family_name": "SOUL Outdoor",
-      "collection_designer": "Charles Kalpakian",
-      "collection_image": "https://dcw-editions.fr/storage/img/collections/43/dcw-editions-collection-soul-outdoor-ntuacv65.jpg",
-      "aile_url": "https://dcw-editions.fr/en/modele/264/light-me-tender-vertical"
+      "family_designer": "Charles Kalpakian",
+      "family_image": "https://dcw-editions.fr/storage/img/collections/43/dcw-editions-collection-soul-outdoor-ntuacv65.jpg",
+      "family_info": "Outer WorldsLaunched in 2022, the SOUL collection is now available in an outdoor version. The Story 1, 2 and 3 have been developed in white concrete, IP64 rated.",
+      "family_link": "https://dcw-editions.fr/en/collection/43/soul-outdoor"
+    },
+    "seriler": {
+      "SOUL Outdoor": {
+        "seri_data": {
+          "seri_id": "700080-1",
+          "seri_name": "SOUL Outdoor",
+          "seri_img": "https://dcw-editions.fr/storage/img/collections/43/presentation/dcw-editions-collection-presentation-soul-outdoor-uhyfb0w1/dcw-editions-collection-presentation-soul-outdoor-uhyfb0w1-s.jpg",
+          "seri_link": "https://dcw-editions.fr/en/collection/43/soul-outdoor"
+        },
+        "gruplar": {
+          "Soul Story 1 - Outdoor": {
+            "grup_data": {
+              "grup_id": "700080-1-A",
+              "grup_name": "Soul Story 1 - Outdoor",
+              "grup_img": "https://dcw-editions.fr/storage/img/modeles/266/dcw-editions-soul-outdoor-soul-story-1-outdoor-thumb-43ant2cj.jpg",
+              "grup_link": "https://dcw-editions.fr/en/modele/266/soul-story-1-outdoor"
+            },
+            "ürünler": [
+              {
+                "product_name": "Soul Story 1 - Outdoor",
+                "product_id": "700080-1-A-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/266/dcw-editions-soul-outdoor-soul-story-1-outdoor-thumb-43ant2cj.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-feff16qi/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-feff16qi-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-k5b3mby7/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-k5b3mby7-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-ylsmkgmk/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-ylsmkgmk-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-fflghpt1/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-fflghpt1-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-mw5nfumi/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-mw5nfumi-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-xbirxrnl/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-xbirxrnl-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-xax6heis/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-xax6heis-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-ts6fweli/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-ts6fweli-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-sxfvxnph/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-sxfvxnph-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-6qcpceb5/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-6qcpceb5-s.jpg"
+                ],
+                "description": "Launched in 2022, the SOUL collection is now available in an outdoor version. The Story 1, 2 and 3 have been developed in white concrete, IP64 rated.",
+                "tech_infos": {
+                  "Dimensions": "Height : 287 mm Width : 187 mm Depth : 165 mm",
+                  "Materials": "Concrete",
+                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP64.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (556.77 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1030",
+                  "3D & 2D files (891.13 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1031",
+                  "Technical drawings (69.88 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1032",
+                  "Technical sheets (427.26 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1069"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/266/documents/dcw-editions-modele-soul-story-1-outdoor-document-schema-technique-hxve56xl.png"
+              }
+            ]
+          },
+          "Soul Story 2 - Outdoor": {
+            "grup_data": {
+              "grup_id": "700080-1-B",
+              "grup_name": "Soul Story 2 - Outdoor",
+              "grup_img": "https://dcw-editions.fr/storage/img/modeles/267/dcw-editions-soul-outdoor-soul-story-2-outdoor-thumb-nqg2t0yu.jpg",
+              "grup_link": "https://dcw-editions.fr/en/modele/267/soul-story-2-outdoor"
+            },
+            "ürünler": [
+              {
+                "product_name": "Soul Story 2 - Outdoor",
+                "product_id": "700080-1-B-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/267/dcw-editions-soul-outdoor-soul-story-2-outdoor-thumb-nqg2t0yu.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-uxcrwp5j/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-uxcrwp5j-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-35weghfc/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-35weghfc-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-a0vc8xse/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-a0vc8xse-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-jxwetm8a/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-jxwetm8a-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-4duqg57i/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-4duqg57i-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-enkpd4fe/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-enkpd4fe-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-eehvk3uw/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-eehvk3uw-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-ga461frw/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-ga461frw-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-xkkvqsk5/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-xkkvqsk5-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-yqaedvfe/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-yqaedvfe-s.jpg"
+                ],
+                "description": "Launched in 2022, the SOUL collection is now available in an outdoor version. The Story 1, 2 and 3 have been developed in white concrete, IP64 rated.",
+                "tech_infos": {
+                  "Dimensions": "Height : 297 mm Width : 205 mm Depth : 137 mm",
+                  "Materials": "Concrete",
+                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP64.svg"
+                },
+                "downloads": {
+                  "3D & 2D files (467.13 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1034",
+                  "Installation guidelines (556.77 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1035",
+                  "Technical drawings (71.64 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1036",
+                  "Technical sheets (424.32 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1070"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/267/documents/dcw-editions-modele-soul-story-2-outdoor-document-schema-technique-aanhhyjb.png"
+              }
+            ]
+          },
+          "Soul Story 3 - Outdoor": {
+            "grup_data": {
+              "grup_id": "700080-1-C",
+              "grup_name": "Soul Story 3 - Outdoor",
+              "grup_img": "https://dcw-editions.fr/storage/img/modeles/268/dcw-editions-soul-outdoor-soul-story-3-outdoor-thumb-p0arcksa.jpg",
+              "grup_link": "https://dcw-editions.fr/en/modele/268/soul-story-3-outdoor"
+            },
+            "ürünler": [
+              {
+                "product_name": "Soul Story 3 - Outdoor",
+                "product_id": "700080-1-C-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/268/dcw-editions-soul-outdoor-soul-story-3-outdoor-thumb-p0arcksa.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-hlgnqgmy/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-hlgnqgmy-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-tmlp5rr4/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-tmlp5rr4-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-y4bfrbat/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-y4bfrbat-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-w3bbel2j/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-w3bbel2j-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-1rwqfmxy/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-1rwqfmxy-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-2lrm0daq/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-2lrm0daq-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-ykdknbrs/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-ykdknbrs-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-1jvfu2sg/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-1jvfu2sg-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-9sfwnktm/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-9sfwnktm-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-6d7myyu1/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-6d7myyu1-s.jpg"
+                ],
+                "description": "Launched in 2022, the SOUL collection is now available in an outdoor version. The Story 1, 2 and 3 have been developed in white concrete, IP64 rated.",
+                "tech_infos": {
+                  "Dimensions": "Height : 287 mm Width : 185 mm Depth : 154 mm",
+                  "Materials": "Concrete",
+                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP64.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (556.77 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1038",
+                  "3D & 2D files (1.20 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1039",
+                  "Technical drawings (85.77 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1040",
+                  "Technical sheets (456.65 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1071"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/268/documents/dcw-editions-modele-soul-story-3-outdoor-document-schema-technique-qwydsivw.png"
+              }
+            ]
+          }
+        }
+      }
     }
   }
 }
