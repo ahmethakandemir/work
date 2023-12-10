@@ -5,6 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup as bs
 from time import sleep
+import aileler
 
 options = webdriver.ChromeOptions()
 options.add_extension("cookies.crx")
@@ -34,7 +35,6 @@ soup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'),
 familydivs = soup.select_one('div.thumbs-list')
 familydivs = familydivs.select('div.dcw-card')
 # limit familydivs to 2
-familydivs = familydivs[0:3]
 id = 700000
 i = 0
 for familydiv in familydivs:
@@ -43,6 +43,15 @@ for familydiv in familydivs:
     soup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
     
     family_name = familydiv.select_one('h1.collection').text.strip()
+    aynimi = False
+    ayniindex = 0
+    for index in aileler.aileler_ayni:
+        if index in family_name:
+            # family_name = index
+            ayniindex = index
+            anyimi = True
+            break
+    
     family_designer = familydiv.select_one('div.name').text.strip()
     family_img_mainpage = photoUrlBeginning + familydiv.select_one('img')['src']
     
@@ -79,12 +88,19 @@ for familydiv in familydivs:
     seriid = str(familyid) + '-1'
     
     family["seriler"] = seriler = {}
+    
+    if aynimi:
+        seriid = str(familyid) + '-2'
+        family["seriler"] = seriler = {} #################################################################################
+        
+    
+    
     seriler[family_name] = seri = {}
-    seri["seri_data"] = seri_data = {}
-    seri_data['seri_id'] = seriid
-    seri_data['seri_name'] = family_name
-    seri_data['seri_img'] = family_img_inner
-    seri_data['seri_link'] = aileurl
+    seri["series_data"] = seri_data = {}
+    seri_data['series_id'] = seriid
+    seri_data['series_name'] = family_name
+    seri_data['series_img'] = family_img_inner
+    seri_data['series_link'] = aileurl
     
     seri["gruplar"] = gruplar = {}
     
@@ -110,11 +126,11 @@ for familydiv in familydivs:
                 grup['grup_data'] = grup_data = {}
                 
                 grupid = seriid + '-' + chr(g + 65)
-                grup_data['grup_id'] = grupid
+                grup_data['group_id'] = grupid
                 
-                grup_data['grup_name'] = product_name
-                grup_data['grup_img'] = product_img
-                grup_data['grup_link'] = ''
+                grup_data['group_name'] = product_name
+                grup_data['group_img'] = product_img
+                grup_data['group_link'] = ''
                 grup['ürünler'] = urunler = []
                 
                 
@@ -130,7 +146,7 @@ for familydiv in familydivs:
         counter = 0
         while counter < 5:
             try:
-                grup_data['grup_link'] = driver.current_url
+                grup_data['group_link'] = driver.current_url
                 WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'img')))
                 soup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
                 product_images = soup.select('div.swiper-slide:not(.swiper-slide-duplicate)')
@@ -146,7 +162,7 @@ for familydiv in familydivs:
                         video_link.append(index.select_one('iframe')['src'])
                 
                 productdict['product_name'] = product_name
-                productdict['product_id'] = grup_data['grup_id'] + '-1'
+                productdict['product_id'] = grup_data['group_id'] + '-1'
                 productdict['product_img'] = product_img
                 productdict['images'] = images
                 if len(video_link) > 0:
@@ -183,15 +199,21 @@ for familydiv in familydivs:
             
         
         tech_schema = photoUrlBeginning + soup.select_one('div.container div.infos div.technical-schema > div.content > img')['src']
-        
+
         productdict['description'] = description
         productdict['tech_infos'] = tech_infoslist
         productdict['downloads'] = downloads
         productdict['tech_schema'] = tech_schema
         
+        try:
+            divs = soup.select_one('div.configurateur div.color')
+            colors = {}
+            for div in divs:
+                colors[div.select_one('div.name').text.strip()] = photoUrlBeginning + div.select_one('div.image img')['src']
+        except:
+            pass
         
-        
-        
+        productdict['different_color_images'] = colors
         
         
         

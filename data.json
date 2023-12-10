@@ -1,128 +1,58 @@
 {
-  "Collection Cauvet": {
+  "Tell Me Stories": {
     "aile_data": {
-      "family_id": 700000,
-      "family_name": "Collection Cauvet",
-      "family_designer": "Clément Cauvet",
-      "family_image": "https://dcw-editions.fr/storage/img/collections/41/dcw-editions-collection-collection-cauvet-cijsvmy9.jpg",
-      "family_info": "A timeless dialogueIota Tau Pi, three lamps that borrow their names and shapes from the Greek alphabet. A return to the essentials of language, a timeless dialogue. The object is on the border between a sculpture and an architectural building, it is functional through its light.",
-      "family_link": "https://dcw-editions.fr/en/collection/41/collection-cauvet"
+      "family_id": 700560,
+      "family_name": "Tell Me Stories",
+      "family_designer": "Giulia Liverani",
+      "family_image": "https://dcw-editions.fr/storage/img/collections/33/dcw-editions-collection-tell-me-stories-9ur2vh3e.jpg",
+      "family_info": "Tell Me Stories - TMSEveryone has their own story, everyone has their present. Up close, or far away, it›s important to see clearly … 2 mirrors (magnifying mirror x3 - classic mirror), 2 light discs, 2 sideboards.",
+      "family_link": "https://dcw-editions.fr/en/collection/33/tell-me-stories"
     },
     "seriler": {
-      "Collection Cauvet": {
-        "seri_data": {
-          "seri_id": "700000-1",
-          "seri_name": "Collection Cauvet",
-          "seri_img": "https://dcw-editions.fr/storage/img/collections/41/presentation/dcw-editions-collection-presentation-collection-cauvet-tgf971c0/dcw-editions-collection-presentation-collection-cauvet-tgf971c0-s.jpg",
-          "seri_link": "https://dcw-editions.fr/en/collection/41/collection-cauvet"
+      "Tell Me Stories": {
+        "series_data": {
+          "series_id": "700560-1",
+          "series_name": "Tell Me Stories",
+          "series_img": "https://dcw-editions.fr/storage/img/collections/33/presentation/dcw-editions-collection-presentation-tell-me-stories-5tmqktsb/dcw-editions-collection-presentation-tell-me-stories-5tmqktsb-s.jpg",
+          "series_link": "https://dcw-editions.fr/en/collection/33/tell-me-stories"
         },
         "gruplar": {
-          "Iota": {
+          "Tell Me Stories": {
             "grup_data": {
-              "grup_id": "700000-1-A",
-              "grup_name": "Iota",
-              "grup_img": "https://dcw-editions.fr/storage/img/modeles/261/dcw-editions-collection-cauvet-iota-thumb-kc4rc7s3.jpg",
-              "grup_link": "https://dcw-editions.fr/en/modele/261/iota"
+              "group_id": "700560-1-A",
+              "group_name": "Tell Me Stories",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/224/dcw-editions-tell-me-stories-tell-me-stories-thumb-0dcmfk1p.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/224/tell-me-stories"
             },
             "ürünler": [
               {
-                "product_name": "Iota",
-                "product_id": "700000-1-A-1",
-                "product_img": "https://dcw-editions.fr/storage/img/modeles/261/dcw-editions-collection-cauvet-iota-thumb-kc4rc7s3.jpg",
+                "product_name": "Tell Me Stories",
+                "product_id": "700560-1-A-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/224/dcw-editions-tell-me-stories-tell-me-stories-thumb-0dcmfk1p.jpg",
                 "images": [
-                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-jsbf0jer/dcw-editions-collection-cauvet-modele-iota-photos-jsbf0jer-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-nlasbtw5/dcw-editions-collection-cauvet-modele-iota-photos-nlasbtw5-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-4n1hqxmk/dcw-editions-collection-cauvet-modele-iota-photos-4n1hqxmk-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-ucqp3ieu/dcw-editions-collection-cauvet-modele-iota-photos-ucqp3ieu-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-t78v0ibi/dcw-editions-collection-cauvet-modele-iota-photos-t78v0ibi-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-i5hyyqsj/dcw-editions-collection-cauvet-modele-iota-photos-i5hyyqsj-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/261/galerie/dcw-editions-collection-cauvet-modele-iota-photos-abwsrqp8/dcw-editions-collection-cauvet-modele-iota-photos-abwsrqp8-s.jpg"
+                  "https://dcw-editions.fr/storage/img/modeles/224/galerie/dcw-editions-tell-me-stories-modele-tell-me-stories-photos-pm6uahc6/dcw-editions-tell-me-stories-modele-tell-me-stories-photos-pm6uahc6-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/224/galerie/dcw-editions-tell-me-stories-modele-tell-me-stories-photos-dpkscvb6/dcw-editions-tell-me-stories-modele-tell-me-stories-photos-dpkscvb6-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/224/galerie/dcw-editions-tell-me-stories-modele-tell-me-stories-photos-egefgwuc/dcw-editions-tell-me-stories-modele-tell-me-stories-photos-egefgwuc-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/224/galerie/dcw-editions-tell-me-stories-modele-tell-me-stories-photos-m6tplmf8/dcw-editions-tell-me-stories-modele-tell-me-stories-photos-m6tplmf8-s.jpg"
                 ],
-                "description": "IOTA borrows its name and shape from the Greek alphabet. A return to the essentials of language, a timeless dialogue. On a table, a console, a desk, the finesse of the object is revealed when the light caresses this radicalness.  Available from September 2023",
+                "video_link": "https://www.youtube.com/embed/TIrW2LQL658?controls=1&autoplay=0&loop=1&playlist=TIrW2LQL658&mute=1&enablejsapi=1",
+                "description": "To prepare its selfies, to put a smile on its face, to get ready to love itself... Tell Me Stories. This mirror-light has been thought and designed by Giulia Liverani in order to obtain the best comfort for the make-up. It is composed of 2 mirrors (magnifying mirror x3 - classic mirror), 2 light discs, 2 sideboards.",
                 "tech_infos": {
-                  "Dimensions": "434 x 238 x 203 mm",
-                  "Materials": "Concrete, steel",
-                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
-                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                  "Dimensions": "Height : 865 mm Width : 410 mm Depth : 410 mm",
+                  "Materials": "Steel",
+                  "Electricity": "CLI - Integrated LED 2700K - Dimmable",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP44.svg"
                 },
                 "downloads": {
-                  "Installation guidelines (76.16 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1013",
-                  "Technical sheets (93.71 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1014",
-                  "3D & 2D files (131.57 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1015",
-                  "Technical drawings (46.42 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1016"
+                  "Technical sheets (215.17 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/761",
+                  "3D & 2D files (6.71 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/762",
+                  "Installation guidelines (367.41 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/763",
+                  "Technical drawings (26.23 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/764",
+                  "US specification sheet (222.18 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/922"
                 },
-                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/261/documents/dcw-editions-modele-iota-document-schema-technique-cl3d0hr2.png"
-              }
-            ]
-          },
-          "Tau": {
-            "grup_data": {
-              "grup_id": "700000-1-B",
-              "grup_name": "Tau",
-              "grup_img": "https://dcw-editions.fr/storage/img/modeles/262/dcw-editions-collection-cauvet-tau-thumb-ptteyig4.jpg",
-              "grup_link": "https://dcw-editions.fr/en/modele/262/tau"
-            },
-            "ürünler": [
-              {
-                "product_name": "Tau",
-                "product_id": "700000-1-B-1",
-                "product_img": "https://dcw-editions.fr/storage/img/modeles/262/dcw-editions-collection-cauvet-tau-thumb-ptteyig4.jpg",
-                "images": [
-                  "https://dcw-editions.fr/storage/img/modeles/262/galerie/dcw-editions-collection-cauvet-modele-tau-photos-vgutbn17/dcw-editions-collection-cauvet-modele-tau-photos-vgutbn17-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/262/galerie/dcw-editions-collection-cauvet-modele-tau-photos-0fhtua4w/dcw-editions-collection-cauvet-modele-tau-photos-0fhtua4w-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/262/galerie/dcw-editions-collection-cauvet-modele-tau-photos-yqjpn2qd/dcw-editions-collection-cauvet-modele-tau-photos-yqjpn2qd-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/262/galerie/dcw-editions-collection-cauvet-modele-tau-photos-b7prilbp/dcw-editions-collection-cauvet-modele-tau-photos-b7prilbp-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/262/galerie/dcw-editions-collection-cauvet-modele-tau-photos-mh7mih62/dcw-editions-collection-cauvet-modele-tau-photos-mh7mih62-s.jpg"
-                ],
-                "description": "The object is on the border between a sculpture and an architectural building, it is functional through its light. Its light spreads downwards.  Available from September 2023",
-                "tech_infos": {
-                  "Dimensions": "458 x 400 x 170 mm",
-                  "Materials": "Concrete, steel",
-                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
-                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
-                },
-                "downloads": {
-                  "Technical sheets (107.85 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1017",
-                  "3D & 2D files (58.35 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1018",
-                  "Technical drawings (92.13 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1019"
-                },
-                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/262/documents/dcw-editions-modele-tau-document-schema-technique-hxqhf8a4.png"
-              }
-            ]
-          },
-          "Pi": {
-            "grup_data": {
-              "grup_id": "700000-1-C",
-              "grup_name": "Pi",
-              "grup_img": "https://dcw-editions.fr/storage/img/modeles/260/dcw-editions-collection-cauvet-pi-thumb-qmhybq4b.jpg",
-              "grup_link": "https://dcw-editions.fr/en/modele/260/pi"
-            },
-            "ürünler": [
-              {
-                "product_name": "Pi",
-                "product_id": "700000-1-C-1",
-                "product_img": "https://dcw-editions.fr/storage/img/modeles/260/dcw-editions-collection-cauvet-pi-thumb-qmhybq4b.jpg",
-                "images": [
-                  "https://dcw-editions.fr/storage/img/modeles/260/galerie/dcw-editions-collection-cauvet-modele-pi-photos-0livw2ed/dcw-editions-collection-cauvet-modele-pi-photos-0livw2ed-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/260/galerie/dcw-editions-collection-cauvet-modele-pi-photos-v7iph5ec/dcw-editions-collection-cauvet-modele-pi-photos-v7iph5ec-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/260/galerie/dcw-editions-collection-cauvet-modele-pi-photos-6g7runrp/dcw-editions-collection-cauvet-modele-pi-photos-6g7runrp-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/260/galerie/dcw-editions-collection-cauvet-modele-pi-photos-els19uas/dcw-editions-collection-cauvet-modele-pi-photos-els19uas-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/260/galerie/dcw-editions-collection-cauvet-modele-pi-photos-nlcffefa/dcw-editions-collection-cauvet-modele-pi-photos-nlcffefa-s.jpg"
-                ],
-                "description": "The object is on the border between a sculpture and an architectural building, it is functional through its light. The light source shines backwards, so PI is installed next to a wall, which it will illuminate to give a pleasant light.  Available from September 2023",
-                "tech_infos": {
-                  "Dimensions": "453 x 443 x 155 mm",
-                  "Materials": "Concrete, steel",
-                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
-                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
-                },
-                "downloads": {
-                  "Technical sheets (89.66 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1009",
-                  "Installation guidelines (76.05 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1010",
-                  "3D & 2D files (76.75 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1011",
-                  "Technical drawings (63.28 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1012"
-                },
-                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/260/documents/dcw-editions-modele-pi-document-schema-technique-caurvfwm.png"
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/224/documents/dcw-editions-modele-tell-me-stories-document-schema-technique-gku9dcwi.png",
+                "different_color_images": {}
               }
             ]
           }
@@ -130,90 +60,1113 @@
       }
     }
   },
-  "Light Me Tender": {
+  "Lampe Gras": {
     "aile_data": {
-      "family_id": 700040,
-      "family_name": "Light Me Tender",
-      "family_designer": "Patrick Jouin",
-      "family_image": "https://dcw-editions.fr/storage/img/collections/42/dcw-editions-collection-light-me-tender-jduybyac.jpg",
-      "family_info": "A soft light that reveals us in the mirrorLIGHT ME TENDER allows you to modulate  the light and the material. We wanted to work on the bathroom space, specific to the time of morning or evening. An elegant light for an object that plays with intimacy. Inspired by the shades of dawn or dusk, LIGHT ME TENDER is a soft light that reveals us in the mirror. To be tender is to be enlightened. To accept oneself is to modulate the light. The design is very simple, like a single cloud standing out against a blue sky.  Initially designed for the bathroom, LIGHT ME TENDER can also be used in a hallway or entrance.",
-      "family_link": "https://dcw-editions.fr/en/collection/42/light-me-tender"
+      "family_id": 700600,
+      "family_name": "Lampe Gras",
+      "family_designer": "Bernard-Albin Gras",
+      "family_image": "https://dcw-editions.fr/storage/img/collections/5/dcw-editions-collection-lampe-gras-5qhmce03.jpg",
+      "family_info": "ICON OF THE 20th CENTURYIn 1921 Bernard-Albin GRAS designed a series of lamps for use in offices and in industrial environments. The GRAS lamp, as it was subsequently called, was astounding in its simple, robust and yet very ergonomic design. There are neither screws nor welded joints in the basic form. In 1927 the Ravel company purchased the patent and started production of the Gras lamps.  Bernard-Albin Gras was one of the most innovative designer of the 20th century. The functional esthetic of his lamps and especially the design of details such as those of the arms, stems, brackets and bases were truly original and far ahead of his time. Early on Le Corbusier was seduced by the modern design and user-friendliness of the lamps and became one of Bernard-Albin GRAS’s most enthusiastic supporters",
+      "family_link": "https://dcw-editions.fr/en/collection/5/lampe-gras"
     },
     "seriler": {
-      "Light Me Tender": {
-        "seri_data": {
-          "seri_id": "700040-1",
-          "seri_name": "Light Me Tender",
-          "seri_img": "https://dcw-editions.fr/storage/img/collections/42/presentation/dcw-editions-collection-presentation-light-me-tender-jejyck5m/dcw-editions-collection-presentation-light-me-tender-jejyck5m-s.jpg",
-          "seri_link": "https://dcw-editions.fr/en/collection/42/light-me-tender"
+      "Lampe Gras": {
+        "series_data": {
+          "series_id": "700600-1",
+          "series_name": "Lampe Gras",
+          "series_img": "https://dcw-editions.fr/storage/img/collections/5/presentation/dcw-editions-collection-presentation-lampe-gras-m0xumddv/dcw-editions-collection-presentation-lampe-gras-m0xumddv-s.jpg",
+          "series_link": "https://dcw-editions.fr/en/collection/5/lampe-gras"
         },
         "gruplar": {
-          "Light Me Tender Horizontal": {
+          "N°104 Bathroom (CLI)": {
             "grup_data": {
-              "grup_id": "700040-1-A",
-              "grup_name": "Light Me Tender Horizontal",
-              "grup_img": "https://dcw-editions.fr/storage/img/modeles/263/dcw-editions-light-me-tender-light-me-tender-horizontal-thumb-ys7lin5a.jpg",
-              "grup_link": "https://dcw-editions.fr/en/modele/263/light-me-tender-horizontal"
+              "group_id": "700600-1-A",
+              "group_name": "N°104 Bathroom (CLI)",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/231/dcw-editions-lampe-gras-n0104-bathroom-thumb-htwbqgks.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/231/n104-bathroom-cli"
             },
             "ürünler": [
               {
-                "product_name": "Light Me Tender Horizontal",
-                "product_id": "700040-1-A-1",
-                "product_img": "https://dcw-editions.fr/storage/img/modeles/263/dcw-editions-light-me-tender-light-me-tender-horizontal-thumb-ys7lin5a.jpg",
+                "product_name": "N°104 Bathroom (CLI)",
+                "product_id": "700600-1-A-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/231/dcw-editions-lampe-gras-n0104-bathroom-thumb-htwbqgks.jpg",
                 "images": [
-                  "https://dcw-editions.fr/storage/img/modeles/263/galerie/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-lyinrdgm/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-lyinrdgm-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/263/galerie/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-jhu7tdvp/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-jhu7tdvp-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/263/galerie/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-hn3eddba/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-hn3eddba-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/263/galerie/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-hbrc57vd/dcw-editions-light-me-tender-modele-light-me-tender-horizontal-photos-hbrc57vd-s.jpg"
+                  "https://dcw-editions.fr/storage/img/modeles/231/galerie/dcw-editions-lampe-gras-modele-n0104-bathroom-photos-tsqee0qe/dcw-editions-lampe-gras-modele-n0104-bathroom-photos-tsqee0qe-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/231/galerie/dcw-editions-lampe-gras-modele-n0104-bathroom-photos-hweqkthc/dcw-editions-lampe-gras-modele-n0104-bathroom-photos-hweqkthc-s.jpg"
                 ],
-                "description": "We wanted to work on the bathroom space, specific to the time of morning or evening. An elegant light for an object that plays with intimacy. The design is very simple, like a single cloud standing out against a blue sky. Initially designed for the bathroom, LIGHT ME TENDER can also be used in a hallway or entrance.  Available from September 2023",
+                "description": "Mounted on a short swivel arm, the Gras N°104 Bathroom Lamp fits into any bathroom morphology. IP44: the sandblasted glass case is screwed into the shade to encapsulate the E27 bulb.",
                 "tech_infos": {
-                  "Dimensions": "300 x 250 x 76 mm",
-                  "Materials": "Glass, aluminum",
-                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
-                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP44.svg"
+                  "Dimensions": "Depth : 303 mm Shade diameter : 153 mm",
+                  "Materials": "Steel",
+                  "Electricity": "CLI - E27",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
                 },
                 "downloads": {
-                  "Technical sheets (70.32 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1020",
-                  "Technical drawings (72.11 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1021",
-                  "3D & 2D files (1.73 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1022"
+                  "Installation guidelines (163.41 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/807",
+                  "3D & 2D files (6.22 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/808",
+                  "Technical drawings (22.43 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/809",
+                  "Technical sheets (425.15 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/902"
                 },
-                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/263/documents/dcw-editions-modele-light-me-tender-horizontal-document-schema-technique-0tetfksb.png"
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/231/documents/dcw-editions-modele-n0104-bathroom-document-schema-technique-xdmidm0g.png",
+                "different_color_images": {}
               }
             ]
           },
-          "Light Me Tender Vertical": {
+          "N°104 Bathroom (CLII)": {
             "grup_data": {
-              "grup_id": "700040-1-B",
-              "grup_name": "Light Me Tender Vertical",
-              "grup_img": "https://dcw-editions.fr/storage/img/modeles/264/dcw-editions-light-me-tender-light-me-tender-vertical-thumb-fbuxjj37.jpg",
-              "grup_link": "https://dcw-editions.fr/en/modele/264/light-me-tender-vertical"
+              "group_id": "700600-1-B",
+              "group_name": "N°104 Bathroom (CLII)",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/250/dcw-editions-lampe-gras-n0104-bathroom-clii-thumb-mtty8e5n.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/250/n104-bathroom-clii"
             },
             "ürünler": [
               {
-                "product_name": "Light Me Tender Vertical",
-                "product_id": "700040-1-B-1",
-                "product_img": "https://dcw-editions.fr/storage/img/modeles/264/dcw-editions-light-me-tender-light-me-tender-vertical-thumb-fbuxjj37.jpg",
+                "product_name": "N°104 Bathroom (CLII)",
+                "product_id": "700600-1-B-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/250/dcw-editions-lampe-gras-n0104-bathroom-clii-thumb-mtty8e5n.jpg",
                 "images": [
-                  "https://dcw-editions.fr/storage/img/modeles/264/galerie/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-jvamfujq/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-jvamfujq-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/264/galerie/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-q4t3yf4q/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-q4t3yf4q-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/264/galerie/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-t4cvdafm/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-t4cvdafm-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/264/galerie/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-5t3didtb/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-5t3didtb-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/264/galerie/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-ebgflyfu/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-ebgflyfu-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/264/galerie/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-lq4sksix/dcw-editions-light-me-tender-modele-light-me-tender-vertical-photos-lq4sksix-s.jpg"
+                  "https://dcw-editions.fr/storage/img/modeles/250/galerie/dcw-editions-lampe-gras-modele-n0104-bathroom-clii-photos-tynlk288/dcw-editions-lampe-gras-modele-n0104-bathroom-clii-photos-tynlk288-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/250/galerie/dcw-editions-lampe-gras-modele-n0104-bathroom-clii-photos-9vt1ltns/dcw-editions-lampe-gras-modele-n0104-bathroom-clii-photos-9vt1ltns-s.jpg"
                 ],
-                "description": "We wanted to work on the bathroom space, specific to the time of morning or evening. An elegant light for an object that plays with intimacy. The design is very simple, like a single cloud standing out against a blue sky. Initially designed for the bathroom, LIGHT ME TENDER can also be used in a hallway or entrance.  Available from September 2023",
+                "description": "Mounted on a short swivel arm, the Gras N°104 Bathroom Lamp fits into any bathroom morphology. IP44: the sandblasted glass case is screwed into the shade to encapsulate the E27 bulb.",
                 "tech_infos": {
-                  "Dimensions": "320 x 230 x 76 mm",
-                  "Materials": "Glass, aluminum",
-                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
-                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP44.svg"
+                  "modele.dimensions": "Depth : 303 mm Shade diameter : 153 mm",
+                  "modele.materiaux": "Steel",
+                  "modele.electricite": "CLII - E27",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
                 },
                 "downloads": {
-                  "Technical sheets (78.78 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1023",
-                  "Technical drawings (92.71 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1024"
+                  "Installation guidelines (161.02 telechargements.ko)": "https://dcw-editions.fr/front/telechargements/downloads/documents/881",
+                  "Technical drawings (22.43 telechargements.ko)": "https://dcw-editions.fr/front/telechargements/downloads/documents/882",
+                  "3D & 2D files (6.22 telechargements.mo)": "https://dcw-editions.fr/front/telechargements/downloads/documents/883",
+                  "Technical sheets (476.78 telechargements.ko)": "https://dcw-editions.fr/front/telechargements/downloads/documents/903"
                 },
-                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/264/documents/dcw-editions-modele-light-me-tender-vertical-document-schema-technique-6gkrhqve.png"
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/250/documents/dcw-editions-modele-n0104-bathroom-clii-document-schema-technique-icb5fnfr.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°122 Bathroom (CLI)": {
+            "grup_data": {
+              "group_id": "700600-1-C",
+              "group_name": "N°122 Bathroom (CLI)",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/232/dcw-editions-lampe-gras-n0122-bathroom-thumb-vpvmlgnd.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/232/n122-bathroom-cli"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°122 Bathroom (CLI)",
+                "product_id": "700600-1-C-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/232/dcw-editions-lampe-gras-n0122-bathroom-thumb-vpvmlgnd.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/232/galerie/dcw-editions-lampe-gras-modele-n0122-bathroom-photos-e0iyescr/dcw-editions-lampe-gras-modele-n0122-bathroom-photos-e0iyescr-s.jpg"
+                ],
+                "description": "Mounted on a long slanted swivel arm, the Gras N°122 Bathroom Lamp fits into any bathroom morphology. IP44: the sandblasted glass case is screwed into the shade to encapsulate the E27 bulb.",
+                "tech_infos": {
+                  "Dimensions": "Depth : 584 mm (indicative data) Arm : 392 mm Shade diameter : 153 mm Weight : 1,5 kg",
+                  "Materials": "Steel",
+                  "Electricity": "CLI - E27",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Technical drawings (20.53 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/811",
+                  "Installation guidelines (168.60 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/812",
+                  "3D & 2D files (8.27 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/813",
+                  "Technical sheets (421.28 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/904"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/232/documents/dcw-editions-modele-n0122-bathroom-document-schema-technique-c3hs3ggx.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°122 Bathroom (CLII)": {
+            "grup_data": {
+              "group_id": "700600-1-D",
+              "group_name": "N°122 Bathroom (CLII)",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/251/dcw-editions-lampe-gras-n0122-bathroom-clii-thumb-jkgmstcf.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/251/n122-bathroom-clii"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°122 Bathroom (CLII)",
+                "product_id": "700600-1-D-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/251/dcw-editions-lampe-gras-n0122-bathroom-clii-thumb-jkgmstcf.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/251/galerie/dcw-editions-lampe-gras-modele-n0122-bathroom-clii-photos-68hl1jre/dcw-editions-lampe-gras-modele-n0122-bathroom-clii-photos-68hl1jre-s.jpg"
+                ],
+                "description": "Mounted on a long slanted swivel arm, the Gras N°122 Bathroom Lamp fits into any bathroom morphology. IP44: the sandblasted glass case is screwed into the shade to encapsulate the E27 bulb.",
+                "tech_infos": {
+                  "Dimensions": "Depth : 584 mm (indicative data) Arm : 392 mm Shade diameter : 153 mm Weight : 1,5 kg",
+                  "Materials": "Steel",
+                  "Electricity": "CLII - E27",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (168.60 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/884",
+                  "Technical drawings (20.53 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/886",
+                  "3D & 2D files (8.27 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/887",
+                  "Technical sheets (454.72 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/905"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/251/documents/dcw-editions-modele-n0122-bathroom-clii-document-schema-technique-r0sm4sni.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°204 Double Bathroom (CLI)": {
+            "grup_data": {
+              "group_id": "700600-1-E",
+              "group_name": "N°204 Double Bathroom (CLI)",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/238/dcw-editions-lampe-gras-n0204-double-bathroom-thumb-jvmg8jeb.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/238/n204-double-bathroom-cli"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°204 Double Bathroom (CLI)",
+                "product_id": "700600-1-E-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/238/dcw-editions-lampe-gras-n0204-double-bathroom-thumb-jvmg8jeb.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/238/galerie/dcw-editions-lampe-gras-modele-n0204-double-bathroom-photos-psn5jwqj/dcw-editions-lampe-gras-modele-n0204-double-bathroom-photos-psn5jwqj-s.jpg"
+                ],
+                "description": "Mounted on two short swivel arms, the Gras N°204 Double Bathroom lamp fits into any bathroom morphology. IP44: the sandblasted glass case is screwed into the shade to encapsulate the E27 bulb.",
+                "tech_infos": {
+                  "Dimensions": "Base : 160 x 95 mm Arm : 169 mm Rod : 160 mm Shade diameter : 153 mm Weight : 3,4 kg",
+                  "Materials": "Steel",
+                  "Electricity": "CLI - E27",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (168.60 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/815",
+                  "3D & 2D files (16.54 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/816",
+                  "Technical drawings (19.52 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/817",
+                  "Technical sheets (428.72 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/906"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/238/documents/dcw-editions-modele-n0204-double-bathroom-document-schema-technique-ke5chxej.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°204 Double Bathroom (CLII)": {
+            "grup_data": {
+              "group_id": "700600-1-F",
+              "group_name": "N°204 Double Bathroom (CLII)",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/252/dcw-editions-lampe-gras-n0204-double-bathroom-thumb-uxrmx75n.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/252/n204-double-bathroom-clii"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°204 Double Bathroom (CLII)",
+                "product_id": "700600-1-F-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/252/dcw-editions-lampe-gras-n0204-double-bathroom-thumb-uxrmx75n.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/252/galerie/dcw-editions-lampe-gras-modele-n0204-double-bathroom-clii-photos-yrwbtwb2/dcw-editions-lampe-gras-modele-n0204-double-bathroom-clii-photos-yrwbtwb2-s.jpg"
+                ],
+                "description": "Two lamps to see twice as well? Two lamps to avoid arguments in front of the basin? There are plenty of reasons to do so, we'll let you choose your own. In any case, this double wall lamp is not lacking in character, and requires only one electrical point to power the two lamps.",
+                "tech_infos": {
+                  "Dimensions": "Base : 160 x 95 mm Arm : 169 mm Rod : 160 mm Shade diameter : 153 mm Weight : 3,4 kg",
+                  "Materials": "Steel",
+                  "Electricity": "CLII - E27",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (303.16 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/889",
+                  "Technical drawings (19.52 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/890",
+                  "3D & 2D files (16.54 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/891",
+                  "Technical sheets (503.21 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/907"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/252/documents/dcw-editions-modele-n0204-double-bathroom-clii-document-schema-technique-2jr0we94.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°104 & N°104 SW": {
+            "grup_data": {
+              "group_id": "700600-1-G",
+              "group_name": "N°104 & N°104 SW",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/218/dcw-editions-lampe-gras-n0104-thumb-ixbhdbb6.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/218/n104-n104-sw"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°104 & N°104 SW",
+                "product_id": "700600-1-G-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/218/dcw-editions-lampe-gras-n0104-thumb-ixbhdbb6.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/218/galerie/dcw-editions-lampe-gras-modele-n0104-photos-mmj4chgt/dcw-editions-lampe-gras-modele-n0104-photos-mmj4chgt-s.jpg"
+                ],
+                "description": "La Lampe Gras N°104 (N°204's cousin) is a bedside lamp with a slightly inclined arm (54°), swiveling for a better adaptation to a use in bedhead. Sober and elegant. Available with or without switch on the lamp.",
+                "tech_infos": {
+                  "modele.dimensions": "Arm: 164 mm Shade: Ø 153 mm Total depth: 303 mm",
+                  "modele.materiaux": "Steel",
+                  "modele.electricite": "CLI - E27 LED",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Technical sheets (533.55 telechargements.ko)": "https://dcw-editions.fr/front/telechargements/downloads/documents/714",
+                  "Technical drawings (150.76 telechargements.ko)": "https://dcw-editions.fr/front/telechargements/downloads/documents/715",
+                  "3D & 2D files (5.96 telechargements.mo)": "https://dcw-editions.fr/front/telechargements/downloads/documents/716"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/218/documents/dcw-editions-modele-n0104-document-schema-technique-xjk1sgtj.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°313": {
+            "grup_data": {
+              "group_id": "700600-1-H",
+              "group_name": "N°313",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/223/dcw-editions-lampe-gras-n0313-thumb-qnsgpjdv.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/223/n313"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°313",
+                "product_id": "700600-1-H-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/223/dcw-editions-lampe-gras-n0313-thumb-qnsgpjdv.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/223/galerie/dcw-editions-lampe-gras-modele-n0313-photos-ecqlpaxg/dcw-editions-lampe-gras-modele-n0313-photos-ecqlpaxg-s.jpg"
+                ],
+                "description": "Used as a reading lamp next to a sofa or a armchair, or over a workplan, the elbow allows to deport the light where it is needed.",
+                "tech_infos": {
+                  "Dimensions": "Adjustable arm : min 880 mm - max 1540 mm Elbowed arm : 282 mm Cast iron : Ø 115 mm",
+                  "Materials": "Steel, cast iron",
+                  "Electricity": "CLI - CLI - E27 - Max 23W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "3D & 2D files (8.59 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/757",
+                  "Installation guidelines (177.74 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/758",
+                  "Technical sheets (504.40 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/759"
+                },
+                "tech_schema": "https://dcw-editions.fr",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°122 & N°122 SW": {
+            "grup_data": {
+              "group_id": "700600-1-I",
+              "group_name": "N°122 & N°122 SW",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/219/dcw-editions-lampe-gras-n0122-thumb-r1dis6g9.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/219/n122-n122-sw"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°122 & N°122 SW",
+                "product_id": "700600-1-I-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/219/dcw-editions-lampe-gras-n0122-thumb-r1dis6g9.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/219/galerie/dcw-editions-lampe-gras-modele-n0122-photos-hyjv1nvu/dcw-editions-lampe-gras-modele-n0122-photos-hyjv1nvu-s.jpg"
+                ],
+                "description": "The Lampe Gras N ° 122 is a bedside lamp with an inclined arm (40 °) and allows a greater range of movement than the N ° 104. Available with (N°122 SW) or without switch (N°122) on the lamp.",
+                "tech_infos": {
+                  "modele.dimensions": "Arm: 392 mm Shade: Ø 153 mm Total depth: 584 mm",
+                  "modele.materiaux": "Steel",
+                  "modele.electricite": "CLI - E27 LED",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Technical sheets (530.04 telechargements.ko)": "https://dcw-editions.fr/front/telechargements/downloads/documents/717",
+                  "Technical drawings (171.22 telechargements.ko)": "https://dcw-editions.fr/front/telechargements/downloads/documents/718",
+                  "3D & 2D files (8.02 telechargements.mo)": "https://dcw-editions.fr/front/telechargements/downloads/documents/719",
+                  "Installation guidelines (195.78 telechargements.ko)": "https://dcw-editions.fr/front/telechargements/downloads/documents/748"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/219/documents/dcw-editions-modele-n0122-document-schema-technique-xnlurbv9.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°201": {
+            "grup_data": {
+              "group_id": "700600-1-J",
+              "group_name": "N°201",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/56/dcw-editions-lampe-gras-lampe-gras-n0201-thumb-xq386eia.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/56/n201"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°201",
+                "product_id": "700600-1-J-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/56/dcw-editions-lampe-gras-lampe-gras-n0201-thumb-xq386eia.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/56/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0201-photos-ci55k4y4/dcw-editions-lampe-gras-modele-lampe-gras-n0201-photos-ci55k4y4-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/56/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0201-photos-pubjp2b2/dcw-editions-lampe-gras-modele-lampe-gras-n0201-photos-pubjp2b2-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/56/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0201-photos-8a1q5f8n/dcw-editions-lampe-gras-modele-lampe-gras-n0201-photos-8a1q5f8n-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/56/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0201-photos-dfrpr0un/dcw-editions-lampe-gras-modele-lampe-gras-n0201-photos-dfrpr0un-s.jpg"
+                ],
+                "description": "№201 is emblematic of the series. Architects were the first to be bowled over by this lamp for use in their offices. A word of warning though, the clamp will not fit desktops more than 3.5 centimeters thick.",
+                "tech_infos": {
+                  "Dimensions": "Arm 590 mm | Rod 200 mm",
+                  "Materials": "Steel",
+                  "Electricity": "CLII - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Technical drawings (39.68 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/25",
+                  "Installation guidelines (2.29 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/27",
+                  "3D & 2D files (6.48 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/326",
+                  "Technical sheets (2.26 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/558"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/56/documents/dcw-editions-modele-n0201-document-schema-technique-pj16vxwh.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°205": {
+            "grup_data": {
+              "group_id": "700600-1-K",
+              "group_name": "N°205",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/51/dcw-editions-lampe-gras-lampe-gras-n0205-thumb-m2pfvaxr.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/51/n205"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°205",
+                "product_id": "700600-1-K-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/51/dcw-editions-lampe-gras-lampe-gras-n0205-thumb-m2pfvaxr.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/51/galerie/dcw-editions-lampe-gras-modele-n0205-photos-vyidii0u/dcw-editions-lampe-gras-modele-n0205-photos-vyidii0u-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/51/galerie/dcw-editions-lampe-gras-modele-n0205-photos-hldar0fh/dcw-editions-lampe-gras-modele-n0205-photos-hldar0fh-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/51/galerie/dcw-editions-lampe-gras-modele-n0205-photos-sw0jnvsc/dcw-editions-lampe-gras-modele-n0205-photos-sw0jnvsc-s.jpg"
+                ],
+                "description": "Perfect on a desk, a sideboard or a low-stable.",
+                "tech_infos": {
+                  "Dimensions": "Arm : 39 cm | Rod : 20 cm | Cast : 16,5 cm",
+                  "Materials": "Steel",
+                  "Electricity": "CLII - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (2.19 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/28",
+                  "Technical drawings (41.30 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/30",
+                  "3D & 2D files (877.79 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/280",
+                  "Technical sheets (2.33 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/559",
+                  "US specification sheet (932.60 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/974"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/51/documents/dcw-editions-modele-n0205-document-schema-technique-r1kbj6qh.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°207": {
+            "grup_data": {
+              "group_id": "700600-1-L",
+              "group_name": "N°207",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/53/dcw-editions-lampe-gras-lampe-gras-n0207-thumb-ujia42iu.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/53/n207"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°207",
+                "product_id": "700600-1-L-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/53/dcw-editions-lampe-gras-lampe-gras-n0207-thumb-ujia42iu.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/53/galerie/dcw-editions-lampe-gras-modele-n0207-photos-sq4dy2eb/dcw-editions-lampe-gras-modele-n0207-photos-sq4dy2eb-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/53/galerie/dcw-editions-lampe-gras-modele-n0207-photos-p3nanmgv/dcw-editions-lampe-gras-modele-n0207-photos-p3nanmgv-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/53/galerie/dcw-editions-lampe-gras-modele-n0207-photos-fwepbmfl/dcw-editions-lampe-gras-modele-n0207-photos-fwepbmfl-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/53/galerie/dcw-editions-lampe-gras-modele-n0207-photos-utrxglqc/dcw-editions-lampe-gras-modele-n0207-photos-utrxglqc-s.jpg"
+                ],
+                "description": "Perfect on a desk, a sideboard or a low-table.",
+                "tech_infos": {
+                  "Dimensions": "Arm : 22 cm | Rod : 20 cm | Base : 17 cm",
+                  "Materials": "Socle in oak wood and steel cast, arms in steel",
+                  "Electricity": "CLII - G9-25W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (2.13 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/37",
+                  "Technical drawings (48.73 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/38",
+                  "3D & 2D files (5.04 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/328",
+                  "Technical sheets (942.72 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/561"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/53/documents/dcw-editions-modele-n0207-document-schema-technique-agikncfi.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°317": {
+            "grup_data": {
+              "group_id": "700600-1-M",
+              "group_name": "N°317",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/55/dcw-editions-lampe-gras-lampe-gras-n0317-thumb-1h51viws.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/55/n317"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°317",
+                "product_id": "700600-1-M-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/55/dcw-editions-lampe-gras-lampe-gras-n0317-thumb-1h51viws.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/55/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0317-photos-v6ghc5iw/dcw-editions-lampe-gras-modele-lampe-gras-n0317-photos-v6ghc5iw-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/55/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0317-photos-2p2by49v/dcw-editions-lampe-gras-modele-lampe-gras-n0317-photos-2p2by49v-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/55/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0317-photos-8slfndlc/dcw-editions-lampe-gras-modele-lampe-gras-n0317-photos-8slfndlc-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/55/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0317-photos-5jintuxl/dcw-editions-lampe-gras-modele-lampe-gras-n0317-photos-5jintuxl-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/55/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0317-photos-7ml0yceh/dcw-editions-lampe-gras-modele-lampe-gras-n0317-photos-7ml0yceh-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/55/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0317-photos-f76gypdn/dcw-editions-lampe-gras-modele-lampe-gras-n0317-photos-f76gypdn-s.jpg"
+                ],
+                "description": "Perfect on a desk, a sideboard or a low-table.",
+                "tech_infos": {
+                  "Dimensions": "Double-elbow : 36 cm x 2 (72 cm) | Rod : 20 cm | Bar : 49 cm",
+                  "Materials": "Base, arms and double-elbow : steel",
+                  "Electricity": "CLI - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (721.30 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/40",
+                  "Technical drawings (39.06 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/41",
+                  "3D & 2D files (5.06 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/329",
+                  "Technical sheets (2.30 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/562"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/55/documents/dcw-editions-modele-n0317-document-schema-technique-vr3edrpw.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°203": {
+            "grup_data": {
+              "group_id": "700600-1-N",
+              "group_name": "N°203",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/62/dcw-editions-lampe-gras-lampe-gras-n0203-thumb-mvx2rsky.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/62/n203"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°203",
+                "product_id": "700600-1-N-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/62/dcw-editions-lampe-gras-lampe-gras-n0203-thumb-mvx2rsky.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/62/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0203-photos-ex9b9003/dcw-editions-lampe-gras-modele-lampe-gras-n0203-photos-ex9b9003-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/62/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0203-photos-xwr2bngw/dcw-editions-lampe-gras-modele-lampe-gras-n0203-photos-xwr2bngw-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/62/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0203-photos-b8qqwrph/dcw-editions-lampe-gras-modele-lampe-gras-n0203-photos-b8qqwrph-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/62/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0203-photos-m7ftikm7/dcw-editions-lampe-gras-modele-lampe-gras-n0203-photos-m7ftikm7-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/62/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0203-photos-atar1ctg/dcw-editions-lampe-gras-modele-lampe-gras-n0203-photos-atar1ctg-s.jpg"
+                ],
+                "description": "Perfect over a bedhead, at the edge of a desk or table...",
+                "tech_infos": {
+                  "Dimensions": "Adjustable arm : min 49 cm - max 76 cm | Rod : 20 cm",
+                  "Materials": "Base and arms : Steel",
+                  "Electricity": "CLII - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (2.68 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/49",
+                  "Technical drawings (44.49 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/51",
+                  "3D & 2D files (6.72 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/332",
+                  "Technical sheets (2.34 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/565"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/62/documents/dcw-editions-modele-n0203-document-schema-technique-c6dmpgqh.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°204 & N°204 SW": {
+            "grup_data": {
+              "group_id": "700600-1-O",
+              "group_name": "N°204 & N°204 SW",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/60/dcw-editions-lampe-gras-lampe-gras-n0204-thumb-wyknd12h.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/60/n204-n204-sw"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°204 & N°204 SW",
+                "product_id": "700600-1-O-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/60/dcw-editions-lampe-gras-lampe-gras-n0204-thumb-wyknd12h.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/60/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0204-photos-ujtwpvdh/dcw-editions-lampe-gras-modele-lampe-gras-n0204-photos-ujtwpvdh-s.jpg"
+                ],
+                "description": "The N°204 was designed to be perfectly functional as a bedside lamp. The ball joint is replaced by a pivot, more suitable for intensive handling in this specific configuration. Available with (N°204 SW) or without switch (N°204) on the lamp.",
+                "tech_infos": {
+                  "Dimensions": "Arm 220 mm | Rod 200 mm | Soc Ø95 mm",
+                  "Materials": "Steel, electric fabric wire",
+                  "Electricity": "CLI - E27-ESL15W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Technical drawings (56.51 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/53",
+                  "Installation guidelines (198.87 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/281",
+                  "3D & 2D files (6.50 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/333",
+                  "Technical sheets (1.99 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/566"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/60/documents/dcw-editions-modele-n0204-document-schema-technique-5ab3t5bj.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°204 L 40 & N°204 L 40 SW": {
+            "grup_data": {
+              "group_id": "700600-1-P",
+              "group_name": "N°204 L 40 & N°204 L 40 SW",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/61/dcw-editions-lampe-gras-lampe-gras-n0204-l-40-thumb-0c7vwqei.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/61/n204-l-40-n204-l-40-sw"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°204 L 40 & N°204 L 40 SW",
+                "product_id": "700600-1-P-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/61/dcw-editions-lampe-gras-lampe-gras-n0204-l-40-thumb-0c7vwqei.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/61/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0204-l-40-photos-rhkypkgg/dcw-editions-lampe-gras-modele-lampe-gras-n0204-l-40-photos-rhkypkgg-s.jpg"
+                ],
+                "description": "The N°204 L 40 was designed to be perfectly functional as a bedside lamp. The ball joint is replaced by a pivot, more suitable for intensive handling in this specific configuration. The N°204 L 40 is longer than the N°204 to gain more amplitude. Available with (N°204 L 40 SW) or without switch (N°204 L 40) on the lamp.",
+                "tech_infos": {
+                  "Dimensions": "Arm 370 mm | Rod 200 mm | Soc Ø95 mm",
+                  "Materials": "Steel",
+                  "Electricity": "CLI - E27-ESL23W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Technical drawings (40.59 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/55",
+                  "3D & 2D files (6.59 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/334",
+                  "Technical sheets (1.99 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/567"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/61/documents/dcw-editions-modele-n0204-l-40-document-schema-technique-5gulfwtb.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°210": {
+            "grup_data": {
+              "group_id": "700600-1-Q",
+              "group_name": "N°210",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/54/dcw-editions-lampe-gras-lampe-gras-n0210-thumb-3t0uywcb.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/54/n210"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°210",
+                "product_id": "700600-1-Q-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/54/dcw-editions-lampe-gras-lampe-gras-n0210-thumb-3t0uywcb.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/54/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0210-photos-y8dnygrq/dcw-editions-lampe-gras-modele-lampe-gras-n0210-photos-y8dnygrq-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/54/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0210-photos-yfdwkxj7/dcw-editions-lampe-gras-modele-lampe-gras-n0210-photos-yfdwkxj7-s.jpg"
+                ],
+                "description": "Over a bedhead, at the edge of a desk or table… it’s up to you ! This model speaks for itself. Able to stand up to heavy usage, it will even resist the trials and tribulations of a child’s bedroom.",
+                "tech_infos": {
+                  "Dimensions": "Arm : 39 cm | Rod : 20 cm | Bar : 78 cm",
+                  "Materials": "Steel",
+                  "Electricity": "CLII - E14, ESL 11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (2.41 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/56",
+                  "Technical drawings (44.30 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/59",
+                  "3D & 2D files (6.59 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/335",
+                  "Technical sheets (2.30 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/568",
+                  "US specification sheet (941.63 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/981"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/54/documents/dcw-editions-modele-n0210-document-schema-technique-n0qx0dud.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°213": {
+            "grup_data": {
+              "group_id": "700600-1-R",
+              "group_name": "N°213",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/63/dcw-editions-lampe-gras-lampe-gras-n0213-thumb-rf8lrgjv.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/63/n213"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°213",
+                "product_id": "700600-1-R-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/63/dcw-editions-lampe-gras-lampe-gras-n0213-thumb-rf8lrgjv.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/63/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0213-photos-nm0rwtrk/dcw-editions-lampe-gras-modele-lampe-gras-n0213-photos-nm0rwtrk-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/63/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0213-photos-a7fcr4bc/dcw-editions-lampe-gras-modele-lampe-gras-n0213-photos-a7fcr4bc-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/63/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0213-photos-hgxad2rh/dcw-editions-lampe-gras-modele-lampe-gras-n0213-photos-hgxad2rh-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/63/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0213-photos-0vxuwswy/dcw-editions-lampe-gras-modele-lampe-gras-n0213-photos-0vxuwswy-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/63/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0213-photos-vbtcrxyp/dcw-editions-lampe-gras-modele-lampe-gras-n0213-photos-vbtcrxyp-s.jpg"
+                ],
+                "description": "Whatever the size of the space, it will fit in. The first reaction people have to it is nearly always: “My room is too small!” But in a small space, over a desk or a table, it leaves room free at floor level, while in a large room it naturally comes into its own.",
+                "tech_infos": {
+                  "Dimensions": "Arm min 1070 mm, max 1460 mm | Rod 200 mm",
+                  "Materials": "Steel",
+                  "Electricity": "CLII - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (2.61 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/61",
+                  "Technical drawings (29.59 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/63",
+                  "3D & 2D files (5.78 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/336",
+                  "Technical sheets (2.31 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/569"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/63/documents/dcw-editions-modele-n0213-document-schema-technique-qiinpbnu.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°214": {
+            "grup_data": {
+              "group_id": "700600-1-S",
+              "group_name": "N°214",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/64/dcw-editions-lampe-gras-lampe-gras-n0214-thumb-rt50jrqa.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/64/n214"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°214",
+                "product_id": "700600-1-S-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/64/dcw-editions-lampe-gras-lampe-gras-n0214-thumb-rt50jrqa.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/64/galerie/dcw-editions-lampe-gras-modele-n0214-photos-ayc2xff1/dcw-editions-lampe-gras-modele-n0214-photos-ayc2xff1-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/64/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0214-photos-rjrq7xql/dcw-editions-lampe-gras-modele-lampe-gras-n0214-photos-rjrq7xql-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/64/galerie/dcw-editions-lampe-gras-modele-n0214-photos-r28s19pg/dcw-editions-lampe-gras-modele-n0214-photos-r28s19pg-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/64/galerie/dcw-editions-lampe-gras-modele-n0214-photos-2b5ineqd/dcw-editions-lampe-gras-modele-n0214-photos-2b5ineqd-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/64/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0214-photos-81ise02a/dcw-editions-lampe-gras-modele-lampe-gras-n0214-photos-81ise02a-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/64/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0214-photos-kfsjra59/dcw-editions-lampe-gras-modele-lampe-gras-n0214-photos-kfsjra59-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/64/galerie/dcw-editions-lampe-gras-modele-n0214-photos-r5iksstf/dcw-editions-lampe-gras-modele-n0214-photos-r5iksstf-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/64/galerie/dcw-editions-lampe-gras-modele-n0214-photos-ts0gtesi/dcw-editions-lampe-gras-modele-n0214-photos-ts0gtesi-s.jpg"
+                ],
+                "description": "We prefer not to use any adjective to describe this lamp, because only superlatives can do it justice and then the question is which one to choose? The ‘Male/Female system used on the vertical supports makes it completely flexible. Then there is its form… but we’re not the only ones to love it!",
+                "tech_infos": {
+                  "Dimensions": "Arm : 73 cm | Rod : 20 cm | Bar : 128 cm",
+                  "Materials": "Bar, base and arms : steel",
+                  "Electricity": "CLII - E14, ESL 11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (2.36 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/71",
+                  "3D & 2D files (6.33 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/339",
+                  "Technical sheets (889.91 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/834",
+                  "Technical drawings (149.66 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/835",
+                  "US specification sheet (938.35 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/982"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/64/documents/dcw-editions-modele-n0214-document-schema-technique-9ykycrqd.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°222": {
+            "grup_data": {
+              "group_id": "700600-1-T",
+              "group_name": "N°222",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/67/dcw-editions-lampe-gras-n0222-thumb-qac5hp1t.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/67/n222"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°222",
+                "product_id": "700600-1-T-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/67/dcw-editions-lampe-gras-n0222-thumb-qac5hp1t.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/67/galerie/dcw-editions-lampe-gras-modele-n0222-photos-g4luukny/dcw-editions-lampe-gras-modele-n0222-photos-g4luukny-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/67/galerie/dcw-editions-lampe-gras-modele-n0222-photos-cf42sxb0/dcw-editions-lampe-gras-modele-n0222-photos-cf42sxb0-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/67/galerie/dcw-editions-lampe-gras-modele-n0222-photos-tabwenyf/dcw-editions-lampe-gras-modele-n0222-photos-tabwenyf-s.jpg"
+                ],
+                "description": "Perfect in a corridor, fits perfectly with mirrors.",
+                "tech_infos": {
+                  "Dimensions": "Arm : 40 cm | Rod : 20 cm",
+                  "Materials": "Base and arms : steel",
+                  "Electricity": "CLII - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (2.22 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/74",
+                  "Technical drawings (46.92 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/75",
+                  "3D & 2D files (6.28 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/340",
+                  "Technical sheets (2.34 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/575"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/67/documents/dcw-editions-modele-n0222-document-schema-technique-gyfct1k7.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°303": {
+            "grup_data": {
+              "group_id": "700600-1-U",
+              "group_name": "N°303",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/68/dcw-editions-lampe-gras-lampe-gras-n0303-thumb-35m03ifn.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/68/n303"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°303",
+                "product_id": "700600-1-U-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/68/dcw-editions-lampe-gras-lampe-gras-n0303-thumb-35m03ifn.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/68/galerie/dcw-editions-lampe-gras-modele-n0303-photos-avhqbp8i/dcw-editions-lampe-gras-modele-n0303-photos-avhqbp8i-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/68/galerie/dcw-editions-lampe-gras-modele-n0303-photos-gb6iawbw/dcw-editions-lampe-gras-modele-n0303-photos-gb6iawbw-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/68/galerie/dcw-editions-lampe-gras-modele-n0303-photos-rtngknql/dcw-editions-lampe-gras-modele-n0303-photos-rtngknql-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/68/galerie/dcw-editions-lampe-gras-modele-n0303-photos-rmurnnac/dcw-editions-lampe-gras-modele-n0303-photos-rmurnnac-s.jpg"
+                ],
+                "description": "Perfect over a bedhead at the edge of a desk or table...",
+                "tech_infos": {
+                  "Dimensions": "Arm : min 34 cm - max 70 cm | Rod : 20 cm",
+                  "Materials": "Base, arms and double-elbow : steel",
+                  "Electricity": "CLII - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (2.36 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/219",
+                  "Technical drawings (28.05 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/220",
+                  "3D & 2D files (6.31 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/341",
+                  "Technical sheets (2.34 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/576"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/68/documents/dcw-editions-modele-n0303-document-schema-technique-htcbvme7.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°304": {
+            "grup_data": {
+              "group_id": "700600-1-V",
+              "group_name": "N°304",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/69/dcw-editions-lampe-gras-lampe-gras-n0304-thumb-lwjb8egd.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/69/n304"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°304",
+                "product_id": "700600-1-V-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/69/dcw-editions-lampe-gras-lampe-gras-n0304-thumb-lwjb8egd.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/69/galerie/dcw-editions-lampe-gras-modele-n0304-photos-ylxfb7bj/dcw-editions-lampe-gras-modele-n0304-photos-ylxfb7bj-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/69/galerie/dcw-editions-lampe-gras-modele-n0304-photos-6b6lud8f/dcw-editions-lampe-gras-modele-n0304-photos-6b6lud8f-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/69/galerie/dcw-editions-lampe-gras-modele-n0304-photos-vqeerscv/dcw-editions-lampe-gras-modele-n0304-photos-vqeerscv-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/69/galerie/dcw-editions-lampe-gras-modele-n0304-photos-xl0c67ja/dcw-editions-lampe-gras-modele-n0304-photos-xl0c67ja-s.jpg"
+                ],
+                "description": "This ‘spotlight’ has become a reference point in the world of lighting. Discreet and beautifully made, it stands out by an aspect that makes you instinctively want to trust it. It is perfect in a corridor, over a painting, in a kitchen, a bathroom, over a bedhead… It also exists in 2 different options : n°304SW (with a switch on the base-no cable) and n°304CA (with a cable and a switch on the cable).",
+                "tech_infos": {
+                  "Dimensions": "Arm : 15 cm",
+                  "Materials": "Base and arm : steel",
+                  "Electricity": "CLI - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (397.23 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/77",
+                  "3D & 2D files (7.07 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/342",
+                  "Technical drawings (227.74 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/454",
+                  "Technical sheets (6.14 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/578",
+                  "US specification sheet (1.46 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/978"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/69/documents/dcw-editions-modele-n0304-document-schema-technique-l4citkep.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°304 Bathroom (CLI)": {
+            "grup_data": {
+              "group_id": "700600-1-W",
+              "group_name": "N°304 Bathroom (CLI)",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/72/dcw-editions-lampe-gras-lampe-gras-n0304-bathroom-thumb-pyelpib4.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/72/n304-bathroom-cli"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°304 Bathroom (CLI)",
+                "product_id": "700600-1-W-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/72/dcw-editions-lampe-gras-lampe-gras-n0304-bathroom-thumb-pyelpib4.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/72/galerie/dcw-editions-lampe-gras-modele-n0304-bathroom-photos-pth3esrl/dcw-editions-lampe-gras-modele-n0304-bathroom-photos-pth3esrl-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/72/galerie/dcw-editions-lampe-gras-modele-n0304-bathroom-photos-jr4nvana/dcw-editions-lampe-gras-modele-n0304-bathroom-photos-jr4nvana-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/72/galerie/dcw-editions-lampe-gras-modele-n0304-bathroom-photos-memv15dm/dcw-editions-lampe-gras-modele-n0304-bathroom-photos-memv15dm-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/72/galerie/dcw-editions-lampe-gras-modele-n0304-bathroom-photos-sc2gcj90/dcw-editions-lampe-gras-modele-n0304-bathroom-photos-sc2gcj90-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/72/galerie/dcw-editions-lampe-gras-modele-n0304-bathroom-photos-ki1ftsr3/dcw-editions-lampe-gras-modele-n0304-bathroom-photos-ki1ftsr3-s.jpg"
+                ],
+                "description": "Iconic and irreplaceable, the most famous wall lamp in the Gras collection is also available for the bathroom. Its ball-and-socket base allows for the most extravagant 360° configurations, if necessary.⁠",
+                "tech_infos": {
+                  "Dimensions": "Arm : 15cm | Cast diameter : 9,5cm",
+                  "Materials": "Steel, celoron, borosilicate glass, galvanized steel, silicone seals",
+                  "Electricity": "CLI - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP64.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (441.88 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/80",
+                  "Technical drawings (34.86 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/81",
+                  "Technical sheets (707.81 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/642",
+                  "US specification sheet (467.08 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/979"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/72/documents/dcw-editions-modele-n0304-bathroom-document-schema-technique-ux6nbfa1.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°304 Bathroom (CLII)": {
+            "grup_data": {
+              "group_id": "700600-1-X",
+              "group_name": "N°304 Bathroom (CLII)",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/253/dcw-editions-lampe-gras-n0304-bathroom-clii-thumb-nqmavxnq.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/253/n304-bathroom-clii"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°304 Bathroom (CLII)",
+                "product_id": "700600-1-X-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/253/dcw-editions-lampe-gras-n0304-bathroom-clii-thumb-nqmavxnq.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/253/galerie/dcw-editions-lampe-gras-modele-n0304-bathroom-clii-photos-n1ylgb4t/dcw-editions-lampe-gras-modele-n0304-bathroom-clii-photos-n1ylgb4t-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/253/galerie/dcw-editions-lampe-gras-modele-n0304-bathroom-clii-photos-44pi55si/dcw-editions-lampe-gras-modele-n0304-bathroom-clii-photos-44pi55si-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/253/galerie/dcw-editions-lampe-gras-modele-n0304-bathroom-clii-photos-swwblbbi/dcw-editions-lampe-gras-modele-n0304-bathroom-clii-photos-swwblbbi-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/253/galerie/dcw-editions-lampe-gras-modele-n0304-bathroom-clii-photos-irn7ylgl/dcw-editions-lampe-gras-modele-n0304-bathroom-clii-photos-irn7ylgl-s.jpg"
+                ],
+                "description": "Iconic and irreplaceable, the most famous wall lamp in the Gras collection is also available for the bathroom. Its ball-and-socket base allows for the most extravagant 360° configurations, if necessary.⁠ If you need to see twice as well, opt for the Lampe Gras N°204 Double Bathroom⁠.",
+                "tech_infos": {
+                  "Dimensions": "Arm: 15 cm Base diameter: 9,5 cm",
+                  "Materials": "Steel, celoron, borosilicate glass, galvanised steel, silicone seals",
+                  "Electricity": "CLII - E14",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Technical sheets (410.65 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/892",
+                  "Installation guidelines (441.88 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/893",
+                  "3D & 2D files (6.92 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/894",
+                  "Technical drawings (34.86 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/895"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/253/documents/dcw-editions-modele-n0304-bathroom-clii-document-schema-technique-dnvm7tnb.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°304 L 40 & N°304 L 40 SW": {
+            "grup_data": {
+              "group_id": "700600-1-Y",
+              "group_name": "N°304 L 40 & N°304 L 40 SW",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/70/dcw-editions-lampe-gras-lampe-gras-n0304-l-40-thumb-knla2ksh.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/70/n304-l-40-n304-l-40-sw"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°304 L 40 & N°304 L 40 SW",
+                "product_id": "700600-1-Y-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/70/dcw-editions-lampe-gras-lampe-gras-n0304-l-40-thumb-knla2ksh.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/70/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0304-l-40-photos-gxgpn4q7/dcw-editions-lampe-gras-modele-lampe-gras-n0304-l-40-photos-gxgpn4q7-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/70/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0304-l-40-photos-snich7qg/dcw-editions-lampe-gras-modele-lampe-gras-n0304-l-40-photos-snich7qg-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/70/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0304-l-40-photos-bil1c4jb/dcw-editions-lampe-gras-modele-lampe-gras-n0304-l-40-photos-bil1c4jb-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/70/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0304-l-40-photos-a1cijumt/dcw-editions-lampe-gras-modele-lampe-gras-n0304-l-40-photos-a1cijumt-s.jpg"
+                ],
+                "description": "Perfect for hospitality uses : wall lamp or ceiling lamp ? Both uses ! Available with (N°304 L 40 SW) or without switch (N°304 L 40) on the lamp.",
+                "tech_infos": {
+                  "Dimensions": "Arm : 40 cm | Rod : 20 cm",
+                  "Materials": "Socle and arms : steel",
+                  "Electricity": "CLI - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Technical drawings (47.90 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/83",
+                  "Installation guidelines (1.50 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/84",
+                  "3D & 2D files (8.15 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/343",
+                  "Technical sheets (2.31 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/581",
+                  "US specification sheet (926.47 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/980"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/70/documents/dcw-editions-modele-n0304-l-40-document-schema-technique-hxkelyff.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°304 L 60": {
+            "grup_data": {
+              "group_id": "700600-1-Z",
+              "group_name": "N°304 L 60",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/71/dcw-editions-lampe-gras-n0304-l-60-thumb-lvyc8shv.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/71/n304-l-60"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°304 L 60",
+                "product_id": "700600-1-Z-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/71/dcw-editions-lampe-gras-n0304-l-60-thumb-lvyc8shv.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/71/galerie/dcw-editions-lampe-gras-modele-n0304-l-60-photos-rhuly3bi/dcw-editions-lampe-gras-modele-n0304-l-60-photos-rhuly3bi-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/71/galerie/dcw-editions-lampe-gras-modele-n0304-l-60-photos-acup0uhl/dcw-editions-lampe-gras-modele-n0304-l-60-photos-acup0uhl-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/71/galerie/dcw-editions-lampe-gras-modele-n0304-l-60-photos-9pqbjgeg/dcw-editions-lampe-gras-modele-n0304-l-60-photos-9pqbjgeg-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/71/galerie/dcw-editions-lampe-gras-modele-n0304-l-60-photos-2iqncutf/dcw-editions-lampe-gras-modele-n0304-l-60-photos-2iqncutf-s.jpg"
+                ],
+                "description": "Perfect for hospitality uses (no cable, no switch): wall lamp or ceiling lamp ? Both uses !",
+                "tech_infos": {
+                  "Dimensions": "Arm : 60 cm | Rod : 20 cm",
+                  "Materials": "Steel",
+                  "Electricity": "CLI - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (1.50 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/86",
+                  "Technical drawings (38.56 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/87",
+                  "3D & 2D files (7.90 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/344",
+                  "Technical sheets (2.31 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/582"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/71/documents/dcw-editions-modele-n0304-l-60-document-schema-technique-xnb1ur6d.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°302": {
+            "grup_data": {
+              "group_id": "700600-1-[",
+              "group_name": "N°302",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/73/dcw-editions-lampe-gras-lampe-gras-n0302-thumb-1umw99mp.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/73/n302"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°302",
+                "product_id": "700600-1-[-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/73/dcw-editions-lampe-gras-lampe-gras-n0302-thumb-1umw99mp.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/73/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0302-photos-vd7fwayi/dcw-editions-lampe-gras-modele-lampe-gras-n0302-photos-vd7fwayi-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/73/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0302-photos-1bxlq6ue/dcw-editions-lampe-gras-modele-lampe-gras-n0302-photos-1bxlq6ue-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/73/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0302-photos-rb5dhty3/dcw-editions-lampe-gras-modele-lampe-gras-n0302-photos-rb5dhty3-s.jpg"
+                ],
+                "description": "Once again a light that is idiosyncratic but with its own character. Adjustable in its length, N°302 is highly convenient. This lamp gives ambiance, while over a work surface.",
+                "tech_infos": {
+                  "Dimensions": "Adjustable arm : min 54 cm - max 92 cm | Rod : 20 cm",
+                  "Materials": "Base and arms : steel",
+                  "Electricity": "CLI - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Technical drawings (33.67 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/89",
+                  "3D & 2D files (8.08 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/345",
+                  "Technical sheets (2.26 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/583",
+                  "US specification sheet (922.14 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/983"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/73/documents/dcw-editions-modele-n0302-document-schema-technique-gsqaye6s.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°312": {
+            "grup_data": {
+              "group_id": "700600-1-\\",
+              "group_name": "N°312",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/74/dcw-editions-lampe-gras-lampe-gras-n0312-thumb-b9f5tlyy.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/74/n312"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°312",
+                "product_id": "700600-1-\\-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/74/dcw-editions-lampe-gras-lampe-gras-n0312-thumb-b9f5tlyy.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/74/galerie/dcw-editions-lampe-gras-modele-n0312-photos-lefj8anm/dcw-editions-lampe-gras-modele-n0312-photos-lefj8anm-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/74/galerie/dcw-editions-lampe-gras-modele-n0312-photos-rkkmnifd/dcw-editions-lampe-gras-modele-n0312-photos-rkkmnifd-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/74/galerie/dcw-editions-lampe-gras-modele-n0312-photos-w65tlb5v/dcw-editions-lampe-gras-modele-n0312-photos-w65tlb5v-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/74/galerie/dcw-editions-lampe-gras-modele-n0312-photos-rkn9kg4k/dcw-editions-lampe-gras-modele-n0312-photos-rkn9kg4k-s.jpg"
+                ],
+                "description": "We have decided to edit a very distinctive hanging lamp, very graphic, practical with its extension (you can adjust the height of the lamp) and so unusual !",
+                "tech_infos": {
+                  "Dimensions": "Double-elbow : 36 cm x 2 (72 cm) | Rod : 20 cm",
+                  "Materials": "Base, arms and double-elbow : steel",
+                  "Electricity": "CLI - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (1.22 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/91",
+                  "Technical drawings (45.05 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/92",
+                  "3D & 2D files (5.46 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/346",
+                  "Technical sheets (2.27 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/584",
+                  "US specification sheet (935.83 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/984"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/74/documents/dcw-editions-modele-n0312-document-schema-technique-mkicf3vw.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°215": {
+            "grup_data": {
+              "group_id": "700600-1-]",
+              "group_name": "N°215",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/75/dcw-editions-lampe-gras-lampe-gras-n0215-thumb-cj5nh6b3.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/75/n215"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°215",
+                "product_id": "700600-1-]-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/75/dcw-editions-lampe-gras-lampe-gras-n0215-thumb-cj5nh6b3.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/75/galerie/dcw-editions-lampe-gras-modele-n0215-photos-7b5ru7p8/dcw-editions-lampe-gras-modele-n0215-photos-7b5ru7p8-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/75/galerie/dcw-editions-lampe-gras-modele-n0215-photos-ruljyw60/dcw-editions-lampe-gras-modele-n0215-photos-ruljyw60-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/75/galerie/dcw-editions-lampe-gras-modele-n0215-photos-espa8spj/dcw-editions-lampe-gras-modele-n0215-photos-espa8spj-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/75/galerie/dcw-editions-lampe-gras-modele-n0215-photos-brs4eta3/dcw-editions-lampe-gras-modele-n0215-photos-brs4eta3-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/75/galerie/dcw-editions-lampe-gras-modele-n0215-photos-yarx57hy/dcw-editions-lampe-gras-modele-n0215-photos-yarx57hy-s.jpg"
+                ],
+                "description": "Graphical, solid and distinguished looking it is a must-have for any self-respecting aesthete.",
+                "tech_infos": {
+                  "Dimensions": "Arm : 73 cm | Rod : 20 cm | Bar : 135 cm",
+                  "Materials": "Socle, bar, base and arms : steel",
+                  "Electricity": "CLII - E14-ESL11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (2.43 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/94",
+                  "Technical drawings (30.68 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/95",
+                  "3D & 2D files (6.57 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/347",
+                  "Technical sheets (2.26 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/585",
+                  "US specification sheet (930.39 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/975"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/75/documents/dcw-editions-modele-n0215-document-schema-technique-gr0r5vka.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "N°411": {
+            "grup_data": {
+              "group_id": "700600-1-^",
+              "group_name": "N°411",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/77/dcw-editions-lampe-gras-lampe-gras-n0411-thumb-9w02rwtr.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/77/n411"
+            },
+            "ürünler": [
+              {
+                "product_name": "N°411",
+                "product_id": "700600-1-^-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/77/dcw-editions-lampe-gras-lampe-gras-n0411-thumb-9w02rwtr.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/77/galerie/dcw-editions-lampe-gras-modele-n0411-photos-cmjvgsdc/dcw-editions-lampe-gras-modele-n0411-photos-cmjvgsdc-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/77/galerie/dcw-editions-lampe-gras-modele-n0411-photos-5pw2kmgb/dcw-editions-lampe-gras-modele-n0411-photos-5pw2kmgb-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/77/galerie/dcw-editions-lampe-gras-modele-n0411-photos-3y4svwl2/dcw-editions-lampe-gras-modele-n0411-photos-3y4svwl2-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/77/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0411-photos-a1aj3ayc/dcw-editions-lampe-gras-modele-lampe-gras-n0411-photos-a1aj3ayc-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/77/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0411-photos-wwcsm2nm/dcw-editions-lampe-gras-modele-lampe-gras-n0411-photos-wwcsm2nm-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/77/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0411-photos-dghju9qs/dcw-editions-lampe-gras-modele-lampe-gras-n0411-photos-dghju9qs-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/77/galerie/dcw-editions-lampe-gras-modele-lampe-gras-n0411-photos-g6upgbej/dcw-editions-lampe-gras-modele-lampe-gras-n0411-photos-g6upgbej-s.jpg"
+                ],
+                "description": "A floor lamp for reading, created with wonderful proportions, very adjustable and graphic thanks to its double-elbow (it allows it to be rotated twice through 340°) and an ideal height (120 cm) for a use besides a sofa : it will be so gracious and discreet !",
+                "tech_infos": {
+                  "Dimensions": "Double elbow : 36 - 72 cm | Rod : 20 cm | Bar : 105 + 16 cm",
+                  "Materials": "Socle, base, bar and arm : steel",
+                  "Electricity": "CLII - E14 - ESL 11W",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (734.73 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/100",
+                  "Technical drawings (30.05 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/101",
+                  "3D & 2D files (5.28 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/349",
+                  "Technical sheets (2.27 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/587",
+                  "US specification sheet (941.45 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/976"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/77/documents/dcw-editions-modele-n0411-document-schema-technique-ehg4lxy5.png",
+                "different_color_images": {}
               }
             ]
           }
@@ -221,144 +1174,387 @@
       }
     }
   },
-  "SOUL Outdoor": {
+  "Collection Atmospherics": {
     "aile_data": {
-      "family_id": 700080,
-      "family_name": "SOUL Outdoor",
-      "family_designer": "Charles Kalpakian",
-      "family_image": "https://dcw-editions.fr/storage/img/collections/43/dcw-editions-collection-soul-outdoor-ntuacv65.jpg",
-      "family_info": "Outer WorldsLaunched in 2022, the SOUL collection is now available in an outdoor version. The Story 1, 2 and 3 have been developed in white concrete, IP64 rated.",
-      "family_link": "https://dcw-editions.fr/en/collection/43/soul-outdoor"
+      "family_id": 700640,
+      "family_name": "Collection Atmospherics",
+      "family_designer": "-",
+      "family_image": "https://dcw-editions.fr/storage/img/collections/27/dcw-editions-collection-collection-atmospherics-s9acmneh.jpg",
+      "family_info": "Guardians of the night-templeAcross the globe, light evolves over time. From the soft and reassuring light of the candle to the raw LED brightness of the refrigerator light, centuries have passed. Are we at the delta of the big day, even at night ? Are we looking for light from midday to midnight ? At night the « atmospherics » slips into the depths of the evening, plays the soft night at moonrise, to better weave the links at the gates of the intimate. By day, the « atmospherics » acts as guardian of the night-temple.",
+      "family_link": "https://dcw-editions.fr/en/collection/27/collection-atmospherics"
     },
     "seriler": {
-      "SOUL Outdoor": {
-        "seri_data": {
-          "seri_id": "700080-1",
-          "seri_name": "SOUL Outdoor",
-          "seri_img": "https://dcw-editions.fr/storage/img/collections/43/presentation/dcw-editions-collection-presentation-soul-outdoor-uhyfb0w1/dcw-editions-collection-presentation-soul-outdoor-uhyfb0w1-s.jpg",
-          "seri_link": "https://dcw-editions.fr/en/collection/43/soul-outdoor"
+      "Collection Atmospherics": {
+        "series_data": {
+          "series_id": "700640-1",
+          "series_name": "Collection Atmospherics",
+          "series_img": "https://dcw-editions.fr/storage/img/collections/27/presentation/dcw-editions-collection-presentation-collection-atmospherics-gucpb6gb/dcw-editions-collection-presentation-collection-atmospherics-gucpb6gb-s.jpg",
+          "series_link": "https://dcw-editions.fr/en/collection/27/collection-atmospherics"
         },
         "gruplar": {
-          "Soul Story 1 - Outdoor": {
+          "Borely": {
             "grup_data": {
-              "grup_id": "700080-1-A",
-              "grup_name": "Soul Story 1 - Outdoor",
-              "grup_img": "https://dcw-editions.fr/storage/img/modeles/266/dcw-editions-soul-outdoor-soul-story-1-outdoor-thumb-43ant2cj.jpg",
-              "grup_link": "https://dcw-editions.fr/en/modele/266/soul-story-1-outdoor"
+              "group_id": "700640-1-A",
+              "group_name": "Borely",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/210/dcw-editions-collection-atmospherics-borely-thumb-bk7nkday.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/210/borely"
             },
             "ürünler": [
               {
-                "product_name": "Soul Story 1 - Outdoor",
-                "product_id": "700080-1-A-1",
-                "product_img": "https://dcw-editions.fr/storage/img/modeles/266/dcw-editions-soul-outdoor-soul-story-1-outdoor-thumb-43ant2cj.jpg",
+                "product_name": "Borely",
+                "product_id": "700640-1-A-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/210/dcw-editions-collection-atmospherics-borely-thumb-bk7nkday.jpg",
                 "images": [
-                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-feff16qi/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-feff16qi-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-k5b3mby7/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-k5b3mby7-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-ylsmkgmk/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-ylsmkgmk-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-fflghpt1/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-fflghpt1-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-mw5nfumi/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-mw5nfumi-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-xbirxrnl/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-xbirxrnl-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-xax6heis/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-xax6heis-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-ts6fweli/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-ts6fweli-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-sxfvxnph/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-sxfvxnph-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/266/galerie/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-6qcpceb5/dcw-editions-soul-outdoor-modele-soul-story-1-outdoor-photos-6qcpceb5-s.jpg"
+                  "https://dcw-editions.fr/storage/img/modeles/210/galerie/dcw-editions-collection-atmospherics-modele-borely-photos-ujd4rpf0/dcw-editions-collection-atmospherics-modele-borely-photos-ujd4rpf0-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/210/galerie/dcw-editions-collection-atmospherics-modele-borely-photos-vbnleydf/dcw-editions-collection-atmospherics-modele-borely-photos-vbnleydf-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/210/galerie/dcw-editions-collection-atmospherics-modele-borely-photos-ytqgjtqx/dcw-editions-collection-atmospherics-modele-borely-photos-ytqgjtqx-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/210/galerie/dcw-editions-collection-atmospherics-modele-borely-photos-g81m3qps/dcw-editions-collection-atmospherics-modele-borely-photos-g81m3qps-s.jpg"
                 ],
-                "description": "Launched in 2022, the SOUL collection is now available in an outdoor version. The Story 1, 2 and 3 have been developed in white concrete, IP64 rated.",
+                "description": "Borely is a wall lamp created by the French designer Eric Gizard, with geometric shapes diffusing a soft and warm light.",
                 "tech_infos": {
-                  "Dimensions": "Height : 287 mm Width : 187 mm Depth : 165 mm",
-                  "Materials": "Concrete",
-                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
-                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP64.svg"
+                  "Dimensions": "W 160 x H 480 x D 165 mm",
+                  "Materials": "Brass, steel",
+                  "Electricity": "CLI - Integrated LED 2700K",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
                 },
                 "downloads": {
-                  "Installation guidelines (556.77 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1030",
-                  "3D & 2D files (891.13 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1031",
-                  "Technical drawings (69.88 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1032",
-                  "Technical sheets (427.26 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1069"
+                  "Technical sheets (119.01 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/710",
+                  "Installation guidelines (169.30 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/711",
+                  "3D & 2D files (101.04 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/712",
+                  "Technical drawings (59.95 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/713",
+                  "US specification sheet (121.24 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/915"
                 },
-                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/266/documents/dcw-editions-modele-soul-story-1-outdoor-document-schema-technique-hxve56xl.png"
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/210/documents/dcw-editions-modele-borely-document-schema-technique-hkkshhtc.png",
+                "different_color_images": {}
               }
             ]
           },
-          "Soul Story 2 - Outdoor": {
+          "Midnight": {
             "grup_data": {
-              "grup_id": "700080-1-B",
-              "grup_name": "Soul Story 2 - Outdoor",
-              "grup_img": "https://dcw-editions.fr/storage/img/modeles/267/dcw-editions-soul-outdoor-soul-story-2-outdoor-thumb-nqg2t0yu.jpg",
-              "grup_link": "https://dcw-editions.fr/en/modele/267/soul-story-2-outdoor"
+              "group_id": "700640-1-B",
+              "group_name": "Midnight",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/211/dcw-editions-collection-atmospherics-midnight-thumb-uxnydnfu.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/211/midnight"
             },
             "ürünler": [
               {
-                "product_name": "Soul Story 2 - Outdoor",
-                "product_id": "700080-1-B-1",
-                "product_img": "https://dcw-editions.fr/storage/img/modeles/267/dcw-editions-soul-outdoor-soul-story-2-outdoor-thumb-nqg2t0yu.jpg",
+                "product_name": "Midnight",
+                "product_id": "700640-1-B-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/211/dcw-editions-collection-atmospherics-midnight-thumb-uxnydnfu.jpg",
                 "images": [
-                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-uxcrwp5j/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-uxcrwp5j-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-35weghfc/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-35weghfc-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-a0vc8xse/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-a0vc8xse-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-jxwetm8a/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-jxwetm8a-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-4duqg57i/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-4duqg57i-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-enkpd4fe/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-enkpd4fe-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-eehvk3uw/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-eehvk3uw-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-ga461frw/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-ga461frw-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-xkkvqsk5/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-xkkvqsk5-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/267/galerie/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-yqaedvfe/dcw-editions-soul-outdoor-modele-soul-story-2-outdoor-photos-yqaedvfe-s.jpg"
+                  "https://dcw-editions.fr/storage/img/modeles/211/galerie/dcw-editions-collection-atmospherics-modele-midnight-photos-cj6twkdk/dcw-editions-collection-atmospherics-modele-midnight-photos-cj6twkdk-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/211/galerie/dcw-editions-collection-atmospherics-modele-midnight-photos-g0r129fg/dcw-editions-collection-atmospherics-modele-midnight-photos-g0r129fg-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/211/galerie/dcw-editions-collection-atmospherics-modele-midnight-photos-s7exkyp6/dcw-editions-collection-atmospherics-modele-midnight-photos-s7exkyp6-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/211/galerie/dcw-editions-collection-atmospherics-modele-midnight-photos-0espm4vj/dcw-editions-collection-atmospherics-modele-midnight-photos-0espm4vj-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/211/galerie/dcw-editions-collection-atmospherics-modele-midnight-photos-wsdhjjey/dcw-editions-collection-atmospherics-modele-midnight-photos-wsdhjjey-s.jpg"
                 ],
-                "description": "Launched in 2022, the SOUL collection is now available in an outdoor version. The Story 1, 2 and 3 have been developed in white concrete, IP64 rated.",
+                "description": "Midnight sconce, available in two sizes, is composed of two half-discs, one in frosted glass and the other in matt black steel. The steel part can be solid or pierced with thin bands that allow light to pass through. These multiple configuration possibilities allow a playful, totally graphic game.",
                 "tech_infos": {
-                  "Dimensions": "Height : 297 mm Width : 205 mm Depth : 137 mm",
-                  "Materials": "Concrete",
-                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
-                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP64.svg"
+                  "Dimensions": "MIDNIGHT 325 Ø 325 mm Depth: 70 mm  MIDNIGHT 505 Ø 505 mm Depth: 82 mm",
+                  "Materials": "Aluminium, glass",
+                  "Electricity": "CLI - Integrated LED 2700K - Dimmable",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
                 },
                 "downloads": {
-                  "3D & 2D files (467.13 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1034",
-                  "Installation guidelines (556.77 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1035",
-                  "Technical drawings (71.64 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1036",
-                  "Technical sheets (424.32 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1070"
+                  "Technical drawings (98.06 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/721",
+                  "3D & 2D files (921.12 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/722",
+                  "Installation guidelines (167.10 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/723",
+                  "Technical sheets (207.78 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/749"
                 },
-                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/267/documents/dcw-editions-modele-soul-story-2-outdoor-document-schema-technique-aanhhyjb.png"
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/211/documents/dcw-editions-modele-midnight-document-schema-technique-l8amcp13.png",
+                "different_color_images": {}
               }
             ]
           },
-          "Soul Story 3 - Outdoor": {
+          "Rosalie": {
             "grup_data": {
-              "grup_id": "700080-1-C",
-              "grup_name": "Soul Story 3 - Outdoor",
-              "grup_img": "https://dcw-editions.fr/storage/img/modeles/268/dcw-editions-soul-outdoor-soul-story-3-outdoor-thumb-p0arcksa.jpg",
-              "grup_link": "https://dcw-editions.fr/en/modele/268/soul-story-3-outdoor"
+              "group_id": "700640-1-C",
+              "group_name": "Rosalie",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/212/dcw-editions-collection-atmospherics-rosalie-thumb-jurdmapp.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/212/rosalie"
             },
             "ürünler": [
               {
-                "product_name": "Soul Story 3 - Outdoor",
-                "product_id": "700080-1-C-1",
-                "product_img": "https://dcw-editions.fr/storage/img/modeles/268/dcw-editions-soul-outdoor-soul-story-3-outdoor-thumb-p0arcksa.jpg",
+                "product_name": "Rosalie",
+                "product_id": "700640-1-C-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/212/dcw-editions-collection-atmospherics-rosalie-thumb-jurdmapp.jpg",
                 "images": [
-                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-hlgnqgmy/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-hlgnqgmy-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-tmlp5rr4/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-tmlp5rr4-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-y4bfrbat/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-y4bfrbat-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-w3bbel2j/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-w3bbel2j-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-1rwqfmxy/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-1rwqfmxy-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-2lrm0daq/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-2lrm0daq-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-ykdknbrs/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-ykdknbrs-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-1jvfu2sg/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-1jvfu2sg-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-9sfwnktm/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-9sfwnktm-s.jpg",
-                  "https://dcw-editions.fr/storage/img/modeles/268/galerie/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-6d7myyu1/dcw-editions-soul-outdoor-modele-soul-story-3-outdoor-photos-6d7myyu1-s.jpg"
+                  "https://dcw-editions.fr/storage/img/modeles/212/galerie/dcw-editions-collection-atmospherics-modele-rosalie-photos-wsfrhaqg/dcw-editions-collection-atmospherics-modele-rosalie-photos-wsfrhaqg-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/212/galerie/dcw-editions-collection-atmospherics-modele-rosalie-photos-fthurvse/dcw-editions-collection-atmospherics-modele-rosalie-photos-fthurvse-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/212/galerie/dcw-editions-collection-atmospherics-modele-rosalie-photos-sdjsxjaw/dcw-editions-collection-atmospherics-modele-rosalie-photos-sdjsxjaw-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/212/galerie/dcw-editions-collection-atmospherics-modele-rosalie-photos-wparpfsf/dcw-editions-collection-atmospherics-modele-rosalie-photos-wparpfsf-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/212/galerie/dcw-editions-collection-atmospherics-modele-rosalie-photos-raaasxa8/dcw-editions-collection-atmospherics-modele-rosalie-photos-raaasxa8-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/212/galerie/dcw-editions-collection-atmospherics-modele-rosalie-photos-6sir1bwv/dcw-editions-collection-atmospherics-modele-rosalie-photos-6sir1bwv-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/212/galerie/dcw-editions-collection-atmospherics-modele-rosalie-photos-kywiqtrn/dcw-editions-collection-atmospherics-modele-rosalie-photos-kywiqtrn-s.jpg"
                 ],
-                "description": "Launched in 2022, the SOUL collection is now available in an outdoor version. The Story 1, 2 and 3 have been developed in white concrete, IP64 rated.",
+                "description": "Created by the architect and designer Julie Fuillet, with the participation for the light design of Emeric Thiénot, Rosalie is a wall lamp made of thin aluminum plates. This lamp contains a warm and reassuring light, which it lets diffuse to create a soft atmosphere.",
                 "tech_infos": {
-                  "Dimensions": "Height : 287 mm Width : 185 mm Depth : 154 mm",
-                  "Materials": "Concrete",
-                  "Electricity": "CLII - Integrated LED 2700K - Dimmable",
-                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLII-IP64.svg"
+                  "Dimensions": "W 150 mm x H 400 mm x D 120 mm",
+                  "Materials": "Aluminium",
+                  "Electricity": "CLI - Integrated LED 2700K - Dimmable",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
                 },
                 "downloads": {
-                  "Installation guidelines (556.77 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1038",
-                  "3D & 2D files (1.20 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1039",
-                  "Technical drawings (85.77 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1040",
-                  "Technical sheets (456.65 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/1071"
+                  "3D & 2D files (1.05 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/726",
+                  "Technical drawings (90.75 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/727",
+                  "Technical sheets (136.56 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/836",
+                  "Installation guidelines (265.39 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/837",
+                  "US specification sheet (115.54 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/921"
                 },
-                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/268/documents/dcw-editions-modele-soul-story-3-outdoor-document-schema-technique-qwydsivw.png"
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/212/documents/dcw-editions-modele-rosalie-document-schema-technique-5vugbkjw.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "Delumina Wall": {
+            "grup_data": {
+              "group_id": "700640-1-D",
+              "group_name": "Delumina Wall",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/213/dcw-editions-collection-atmospherics-delumina-wall-thumb-qbegicpt.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/213/delumina-wall"
+            },
+            "ürünler": [
+              {
+                "product_name": "Delumina Wall",
+                "product_id": "700640-1-D-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/213/dcw-editions-collection-atmospherics-delumina-wall-thumb-qbegicpt.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/213/galerie/dcw-editions-collection-atmospherics-modele-delumina-wall-photos-pfgyqdyb/dcw-editions-collection-atmospherics-modele-delumina-wall-photos-pfgyqdyb-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/213/galerie/dcw-editions-collection-atmospherics-modele-delumina-wall-photos-fxvai2si/dcw-editions-collection-atmospherics-modele-delumina-wall-photos-fxvai2si-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/213/galerie/dcw-editions-collection-atmospherics-modele-delumina-wall-photos-49pbiw1s/dcw-editions-collection-atmospherics-modele-delumina-wall-photos-49pbiw1s-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/213/galerie/dcw-editions-collection-atmospherics-modele-delumina-wall-photos-unp0aq63/dcw-editions-collection-atmospherics-modele-delumina-wall-photos-unp0aq63-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/213/galerie/dcw-editions-collection-atmospherics-modele-delumina-wall-photos-d0tfn9be/dcw-editions-collection-atmospherics-modele-delumina-wall-photos-d0tfn9be-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/213/galerie/dcw-editions-collection-atmospherics-modele-delumina-wall-photos-em5beidg/dcw-editions-collection-atmospherics-modele-delumina-wall-photos-em5beidg-s.jpg"
+                ],
+                "description": "Delumina Wall is a wall lamp made up of two glass discs which, through a playful and surprising process, let soft light shine through. Using a dial, it is possible to vary the shade of the upper disc, it going from transparency to total opacity, allowing more or less light to pass through as desired.",
+                "tech_infos": {
+                  "Dimensions": "DELUMINA W 250 Ø 250 mm Total depth : 126 mm  DELUMINA W 320 Ø 320 mm Total depth : 126 mm",
+                  "Materials": "Steel, aluminium, glass",
+                  "Electricity": "CLI - Integrated LED 2700K",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Technical sheets (219.68 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/728",
+                  "Installation guidelines (145.28 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/729",
+                  "3D & 2D files (4.24 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/730",
+                  "Technical drawings (24.40 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/731"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/213/documents/dcw-editions-modele-delumina-wall-document-schema-technique-ip061wwp.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "Delumina Pendant": {
+            "grup_data": {
+              "group_id": "700640-1-E",
+              "group_name": "Delumina Pendant",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/220/dcw-editions-collection-atmospherics-delumina-pendant-thumb-irbkhq6k.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/220/delumina-pendant"
+            },
+            "ürünler": [
+              {
+                "product_name": "Delumina Pendant",
+                "product_id": "700640-1-E-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/220/dcw-editions-collection-atmospherics-delumina-pendant-thumb-irbkhq6k.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/220/galerie/dcw-editions-collection-atmospherics-modele-delumina-pendant-photos-kker8eu5/dcw-editions-collection-atmospherics-modele-delumina-pendant-photos-kker8eu5-s.jpg"
+                ],
+                "description": "Delumina Pendant is made up of two glass discs which, through a playful and surprising process, let soft light shine through. Using a dial, it is possible to vary the shade of the upper disc, it going from transparency to total opacity, allowing more or less light to pass through as desired.",
+                "tech_infos": {
+                  "Dimensions": "Canopy : Ø 90 mm, H 120 mm Cables : 2000 mm max. Body : Ø 400 mm",
+                  "Materials": "Steel, aluminium, glass",
+                  "Electricity": "CLI - GU5.3 (x2)",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Installation guidelines (190.66 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/733",
+                  "3D & 2D files (2.03 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/734",
+                  "Technical drawings (17.33 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/735",
+                  "Technical sheets (93.37 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/818"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/220/documents/dcw-editions-modele-delumina-pendant-document-schema-technique-lsmsphqe.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "Respiro Wall": {
+            "grup_data": {
+              "group_id": "700640-1-F",
+              "group_name": "Respiro Wall",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/215/dcw-editions-collection-atmospherics-respiro-wall-thumb-lnr098cr.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/215/respiro-wall"
+            },
+            "ürünler": [
+              {
+                "product_name": "Respiro Wall",
+                "product_id": "700640-1-F-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/215/dcw-editions-collection-atmospherics-respiro-wall-thumb-lnr098cr.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/215/galerie/dcw-editions-collection-atmospherics-modele-respiro-wall-photos-nhfyksvb/dcw-editions-collection-atmospherics-modele-respiro-wall-photos-nhfyksvb-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/215/galerie/dcw-editions-collection-atmospherics-modele-respiro-wall-photos-rkrlvlsa/dcw-editions-collection-atmospherics-modele-respiro-wall-photos-rkrlvlsa-s.jpg"
+                ],
+                "description": "Philippe Nigro opens new pages of his diary to us by delivering Respiro Wall, a warm and intimate wall lamp, offered in two sizes.",
+                "tech_infos": {
+                  "Dimensions": "RESPIRO WALL L 230 mm x H 145 mm x P 60 mm  RESPIRO WALL L L 289 mm x H 180 mm x P 72 mm",
+                  "Materials": "Anodized aluminium",
+                  "Electricity": "CLI - Integrated LED 2700K",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "3D & 2D files (1.31 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/740",
+                  "Installation guidelines (274.51 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/741",
+                  "Technical sheets (327.41 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/742",
+                  "Technical drawings (36.50 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/743",
+                  "US specification sheet (142.20 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/920"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/215/documents/dcw-editions-modele-respiro-wall-document-schema-technique-fg5xiys6.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "Pan": {
+            "grup_data": {
+              "group_id": "700640-1-G",
+              "group_name": "Pan",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/214/dcw-editions-collection-atmospherics-pan-thumb-m2fskfky.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/214/pan"
+            },
+            "ürünler": [
+              {
+                "product_name": "Pan",
+                "product_id": "700640-1-G-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/214/dcw-editions-collection-atmospherics-pan-thumb-m2fskfky.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/214/galerie/dcw-editions-collection-atmospherics-modele-pan-photos-rjh4tb8t/dcw-editions-collection-atmospherics-modele-pan-photos-rjh4tb8t-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/214/galerie/dcw-editions-collection-atmospherics-modele-pan-photos-ybxivegs/dcw-editions-collection-atmospherics-modele-pan-photos-ybxivegs-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/214/galerie/dcw-editions-collection-atmospherics-modele-pan-photos-jiyak5hj/dcw-editions-collection-atmospherics-modele-pan-photos-jiyak5hj-s.jpg"
+                ],
+                "description": "",
+                "tech_infos": {
+                  "Dimensions": "Ø 440 mm Depth: 119 mm",
+                  "Materials": "PMMA, aluminium",
+                  "Electricity": "CLI - Integrated LED 2700K",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Technical sheets (112.28 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/736",
+                  "Installation guidelines (138.58 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/737",
+                  "3D & 2D files (4.38 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/738",
+                  "Technical drawings (126.98 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/739"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/214/documents/dcw-editions-modele-pan-document-schema-technique-eg9qnvmx.png",
+                "different_color_images": {}
+              }
+            ]
+          },
+          "Map 1": {
+            "grup_data": {
+              "group_id": "700640-1-H",
+              "group_name": "Map 1",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/216/dcw-editions-collection-atmospherics-map-1-thumb-v28xggrc.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/216/map-1"
+            },
+            "ürünler": [
+              {
+                "product_name": "Map 1",
+                "product_id": "700640-1-H-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/216/dcw-editions-collection-atmospherics-map-1-thumb-v28xggrc.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/216/galerie/dcw-editions-collection-atmospherics-modele-map-1-photos-un35uy8k/dcw-editions-collection-atmospherics-modele-map-1-photos-un35uy8k-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/216/galerie/dcw-editions-collection-atmospherics-modele-map-1-l-photos-fuigh3nl/dcw-editions-collection-atmospherics-modele-map-1-l-photos-fuigh3nl-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/216/galerie/dcw-editions-collection-atmospherics-modele-map-1-photos-sv6nb9ul/dcw-editions-collection-atmospherics-modele-map-1-photos-sv6nb9ul-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/216/galerie/dcw-editions-collection-atmospherics-modele-map-1-photos-n2lrq71l/dcw-editions-collection-atmospherics-modele-map-1-photos-n2lrq71l-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/216/galerie/dcw-editions-collection-atmospherics-modele-map-1-photos-v1jhtuyf/dcw-editions-collection-atmospherics-modele-map-1-photos-v1jhtuyf-s.jpg"
+                ],
+                "description": "MAP 1 by Eric de Dormael join the Atmospheric collection, which was initiated with In The Sun by Dominique Perrault and Gaëlle Lauriot-Prévost. MAP 1 and MAP 2 were presented at Euroluce Milan 2019: they were a surprise for some... The luminaries of Sarfatti, Castiglioni and other masters are now sold by 20th century furniture dealers. DCW éditions' objects are intended to carry on this tradition. These luminaries will delight tomorrow's galleries. And those who choose to live with them today enjoy the same experience. Atmosphere, Atmosphere ...",
+                "tech_infos": {
+                  "Dimensions": "MAP 1 Height 330 mm Width 170 mm  MAP 1 L Height 398 mm Width 235 mm",
+                  "Materials": "Steel, varnished brushed brass",
+                  "Electricity": "CLI - Integrated LED 2700K",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLI-IP20.svg"
+                },
+                "downloads": {
+                  "Technical sheets (101.37 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/744",
+                  "3D & 2D files (1.11 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/745",
+                  "Technical drawings (102.66 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/747",
+                  "US specification sheet (104.13 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/956"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/216/documents/dcw-editions-modele-map-1-document-schema-technique-atram3ck.png",
+                "different_color_images": {}
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "Yasuke": {
+    "aile_data": {
+      "family_id": 700680,
+      "family_name": "Yasuke",
+      "family_designer": "Studio BrichetZiegler",
+      "family_image": "https://dcw-editions.fr/storage/img/collections/28/dcw-editions-collection-yasuke-9anepv6e.jpg",
+      "family_info": "From the rising of the sun to its setting in the evening1550-1590 From the rising of the sun to its setting in the evening, from slave to Samurai, Yasuke traverses oceans, crosses continents.  2021-2022-2023… The Yasuke lamp brings you on a voyage from soft, warm tones to the bright light of the southern sun. Somewhere between a piece of futurist architecture, a form of 21st century crinoline and a spaceship… Everyone can make its own lighting environment using two dimmers : one to control the bulb’s colour temperature, the other its brightness.  Conceived and designed by BrichetZiegler.",
+      "family_link": "https://dcw-editions.fr/en/collection/28/yasuke"
+    },
+    "seriler": {
+      "Yasuke": {
+        "series_data": {
+          "series_id": "700680-1",
+          "series_name": "Yasuke",
+          "series_img": "https://dcw-editions.fr/storage/img/collections/28/presentation/dcw-editions-collection-presentation-yasuke-upflnfm4/dcw-editions-collection-presentation-yasuke-upflnfm4-s.jpg",
+          "series_link": "https://dcw-editions.fr/en/collection/28/yasuke"
+        },
+        "gruplar": {
+          "Yasuke": {
+            "grup_data": {
+              "group_id": "700680-1-A",
+              "group_name": "Yasuke",
+              "group_img": "https://dcw-editions.fr/storage/img/modeles/217/dcw-editions-yasuke-yasuke-thumb-tpleciun.jpg",
+              "group_link": "",
+              "grup_link": "https://dcw-editions.fr/en/modele/217/yasuke"
+            },
+            "ürünler": [
+              {
+                "product_name": "Yasuke",
+                "product_id": "700680-1-A-1",
+                "product_img": "https://dcw-editions.fr/storage/img/modeles/217/dcw-editions-yasuke-yasuke-thumb-tpleciun.jpg",
+                "images": [
+                  "https://dcw-editions.fr/storage/img/modeles/217/galerie/dcw-editions-yasuke-modele-yasuke-photos-uwe9e8x3/dcw-editions-yasuke-modele-yasuke-photos-uwe9e8x3-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/217/galerie/dcw-editions-yasuke-modele-yasuke-photos-vm3pst9q/dcw-editions-yasuke-modele-yasuke-photos-vm3pst9q-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/217/galerie/dcw-editions-yasuke-modele-yasuke-photos-iitdppfx/dcw-editions-yasuke-modele-yasuke-photos-iitdppfx-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/217/galerie/dcw-editions-yasuke-modele-yasuke-photos-j8j5biyh/dcw-editions-yasuke-modele-yasuke-photos-j8j5biyh-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/217/galerie/dcw-editions-yasuke-modele-yasuke-photos-dwr4xxjj/dcw-editions-yasuke-modele-yasuke-photos-dwr4xxjj-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/217/galerie/dcw-editions-yasuke-modele-yasuke-photos-wmjkcba8/dcw-editions-yasuke-modele-yasuke-photos-wmjkcba8-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/217/galerie/dcw-editions-yasuke-modele-yasuke-photos-ibjnny3l/dcw-editions-yasuke-modele-yasuke-photos-ibjnny3l-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/217/galerie/dcw-editions-yasuke-modele-yasuke-photos-brbvxtqf/dcw-editions-yasuke-modele-yasuke-photos-brbvxtqf-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/217/galerie/dcw-editions-yasuke-modele-yasuke-photos-wblusgrl/dcw-editions-yasuke-modele-yasuke-photos-wblusgrl-s.jpg",
+                  "https://dcw-editions.fr/storage/img/modeles/217/galerie/dcw-editions-yasuke-modele-yasuke-photos-ldr2hxgl/dcw-editions-yasuke-modele-yasuke-photos-ldr2hxgl-s.jpg"
+                ],
+                "description": "Somewhere between a piece of futurist architecture, a form of 21st century crinoline and a spaceship… Everyone can make their own lighting environment using two dimmers : one to control the bulb’s colour temperature, the other its brightness.",
+                "tech_infos": {
+                  "Dimensions": "395 x 443 x 291 mm",
+                  "Materials": "Steel, aluminium",
+                  "Electricity": "CLIII - INTEGRATED LED 2700-3400 K",
+                  "ip_class_img": "https://dcw-editions.fr/storage/img/app/elec/CLIII-IP20.svg"
+                },
+                "downloads": {
+                  "Technical sheets (183.81 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/705",
+                  "Installation guidelines (115.69 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/706",
+                  "3D & 2D files (26.42 MB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/707",
+                  "Technical drawings (271.88 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/708",
+                  "US specification sheet (187.83 KB)": "https://dcw-editions.fr/front/telechargements/downloads/documents/924"
+                },
+                "tech_schema": "https://dcw-editions.fr/storage/img/modeles/217/documents/dcw-editions-modele-yasuke-document-schema-technique-8ynpmmad.png",
+                "different_color_images": {}
               }
             ]
           }
