@@ -1,8 +1,7 @@
 aileler = [
     'Aaro',
-    'Armen',
-    'Biny',
-    'Biny Floor',
+    'Armen', 
+    'Biny',           
     'Collection Atmospherics',
     'Collection Cauvet',
     'Collection Cordless',
@@ -12,12 +11,10 @@ aileler = [
     'Here Comes the Sun',
     'In The Sun',
     'In The Tube',
-    'In The Tube 360°',
     'ISP',
     'La Lampe B',
     'La Lampe Frechin',
     'Lampe Gras',
-    'Lampe Gras Outdoor',
     'Les Acrobates de Gras',
     'Les Doubles de Gras',
     'Light Me Tender',
@@ -31,15 +28,22 @@ aileler = [
     'Poudrier',
     'Respiro',
     'SOUL',
-    'SOUL Outdoor',
     'Tell Me Stories',
     'Tobo',
-    'V V V',
+    'VVV',
     'Vision 20/20',
     'Yasuke'
 ]
-aileler_ayni = [
+aileler_asil = [
     'Biny',
     'In The Tube',
     'Lampe Gras',
+    'SOUL',
+]
+
+aileler_ayni = [
+    'Biny Floor',
+    'In The Tube 360°',
+    'Lampe Gras Outdoor',
+    'SOUL Outdoor',
 ]

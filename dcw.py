@@ -6,6 +6,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup as bs
 from time import sleep
 import aileler
+import time
+
+start_time = time.time()
 
 options = webdriver.ChromeOptions()
 options.add_extension("cookies.crx")
@@ -16,7 +19,9 @@ driver.maximize_window()
 mainurl = "https://dcw-editions.fr/en/collections"
 photoUrlBeginning = "https://dcw-editions.fr"
 #write a function to write the errors to the log.txt file we will append to it every error
+
 jsondata = {}
+
 open('log.txt','w',).close()
 log = open('log.txt','a', encoding="utf-8")
 
@@ -29,13 +34,30 @@ def tofile(jsondata):
 
 driver.get(mainurl)
 
-
 webdriverwait = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.dcw-card')))
 soup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
 familydivs = soup.select_one('div.thumbs-list')
 familydivs = familydivs.select('div.dcw-card')
+
+families = []
+
+for familydiv in familydivs:
+    if familydiv.select_one('h1.collection').text.strip() not in aileler.aileler_ayni:
+        families.append(familydiv.select_one('h1.collection').text.strip())
+
+aileler.aileler = families
+
+carpan = 0
+for aile in aileler.aileler:
+    jsondata[aile] = {}
+    jsondata[aile]['aile_data'] = {}
+    jsondata[aile]['aile_data']['family_id'] = 700006 + (40 * carpan)
+    carpan += 1
+    
+    
+# familydivs = familydivs[1:]
 # limit familydivs to 2
-id = 700000
+id = 700006
 i = 0
 for familydiv in familydivs:
     familyid = id + (i * 40)
@@ -43,19 +65,27 @@ for familydiv in familydivs:
     soup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
     
     family_name = familydiv.select_one('h1.collection').text.strip()
-    aynimi = False
-    ayniindex = 0
-    for index in aileler.aileler_ayni:
-        if index in family_name:
-            # family_name = index
-            ayniindex = index
-            anyimi = True
-            break
     
+    if family_name in aileler.aileler_ayni:
+        seriadi = family_name
+        indexi = aileler.aileler_ayni.index(family_name)
+        family_name = aileler.aileler_asil[indexi]
+        try:
+            familyid = jsondata[family_name]['aile_data']['family_id']
+            seriid = str(familyid) + '-2'
+        except:
+            seriid = str(familyid) + '-1'
+            pass
+    
+    else:
+        seriadi = family_name
+        seriid = str(familyid) + '-1'
+
+
     family_designer = familydiv.select_one('div.name').text.strip()
     family_img_mainpage = photoUrlBeginning + familydiv.select_one('img')['src']
     
-    jsondata[family_name] = family = {}
+    family = jsondata[family_name]
     family['aile_data'] = aile_data = {'family_id': 0,'family_name': family_name, 'family_designer': family_designer, 'family_image': family_img_mainpage}
     
     webdriverwait = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.dcw-card h1.collection')))
@@ -69,7 +99,7 @@ for familydiv in familydivs:
             webdriverwait = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.dcw-card')))
             innersoup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
             
-            family_img_inner = photoUrlBeginning + innersoup.select_one('div.collection div.wrapper div.image img')['src']
+            series_img_inner = photoUrlBeginning + innersoup.select_one('div.collection div.wrapper div.image img')['src']
             family_info_text = innersoup.select_one('div.collection div.wrapper div.text div.titre').text.strip().replace('\n','. ') + innersoup.select_one('div.collection div.wrapper div.text div.texte').text.strip().replace('\n',' ')
             aile_data['family_info'] = family_info_text
             break
@@ -82,24 +112,24 @@ for familydiv in familydivs:
             pass
     
     aileurl = driver.current_url
-    aile_data['family_id'] = familyid
+    aile_data['family_id'] = str(familyid)
     aile_data['family_link'] = aileurl
     
-    seriid = str(familyid) + '-1'
-    
-    family["seriler"] = seriler = {}
-    
-    if aynimi:
-        seriid = str(familyid) + '-2'
-        family["seriler"] = seriler = {} #################################################################################
-        
     
     
-    seriler[family_name] = seri = {}
-    seri["series_data"] = seri_data = {}
+    if 'seriler' not in family:
+        family["seriler"] = seriler = {}
+    else:
+        seriler = family["seriler"]
+    
+    
+    
+    seriler[seriadi] = seri = {}
+    seri["seri_data"] = seri_data = {}
     seri_data['series_id'] = seriid
-    seri_data['series_name'] = family_name
-    seri_data['series_img'] = family_img_inner
+    seri_data['series_name'] = seriadi
+    seri_data['series_img_cover'] = family_img_mainpage
+    seri_data['series_img'] = series_img_inner
     seri_data['series_link'] = aileurl
     
     seri["gruplar"] = gruplar = {}
@@ -204,16 +234,29 @@ for familydiv in familydivs:
         productdict['tech_infos'] = tech_infoslist
         productdict['downloads'] = downloads
         productdict['tech_schema'] = tech_schema
+        productdict['urun_url'] = driver.current_url
         
         try:
-            divs = soup.select_one('div.configurateur div.color')
+            divs = driver.find_elements(By.CSS_SELECTOR, 'div.configurateur div.color')
             colors = {}
             for div in divs:
-                colors[div.select_one('div.name').text.strip()] = photoUrlBeginning + div.select_one('div.image img')['src']
+                sleep(2)
+                WebDriverWait(driver, 10).until(EC.element_to_be_clickable(div))
+                div.click()
+                sleep(2)
+                WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'div.image-finition img:not(.reset)')))
+                image = driver.find_element(By.CSS_SELECTOR, 'div.image-finition img:not(.reset)').get_attribute('src')
+                WebDriverWait(driver, 10).until(EC.element_to_be_clickable(div))
+                colors[div.find_element(By.CSS_SELECTOR,'div.configurateur div.color div.name').text.strip()] = image
+                div.click()
+                
+            if len(divs) != 0:
+                productdict['customizations'] = colors
+                
         except:
+            log.write(family_name + ' --> ' + product_name + ' --> ' + 'colors alinamadi' + '\n')
             pass
         
-        productdict['different_color_images'] = colors
         
         
         
@@ -243,3 +286,4 @@ driver.quit()
 tofile(jsondata)
 log.close()
     
+print(f"Finished in {(time.time() - start_time)/60}")
