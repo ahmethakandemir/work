@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup as bs
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from aileler import aileler_esleme
+from preciosa.aileler import aileler_esleme
 
 
 def aile_seri_adlandırma(aile_adı):

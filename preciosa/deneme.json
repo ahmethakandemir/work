@@ -1,0 +1,2654 @@
+{
+  "Rudolf": {
+    "aile_data": {
+      "family_id": "700007",
+      "family_name": "Rudolf"
+    },
+    "Rudolf Chandeliers": {
+      "seri_data": {
+        "series_id": "700007-A",
+        "series_name": "Rudolf Chandeliers"
+      },
+      "Rudolf Chandeliers Historic design": {
+        "grup_data": {
+          "group_id": "700007-A-1",
+          "group_name": "Rudolf Chandeliers Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/rudolf",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Rudolf/12_5390_024_09_Rudolf_Historic_CH_05_XL_Traditional.jpg",
+          "group_description": "The delicate way each crystal is cut leads to a truly glittering light piece, rich in detail. Rudolf is precisely designed to ensure that the trimmings, candle holders and central elements emit maximum radiance from every angle. The delicate way each crystal is cut leads to a truly glittering light piece, rich in detail. Rudolf is precisely designed to ensure that the trimmings, candle holders and central elements emit maximum radiance from every angle."
+        },
+        "urunler": [
+          {
+            "product_name": "XS",
+            "Dimensions": "75 x 100 cm",
+            "Weight": "17 Kg",
+            "Wattage": "480 W",
+            "Light sources": "12 x E14",
+            "Glass": "Hand-blown Full Lead Crystal",
+            "Metal": "Chromium Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/68307a0e-718c-445f-ab39-5d82172c63bc/rudolf-xs-chrome",
+              "https://eshop.preciosalighting.com/getmetafile/9c3aa40f-4acc-46b2-b228-035604294490/rudolf-xs-chrome-traditional",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Rudolf/Rudolf-XS/Visualization_Rudolf_Historic_Standard_CH_01_XS_02_S_03_M-(1).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/9c3aa40f-4acc-46b2-b228-035604294490/rudolf-xs-chrome-traditional",
+            "product_id": "700007-A-1-A"
+          },
+          {
+            "product_name": "S",
+            "Dimensions": "84 x 134 cm",
+            "Weight": "27 Kg",
+            "Wattage": "480 W",
+            "Light sources": "12 x E14",
+            "Glass": "Hand-blown Full Lead Crystal",
+            "Metal": "Chromium Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/68307a0e-718c-445f-ab39-5d82172c63bc/rudolf-xs-chrome",
+              "https://eshop.preciosalighting.com/getmetafile/9c3aa40f-4acc-46b2-b228-035604294490/rudolf-xs-chrome-traditional",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Rudolf/Rudolf-XS/Visualization_Rudolf_Historic_Standard_CH_01_XS_02_S_03_M-(1).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/b4feeaed-723f-48e1-95eb-6bad758dc98a/rudolf-s-chrome-traditional",
+            "product_id": "700007-A-1-B"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "94 x 113 cm",
+            "Weight": "30 Kg",
+            "Wattage": "720 W",
+            "Light sources": "18 x E14",
+            "Glass": "Hand-blown Full Lead Crystal",
+            "Metal": "Chromium Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/a48de40b-6137-4cd5-b14a-c35aae80b57a/rudolf-s-chrome",
+              "https://eshop.preciosalighting.com/getmetafile/b4feeaed-723f-48e1-95eb-6bad758dc98a/rudolf-s-chrome-traditional",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Rudolf/Rudolf-S/Visualization_Rudolf_Historic_Standard_CH_01_XS_02_S_03_M-(1).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/c90d39b8-353e-4032-92ef-e33073234fc9/rudolf-m-chrome-traditional-2",
+            "product_id": "700007-A-1-C"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "123 x 131 cm",
+            "Weight": "80 Kg",
+            "Wattage": "960 W",
+            "Light sources": "24 x E14",
+            "Glass": "Hand-blown Full Lead Crystal",
+            "Metal": "Chromium Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/4f05fdd2-cd4a-4d74-87d7-33724115ad7c/rudolf-m-chrome",
+              "https://eshop.preciosalighting.com/getmetafile/c90d39b8-353e-4032-92ef-e33073234fc9/rudolf-m-chrome-traditional-2",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Rudolf/Rudolf-M/Visualization_Rudolf_Historic_Standard_CH_01_XS_02_S_03_M-(1).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/21037f34-b215-4d21-a0e8-1a6c97633478/Rudolf-Historic-Large-tr",
+            "product_id": "700007-A-1-D"
+          },
+          {
+            "product_name": "XL",
+            "Dimensions": "120 x 160 cm",
+            "Weight": "90 Kg",
+            "Wattage": "960 W",
+            "Light sources": "24 x E14",
+            "Glass": "Hand-blown Full Lead Crystal",
+            "Metal": "Chromium Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/2507254e-1b8b-4f80-b893-3ad230724936/Rudolf-Historic-Large_",
+              "https://eshop.preciosalighting.com/getmetafile/21037f34-b215-4d21-a0e8-1a6c97633478/Rudolf-Historic-Large-tr"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/00f0ca8f-f06e-4d8a-a0a8-0c890a90fb22/12_5390_024_09_Rudolf_Historic_CH_05_XL_Traditional",
+            "product_id": "700007-A-1-E"
+          }
+        ]
+      },
+      "Rudolf Chandeliers Contemporary colour": {
+        "grup_data": {
+          "group_id": "700007-A-2",
+          "group_name": "Rudolf Chandeliers Contemporary colour",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/rudolf-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Rudolf-(1)/12_5390_024_06_Rudolf_Contemporary_CH_05_XL_Blue.jpg",
+          "group_description": "Rudolf’s grandeur is softened by the pearly tones of opaque glass. Complemented by fresh colour accents in the form of lampshades, it loses none of its original splendour, but offers a more gentle statement piece for intimate settings and interior schemes where a more subdued effect is desired. The delicate way each crystal is cut leads to a truly glittering light piece, rich in detail. Rudolf is precisely designed to ensure that the trimmings, candle holders and central elements emit maximum radiance from every angle."
+        },
+        "urunler": [
+          {
+            "product_name": "XS",
+            "Dimensions": "75 x 100 cm",
+            "Weight": "17 Kg",
+            "Wattage": "480 W",
+            "Light sources": "12 x E14",
+            "Glass": "Hand-blown Frosted Crystal",
+            "Metal": "Chromium Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/d255180f-5bd0-4a16-87c7-37245537edd2/PRECIOSA_Lighting_Collections_Rudolf_XS_Cont_full",
+              "https://eshop.preciosalighting.com/getmetafile/4610e878-08a9-415c-a981-d5abccfaef38/rudolf-xs-blue",
+              "https://eshop.preciosalighting.com/getmetafile/f3114183-69c7-4663-9c9d-a6c309a57dac/rudolf-xs-green",
+              "https://eshop.preciosalighting.com/getmetafile/4d68de9b-32bb-4751-bcc0-b7a8d6e8e46b/rudolf-xs-red",
+              "https://eshop.preciosalighting.com/getmetafile/1273b5a5-130d-49f4-a7a1-a0f8c2900997/rudolf-xs-white"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/1273b5a5-130d-49f4-a7a1-a0f8c2900997/rudolf-xs-white",
+            "product_id": "700007-A-2-A"
+          },
+          {
+            "product_name": "S",
+            "Dimensions": "84 x 134 cm",
+            "Weight": "25 Kg",
+            "Wattage": "480 W",
+            "Light sources": "12 x E14",
+            "Glass": "Hand-blown Frosted Crystal",
+            "Metal": "Chromium Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/d255180f-5bd0-4a16-87c7-37245537edd2/PRECIOSA_Lighting_Collections_Rudolf_XS_Cont_full",
+              "https://eshop.preciosalighting.com/getmetafile/4610e878-08a9-415c-a981-d5abccfaef38/rudolf-xs-blue",
+              "https://eshop.preciosalighting.com/getmetafile/f3114183-69c7-4663-9c9d-a6c309a57dac/rudolf-xs-green",
+              "https://eshop.preciosalighting.com/getmetafile/4d68de9b-32bb-4751-bcc0-b7a8d6e8e46b/rudolf-xs-red",
+              "https://eshop.preciosalighting.com/getmetafile/1273b5a5-130d-49f4-a7a1-a0f8c2900997/rudolf-xs-white"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/e75004e5-34e9-4537-b93f-edc0278fa389/9006_rudolf-s-white",
+            "product_id": "700007-A-2-B"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "94 x 113 cm",
+            "Weight": "27 Kg",
+            "Wattage": "720 W",
+            "Light sources": "18 x E14",
+            "Glass": "Hand-blown Frosted Crystal",
+            "Metal": "Chromium Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/04649b9d-5cf3-4ca9-b29d-73e6a372eb14/PRECIOSA_Lighting_Collections_Rudolf_S_Cont_full",
+              "https://eshop.preciosalighting.com/getmetafile/1370fdfd-404c-4b74-8628-6c4b8ef22bb2/9006_rudolf-s-blue",
+              "https://eshop.preciosalighting.com/getmetafile/a843498a-aec9-4988-91ab-2dfb538a9cd4/9006_rudolf-s-green",
+              "https://eshop.preciosalighting.com/getmetafile/72e48fd0-f9ea-475e-9a32-120c509d5dff/9006_rudolf-s-red",
+              "https://eshop.preciosalighting.com/getmetafile/e75004e5-34e9-4537-b93f-edc0278fa389/9006_rudolf-s-white",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Rudolf-(1)/Rudolf-S/Visualization_Rudolf_Contemporary_CH_02_S_Blue.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/22510548-0771-418f-9d78-4aaba8f4c041/9007_rudolf-m-white",
+            "product_id": "700007-A-2-C"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "123 x 131 cm",
+            "Weight": "75 Kg",
+            "Wattage": "960 W",
+            "Light sources": "24 x E14",
+            "Glass": "Hand-blown Frosted Crystal",
+            "Metal": "Chromium Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/e2fcb03f-8afe-4e55-99bd-826b7acc36b3/PRECIOSA_Lighting_Collections_Rudolf_M_Cont_full",
+              "https://eshop.preciosalighting.com/getmetafile/d728beb7-1a0c-46ba-976b-dcf7e3cb569b/9007_rudolf-m-blue",
+              "https://eshop.preciosalighting.com/getmetafile/ad1ef286-978f-4b3d-90d4-26d719d180c4/9007_rudolf-m-green",
+              "https://eshop.preciosalighting.com/getmetafile/69f6060c-574f-4a36-ad91-e08d3ec6d821/9007_rudolf-m-red",
+              "https://eshop.preciosalighting.com/getmetafile/22510548-0771-418f-9d78-4aaba8f4c041/9007_rudolf-m-white"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/340d8f5b-35a3-4b8f-908e-cd4395fb3983/rudolf-l-cont-white",
+            "product_id": "700007-A-2-D"
+          },
+          {
+            "product_name": "XL",
+            "Dimensions": "120 x 160 cm",
+            "Weight": "70 Kg",
+            "Wattage": "960 W",
+            "Light sources": "24 x E14",
+            "Glass": "Hand-blown Frosted Crystal",
+            "Metal": "Chromium Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/80264ff8-c24a-40d8-9c3e-e03ea4faa18c/rudolf-l-cont-blue",
+              "https://eshop.preciosalighting.com/getmetafile/3005ad27-a6e5-4bc6-87c2-d5afc1da0d3a/rudolf-l-cont-green",
+              "https://eshop.preciosalighting.com/getmetafile/057d3558-5879-4552-9aa9-e6e3cde2a453/rudolf-l-cont-red",
+              "https://eshop.preciosalighting.com/getmetafile/340d8f5b-35a3-4b8f-908e-cd4395fb3983/rudolf-l-cont-white"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/ee980248-334c-4943-9fae-4281a6d682df/rudolf-xl-white",
+            "product_id": "700007-A-2-E"
+          }
+        ]
+      }
+    },
+    "Rudolf Wall sconces": {
+      "seri_data": {
+        "series_id": "700007-B",
+        "series_name": "Rudolf Wall sconces"
+      },
+      "Rudolf Wall sconces Historic design": {
+        "grup_data": {
+          "group_id": "700007-B-1",
+          "group_name": "Rudolf Wall sconces Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/wall-sconces/rudolf",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/Rudolf_WS_3arms_Historic.jpg",
+          "group_description": "The exquisite way in which each crystal on Rudolf is cut leads to a glittering light piece, rich in detail and perfect for examining up close. The Rudolf wall sconce is decorated with prisms and available with either two or three candles.   "
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "32 x 38 x 21",
+            "Weight": "2 Kg",
+            "Wattage": "40 W",
+            "Light sources": "2 x E14",
+            "Glass": "Crystal",
+            "Metal": "Chrome",
+            "Trimmings": "Crystal",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/01615b08-9bb0-42ed-b5b2-6bb43bc85f5a/Rudolf_WS_2arms_Historic"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/01615b08-9bb0-42ed-b5b2-6bb43bc85f5a/Rudolf_WS_2arms_Historic",
+            "product_id": "700007-B-1-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "38 x 46 x 20 cm",
+            "Weight": "3 Kg",
+            "Wattage": "40 W",
+            "Light sources": "3 x E14",
+            "Glass": "Crystal",
+            "Metal": "Chrome",
+            "Trimmings": "Crystal",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/01615b08-9bb0-42ed-b5b2-6bb43bc85f5a/Rudolf_WS_2arms_Historic"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/dcdaa876-f29d-4eba-bd7f-14a4657d2351/Rudolf_WS_3arms_Historic",
+            "product_id": "700007-B-1-B"
+          }
+        ]
+      },
+      "Rudolf Wall sconces Contemporary colour": {
+        "grup_data": {
+          "group_id": "700007-B-2",
+          "group_name": "Rudolf Wall sconces Contemporary colour",
+          "group_link": "https://eshop.preciosalighting.com/en/products/wall-sconces/rudolf-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4419064_Rudolf_WS_3arms_Contemporary_blue.jpg",
+          "group_description": "Rudolf contemporary’s frosted glass and lampshades create a whimsical addition to hallways, entryways, guest rooms and more. More like a piece of art, the lamp serves both a functional and decorative purpose. The Rudolf wall sconce is decorated with prisms and available with either two or three candles. "
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "32 x 38 x 21 cm",
+            "Weight": "2 Kg",
+            "Wattage": "40 W",
+            "Light sources": "2 x E14",
+            "Glass": "Crystal Frosted",
+            "Metal": "Chrome",
+            "Trimmings": "Crystal Frosted",
+            "Lamp shades": "Amber Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/8437df75-1f74-4400-aff7-924d2c08a0cc/Rudolf-WS2-Cont",
+              "https://eshop.preciosalighting.com/getmetafile/e8053da4-4a75-407e-92ce-ef8b10e3ada3/4419779_Rudolf_WS_2arms_Contemporary_blue",
+              "https://eshop.preciosalighting.com/getmetafile/15cc8cbc-298e-496e-a081-4e8148a6d80f/4419800_Rudolf_WS_2arms_Contemporary_green",
+              "https://eshop.preciosalighting.com/getmetafile/f0a2b414-7da2-4dbc-b5b9-3e65b9af4db2/4419820_Rudolf_WS_2arms_Contemporary_red",
+              "https://eshop.preciosalighting.com/getmetafile/b02f0e51-5a6c-4c9c-88ef-b4bcd27f63f9/4419773_Rudolf_WS_2arms_Contemporary_white"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/8437df75-1f74-4400-aff7-924d2c08a0cc/Rudolf-WS2-Cont",
+            "product_id": "700007-B-2-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "38 x 48 x 20 cm",
+            "Weight": "3 Kg",
+            "Wattage": "40 W",
+            "Light sources": "3 x E14",
+            "Glass": "Crystal Frosted",
+            "Metal": "Chrome",
+            "Trimmings": "Crystal Frosted",
+            "Lamp shades": "Amber Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/8437df75-1f74-4400-aff7-924d2c08a0cc/Rudolf-WS2-Cont",
+              "https://eshop.preciosalighting.com/getmetafile/e8053da4-4a75-407e-92ce-ef8b10e3ada3/4419779_Rudolf_WS_2arms_Contemporary_blue",
+              "https://eshop.preciosalighting.com/getmetafile/15cc8cbc-298e-496e-a081-4e8148a6d80f/4419800_Rudolf_WS_2arms_Contemporary_green",
+              "https://eshop.preciosalighting.com/getmetafile/f0a2b414-7da2-4dbc-b5b9-3e65b9af4db2/4419820_Rudolf_WS_2arms_Contemporary_red",
+              "https://eshop.preciosalighting.com/getmetafile/b02f0e51-5a6c-4c9c-88ef-b4bcd27f63f9/4419773_Rudolf_WS_2arms_Contemporary_white"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/67e3d480-d919-463a-98c5-142b236cbb21/Rudolf-WS3-Cont",
+            "product_id": "700007-B-2-B"
+          }
+        ]
+      }
+    }
+  },
+  "Crown": {
+    "aile_data": {
+      "family_id": "700047",
+      "family_name": "Crown"
+    },
+    "Crown Chandeliers": {
+      "seri_data": {
+        "series_id": "700047-A",
+        "series_name": "Crown Chandeliers"
+      },
+      "Crown Chandeliers New interpretation": {
+        "grup_data": {
+          "group_id": "700047-A-1",
+          "group_name": "Crown Chandeliers New interpretation",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/crown",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/b20745de-4bdf-4f78-881f-482f02f07442/Chrown-L-Chrome.jpg",
+          "group_description": "The classic Rudolf undergoes a design update to create a more condensed silhouette in a still intricate and bold piece. Called Crown, designer Lukáš Uliarczyk scripted a new dialogue with repetition and symmetry to emphasize the elegance of the glass arms and the light reflecting properties of crystal. The classic Rudolf undergoes a design update to create a more condensed silhouette in a still intricate and bold piece. Called Crown, designer Lukáš Uliarczyk scripted a new dialogue with repetition and symmetry to emphasize the elegance of the glass arms and the light reflecting properties of crystal."
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "65 x 34",
+            "Weight": "23 Kg",
+            "Wattage": "720 W",
+            "Light sources": "18 x E14 / MAX 40 W",
+            "Glass": "Crystal",
+            "Metal": "Chrome",
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/9d5fb55a-e107-449a-a7b7-b68a30c9b647/Chrown-S-Chrome",
+            "product_id": "700047-A-1-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "85 x 56 cm",
+            "Weight": "85 Kg",
+            "Wattage": "1440 W",
+            "Light sources": "36 x E14",
+            "Glass": "Hand-blown Full Lead Crystal with Silvering",
+            "Metal": "Chromium",
+            "photos": [
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Crown/Crown-S/Visualization_Crown_Crystal_CH_01_S-(1).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/3e39116a-ef02-4ff0-813c-f4e610dc2d97/Chrown-M-Chrome",
+            "product_id": "700047-A-1-B"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "120 x 87 cm",
+            "Weight": "122 Kg",
+            "Wattage": "2240 W",
+            "Light sources": "56 x E14",
+            "Glass": "Hand-blown Full Lead Crystal with Silvering",
+            "Metal": "Chromium",
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/ce13d7cf-b416-4261-bc01-54895da7008d/Chrown-L-Chrome",
+            "product_id": "700047-A-1-C"
+          }
+        ]
+      }
+    }
+  },
+  "Maria theresa": {
+    "aile_data": {
+      "family_id": "700087",
+      "family_name": "Maria theresa"
+    },
+    "Maria theresa Chandeliers": {
+      "seri_data": {
+        "series_id": "700087-A",
+        "series_name": "Maria theresa Chandeliers"
+      },
+      "Maria theresa Chandeliers Historic design": {
+        "grup_data": {
+          "group_id": "700087-A-1",
+          "group_name": "Maria theresa Chandeliers Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/maria-theresa",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Maria-Theresa/MT-XL-Hist-Gold.jpg",
+          "group_description": "Is there a more regal light piece than this? Maria Theresa’s sumptuous feminine curves and shimmering trimmings embraced by a metal and glass arm design can expand horizontally to provide radiance and atmosphere to any space. The Maria Theresa is a chandelier of sumptuous curves and shimmering crystal pendalogues. This chandelier illuminated the majestic coronation of Maria Theresa in 1743, who is said to have fallen in love only twice in her life, ﬁrst with her husband, Francis I, and secondly with this mesmerizing chandelier. Found at Prague Castle and the Schönbrunn Palace, amongst others, this is a truly regal light piece.  "
+        },
+        "urunler": [
+          {
+            "product_name": "XS",
+            "Dimensions": "69 x 59 cm",
+            "Weight": "20 Kg",
+            "Wattage": "400 W",
+            "Light sources": "10 x E14",
+            "Glass": "Hand-blown Crystal",
+            "Metal": "24k Gold Plated Steel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/5404a14c-b97b-4cb7-ae8f-5d9de2eef8f1/MT-XS-Hist-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/709c1d55-60a8-42f9-8069-55426a22a095/MT-XS-Hist-Nickel",
+              "https://eshop.preciosalighting.com/getmetafile/b206efe6-7b02-4bbe-85fb-b63c8f5e4a13/PRECIOSA_Lighting_Collections_14_5300_010_33_Maria_Theresa_Historic_CH_01_XS_Brass_full"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/5404a14c-b97b-4cb7-ae8f-5d9de2eef8f1/MT-XS-Hist-Gold",
+            "product_id": "700087-A-1-A"
+          },
+          {
+            "product_name": "S",
+            "Dimensions": "80 x 95 cm",
+            "Weight": "25 Kg",
+            "Wattage": "480 W",
+            "Light sources": "12 x E14",
+            "Glass": "Hand-blown Crystal",
+            "Metal": "24k Gold Plated Steel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/5404a14c-b97b-4cb7-ae8f-5d9de2eef8f1/MT-XS-Hist-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/709c1d55-60a8-42f9-8069-55426a22a095/MT-XS-Hist-Nickel",
+              "https://eshop.preciosalighting.com/getmetafile/b206efe6-7b02-4bbe-85fb-b63c8f5e4a13/PRECIOSA_Lighting_Collections_14_5300_010_33_Maria_Theresa_Historic_CH_01_XS_Brass_full"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/45d52609-d110-4836-86b8-a9b326658bf4/MT-S-Hist-Gold",
+            "product_id": "700087-A-1-B"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "100 x 110 cm",
+            "Weight": "30 Kg",
+            "Wattage": "720 W",
+            "Light sources": "18 x E14",
+            "Glass": "Hand-blown Crystal",
+            "Metal": "24k Gold Plated Steel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/45d52609-d110-4836-86b8-a9b326658bf4/MT-S-Hist-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/ddccd8ca-e954-423b-a892-2b0a96c7051b/MT-S-Hist-Nickel",
+              "https://eshop.preciosalighting.com/getmetafile/6792a214-2e32-4263-9184-ca3060fa2550/PRECIOSA_Lighting_Collections_14_5310_012_14_Maria_Theresa_Historic_CH_02_S_Brass_full"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/2a164067-2c91-4da2-aef0-c015c80314e4/MT-M-Hist-Gold",
+            "product_id": "700087-A-1-C"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "127 x 112 cm",
+            "Weight": "35 Kg",
+            "Wattage": "960 W",
+            "Light sources": "24 x E14",
+            "Glass": "Hand-blown Crystal",
+            "Metal": "24k Gold Plated Steel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/2a164067-2c91-4da2-aef0-c015c80314e4/MT-M-Hist-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/f62bfbd9-5b8b-4002-885c-fde87a7662af/MT-M-Hist-Nickel",
+              "https://eshop.preciosalighting.com/getmetafile/6cf6c3ce-ab5e-476e-82d5-7acf53e8d286/PRECIOSA_Lighting_Collections_14_5311_018_32_Maria_Theresa_Historic_CH_03_M_Brass_full",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Maria-Theresa/Maria-Theresa-M/Visualization_Maria_Theresa_HistoricCH_03_M_Gold.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/8dbaa181-e66f-4505-acbf-003f9c10147d/MT-L-Hist-Gold",
+            "product_id": "700087-A-1-D"
+          },
+          {
+            "product_name": "XL",
+            "Dimensions": "132 x 193 cm",
+            "Weight": "160 Kg",
+            "Wattage": "1920 W",
+            "Light sources": "48 x E14",
+            "Glass": "Hand-blown Crystal",
+            "Metal": "24k Gold Plated Steel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/8dbaa181-e66f-4505-acbf-003f9c10147d/MT-L-Hist-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/0c154ce9-4b05-4691-b83e-92e57e4cf857/MT-L-Hist-Nickel",
+              "https://eshop.preciosalighting.com/getmetafile/f5b3847b-b3ef-4e75-a72d-a46030d71ea0/PRECIOSA_Lighting_Collections_14_5312_024_15_Maria_Theresa_Historic_CH_04_L_Brass_full"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/9eb0cc69-aacc-4547-bd63-dbf5a7b13ba1/MT-XL-Hist-Gold",
+            "product_id": "700087-A-1-E"
+          }
+        ]
+      },
+      "Maria theresa Chandeliers Contemporary colour": {
+        "grup_data": {
+          "group_id": "700087-A-2",
+          "group_name": "Maria theresa Chandeliers Contemporary colour",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/maria-theresa-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Maria-Theresa-(1)/14_5312_025_01_Maria_Theresa_Contemporary_CH_05_XL_Green.jpg",
+          "group_description": "Maria Theresa becomes playful with a contemporary look featuring opaque white glass and a range of lively colours. Its opulence is soothed while the coloured glass decorations and lampshades add youthful femininity and a sense of light-hearted splendour. The opulence of Maria Theresa has been paired-down and made playful by using white and a range of fresh colours. The white satin glass quietens the piece, and the coloured glass decorations and lampshades add a youthful touch to achieve a completely new and contemporary chandelier for wide range of interior spaces that seek fresh luxury and a sense of light-hearted splendour.  "
+        },
+        "urunler": [
+          {
+            "product_name": "XS",
+            "Dimensions": "69 x 59 cm",
+            "Weight": "20 Kg",
+            "Wattage": "400 W",
+            "Light sources": "10 x E14",
+            "Glass": "Opal White Frosted",
+            "Metal": "Amber Matte",
+            "Trimmings": "Amber Matte",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/a65b4d0f-ca43-4e74-815c-9d6cf91d98d1/PRECIOSA_Lighting_Collections_14_5300_010_37_Maria_Theresa_Contemporary_CH_01_XS_Amber_full",
+              "https://eshop.preciosalighting.com/getmetafile/7524c390-64be-44bc-b725-bf3e9592c0ed/14_5300_010_35_Maria_Theresa_Contemporary_CH_01_XS_Blue",
+              "https://eshop.preciosalighting.com/getmetafile/12715d38-070c-408b-9a0a-236fff894d38/14_5300_010_34_Maria_Theresa_Contemporary_CH_01_XS_Green",
+              "https://eshop.preciosalighting.com/getmetafile/6c5aa6fe-24e9-45e7-8871-0c43a446d84e/14_5300_010_36_Maria_Theresa_Contemporary_CH_01_XS_Red",
+              "https://eshop.preciosalighting.com/getmetafile/196439f9-ee6b-4c9f-a324-a285a9de5173/PRECIOSA_Lighting_Collections_14_5300_010_37_Maria_Theresa_Contemporary_CH_01_XS_White_full-1"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/a65b4d0f-ca43-4e74-815c-9d6cf91d98d1/PRECIOSA_Lighting_Collections_14_5300_010_37_Maria_Theresa_Contemporary_CH_01_XS_Amber_full",
+            "product_id": "700087-A-2-A"
+          },
+          {
+            "product_name": "S",
+            "Dimensions": "80 x 95 cm",
+            "Weight": "25 Kg",
+            "Wattage": "480 W",
+            "Light sources": "12 x E14",
+            "Glass": "Opal White Frosted",
+            "Metal": "Amber Matte",
+            "Trimmings": "Amber Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/a65b4d0f-ca43-4e74-815c-9d6cf91d98d1/PRECIOSA_Lighting_Collections_14_5300_010_37_Maria_Theresa_Contemporary_CH_01_XS_Amber_full",
+              "https://eshop.preciosalighting.com/getmetafile/7524c390-64be-44bc-b725-bf3e9592c0ed/14_5300_010_35_Maria_Theresa_Contemporary_CH_01_XS_Blue",
+              "https://eshop.preciosalighting.com/getmetafile/12715d38-070c-408b-9a0a-236fff894d38/14_5300_010_34_Maria_Theresa_Contemporary_CH_01_XS_Green",
+              "https://eshop.preciosalighting.com/getmetafile/6c5aa6fe-24e9-45e7-8871-0c43a446d84e/14_5300_010_36_Maria_Theresa_Contemporary_CH_01_XS_Red",
+              "https://eshop.preciosalighting.com/getmetafile/196439f9-ee6b-4c9f-a324-a285a9de5173/PRECIOSA_Lighting_Collections_14_5300_010_37_Maria_Theresa_Contemporary_CH_01_XS_White_full-1"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/9ea481ef-b3a2-4e5f-bca8-9db3941082b0/PRECIOSA_Lighting_Collections_14_5310_012_18_Maria_Theresa_Contemporary_CH_02_S_Amber_full",
+            "product_id": "700087-A-2-B"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "100 x 110 cm",
+            "Weight": "30 Kg",
+            "Wattage": "720 W",
+            "Light sources": "18 x E14",
+            "Glass": "Opal White Frosted",
+            "Metal": "Amber Matte",
+            "Trimmings": "Amber Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/9ea481ef-b3a2-4e5f-bca8-9db3941082b0/PRECIOSA_Lighting_Collections_14_5310_012_18_Maria_Theresa_Contemporary_CH_02_S_Amber_full",
+              "https://eshop.preciosalighting.com/getmetafile/46e031a6-f8e7-4745-ab09-12034b85fcc4/14_5310_012_16_Maria_Theresa_Contemporary_CH_02_S_-Blue",
+              "https://eshop.preciosalighting.com/getmetafile/ea322595-e676-4450-8f70-96a0cc6796eb/14_5310_012_15_Maria_Theresa_Contemporary_CH_02_S_Green",
+              "https://eshop.preciosalighting.com/getmetafile/42f21874-1996-4484-8e2f-9a487acd7be7/14_5310_012_17_Maria_Theresa_Contemporary_CH_02_S_-Red",
+              "https://eshop.preciosalighting.com/getmetafile/31b25b03-45ab-4e01-a33e-11ff336fa280/PRECIOSA_Lighting_Collections_14_5310_012_18_Maria_Theresa_Contemporary_CH_02_S_White_full-1",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Maria-Theresa-(1)/Maria-Theresa-S/Visualization_Maria_Theresa_Contemporary_02_S_Green.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/9b4193c2-6efd-4687-a5c9-5452c902b1d0/PRECIOSA_Lighting_Collections_14_5311_018_36_Maria_Theresa_Contemporary_CH_03_M_Amber_full-uprava",
+            "product_id": "700087-A-2-C"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "127 x 112 cm",
+            "Weight": "30 Kg",
+            "Wattage": "840 W",
+            "Light sources": "21 x E14",
+            "Glass": "Opal White Frosted",
+            "Metal": "Amber Matte",
+            "Trimmings": "Amber Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/9b4193c2-6efd-4687-a5c9-5452c902b1d0/PRECIOSA_Lighting_Collections_14_5311_018_36_Maria_Theresa_Contemporary_CH_03_M_Amber_full-uprava",
+              "https://eshop.preciosalighting.com/getmetafile/17ff0850-b56f-46bf-bae9-3f705b97313a/14_5311_018_34_Maria_Theresa_Contemporary_CH_03_M_Blue",
+              "https://eshop.preciosalighting.com/getmetafile/ad6f2763-08d1-404d-b09c-73a44f68bb74/14_5311_018_33_Maria_Theresa_Contemporary_CH_03_M_Green",
+              "https://eshop.preciosalighting.com/getmetafile/f8488ce4-8625-4804-bf21-09712b61d83e/14_5311_018_35_Maria_Theresa_Contemporary_CH_03_M_Red",
+              "https://eshop.preciosalighting.com/getmetafile/26a48952-7b93-4814-88be-0a1029f09a13/PRECIOSA_Lighting_Collections_14_5311_018_36_Maria_Theresa_Contemporary_CH_03_M_White_full-1"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/ff14fde9-58bb-46f2-a32d-4e4242553db3/PRECIOSA_Lighting_Collections_14_5312_021_19_Maria_Theresa_Contemporary_CH_04_L_Amber_full",
+            "product_id": "700087-A-2-D"
+          },
+          {
+            "product_name": "XL",
+            "Dimensions": "133 x 194 cm",
+            "Weight": "105 Kg",
+            "Wattage": "960 W & 5,6 W",
+            "Light sources": "24 x E14 & 1 x GU10",
+            "Glass": "Opal White Frosted",
+            "Metal": "Amber Matte",
+            "Trimmings": "Amber Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/ff14fde9-58bb-46f2-a32d-4e4242553db3/PRECIOSA_Lighting_Collections_14_5312_021_19_Maria_Theresa_Contemporary_CH_04_L_Amber_full",
+              "https://eshop.preciosalighting.com/getmetafile/9cffd8ac-3299-44a7-89cf-c3ed5aed8699/14_5312_021_17_Maria_Theresa_Contemporary_CH_04_L_Blue",
+              "https://eshop.preciosalighting.com/getmetafile/5e0f7e99-e555-4497-bbec-4d13bdfb35e4/14_5312_021_16_Maria_Theresa_Contemporary_CH_04_L_Green",
+              "https://eshop.preciosalighting.com/getmetafile/cb3dcc8f-a72a-4882-8aa2-efc6cadbcaca/14_5312_021_18_Maria_Theresa_Contemporary_CH_04_L_-Red",
+              "https://eshop.preciosalighting.com/getmetafile/6fa00b01-62fc-4728-86ad-c3371e292831/PRECIOSA_Lighting_Collections_14_5312_021_19_Maria_Theresa_Contemporary_CH_04_L_White_full"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/d6693a4e-5350-4123-9569-56665eb2c209/PRECIOSA_Lighting_Collections_14_5312_025_03_Maria_Theresa_Contemporary_CH_05_XL_Amber_full",
+            "product_id": "700087-A-2-E"
+          }
+        ]
+      }
+    },
+    "Maria theresa Wall sconces": {
+      "seri_data": {
+        "series_id": "700087-B",
+        "series_name": "Maria theresa Wall sconces"
+      },
+      "Maria theresa Wall sconces Historic design": {
+        "grup_data": {
+          "group_id": "700087-B-1",
+          "group_name": "Maria theresa Wall sconces Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/wall-sconces/maria-theresa",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4420975_MT_WS_3arms_Historic_Nickle-plated.jpg",
+          "group_description": "Featuring tall candles, the Maria Theresa historic wall sconce is the perfect complement to long hallways and high ceilings. The geometric cuts of the trimmings ensure brilliant reflections. The Maria Theresa wall sconce offers either two or three candles.   "
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "30 x 38 x 26 cm",
+            "Weight": "3 Kg",
+            "Wattage": "40 W",
+            "Light sources": "2 x E14",
+            "Glass": "Crystal",
+            "Metal": "24k Gold Plated",
+            "Trimmings": "Crystal",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/ea33b87e-40a2-41ed-b239-5b0164e306b0/4468024_MT_WS_2arms_Historic_24K-Gold-Plated",
+              "https://eshop.preciosalighting.com/getmetafile/0a6f29f0-176a-49a1-ad0f-ed0352e97da8/PRECIOSA_Lighting_Collections_4468024_MT_WS_2arms_Historic_Brass_full",
+              "https://eshop.preciosalighting.com/getmetafile/fcad4765-ea7a-4955-835f-8ef0bd43623d/4453901_MT_WS_2arms_Historic_Nickle-plated"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/ea33b87e-40a2-41ed-b239-5b0164e306b0/4468024_MT_WS_2arms_Historic_24K-Gold-Plated",
+            "product_id": "700087-B-1-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "38 x 48 x 27 cm",
+            "Weight": "3 Kg",
+            "Wattage": "40 W",
+            "Light sources": "3 x E14",
+            "Glass": "Crystal",
+            "Metal": "24k Gold Plated",
+            "Trimmings": "Crystal",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/ea33b87e-40a2-41ed-b239-5b0164e306b0/4468024_MT_WS_2arms_Historic_24K-Gold-Plated",
+              "https://eshop.preciosalighting.com/getmetafile/0a6f29f0-176a-49a1-ad0f-ed0352e97da8/PRECIOSA_Lighting_Collections_4468024_MT_WS_2arms_Historic_Brass_full",
+              "https://eshop.preciosalighting.com/getmetafile/fcad4765-ea7a-4955-835f-8ef0bd43623d/4453901_MT_WS_2arms_Historic_Nickle-plated"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/354e7121-edef-440a-b2ed-429ef2fdc051/4431647_MT_WS_3arms_Historic_24K-Gold-Plated",
+            "product_id": "700087-B-1-B"
+          }
+        ]
+      },
+      "Maria theresa Wall sconces Contemporary colour": {
+        "grup_data": {
+          "group_id": "700087-B-2",
+          "group_name": "Maria theresa Wall sconces Contemporary colour",
+          "group_link": "https://eshop.preciosalighting.com/en/products/wall-sconces/maria-theresa-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4454691_MT_WS_3arms_Contemporary_Blue.jpg",
+          "group_description": "With floral details and colourful shades, the contemporary version of the Maria Theresa wall sconce is an adaptable design for modern hallways, entryways, public spaces and more. The wall sconce is available with either two or three candles.   "
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "30 x 42 x 26 cm",
+            "Weight": "3 Kg",
+            "Wattage": "40 W",
+            "Light sources": "2 x E14",
+            "Glass": "Opal White Frosted",
+            "Metal": "Amber Matte",
+            "Trimmings": "Amber Silk",
+            "Lamp shades": "Amber Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/5b18663f-4267-4e62-9010-4e9b380f3fac/PRECIOSA_Lighting_Collections_4467848_MT_WS_2arms_Contemporary_Amber_full",
+              "https://eshop.preciosalighting.com/getmetafile/8a26c038-7264-4939-8307-2f5b4733954f/4467838_MT_WS_2arms_Contemporary_Blue",
+              "https://eshop.preciosalighting.com/getmetafile/e33a2b00-5137-4a5b-8d16-08f6931bd41d/4454028_MT_WS_2arms_Contemporary_Green",
+              "https://eshop.preciosalighting.com/getmetafile/4fc7a7e4-a7fe-4e6f-8f66-8b59c139cebd/4467944_MT_WS_2arms_Contemporary_Red",
+              "https://eshop.preciosalighting.com/getmetafile/d5ced3fd-0b3b-4dbd-a800-095159f95d0c/PRECIOSA_Lighting_Collections_4467848_MT_WS_2arms_Contemporary_White_full-1"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/5b18663f-4267-4e62-9010-4e9b380f3fac/PRECIOSA_Lighting_Collections_4467848_MT_WS_2arms_Contemporary_Amber_full",
+            "product_id": "700087-B-2-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "36 x 53 x 27 cm",
+            "Weight": "3 Kg",
+            "Wattage": "40 W",
+            "Light sources": "3 x E14",
+            "Glass": "Opal White Frosted",
+            "Metal": "Amber Matte",
+            "Lamp shades": "Amber Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/5b18663f-4267-4e62-9010-4e9b380f3fac/PRECIOSA_Lighting_Collections_4467848_MT_WS_2arms_Contemporary_Amber_full",
+              "https://eshop.preciosalighting.com/getmetafile/8a26c038-7264-4939-8307-2f5b4733954f/4467838_MT_WS_2arms_Contemporary_Blue",
+              "https://eshop.preciosalighting.com/getmetafile/e33a2b00-5137-4a5b-8d16-08f6931bd41d/4454028_MT_WS_2arms_Contemporary_Green",
+              "https://eshop.preciosalighting.com/getmetafile/4fc7a7e4-a7fe-4e6f-8f66-8b59c139cebd/4467944_MT_WS_2arms_Contemporary_Red",
+              "https://eshop.preciosalighting.com/getmetafile/d5ced3fd-0b3b-4dbd-a800-095159f95d0c/PRECIOSA_Lighting_Collections_4467848_MT_WS_2arms_Contemporary_White_full-1"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/b0ccf97b-806c-41a8-87f8-88e6f68a354a/PRECIOSA_Lighting_Collections_4454683_MT_WS_3arms_Contemporary_Amber_full",
+            "product_id": "700087-B-2-B"
+          }
+        ]
+      }
+    }
+  },
+  "King & venus": {
+    "aile_data": {
+      "family_id": "700127",
+      "family_name": "King & venus"
+    },
+    "King & venus Chandeliers": {
+      "seri_data": {
+        "series_id": "700127-A",
+        "series_name": "King & venus Chandeliers"
+      },
+      "King & venus Chandeliers New interpretation": {
+        "grup_data": {
+          "group_id": "700127-A-1",
+          "group_name": "King & venus Chandeliers New interpretation",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/king-venus",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/1ccad284-7c7c-4448-8f71-8a0730f9b4ec/King-L-Black.jpg",
+          "group_description": "Warm reflections and a sense of quiet majesty is seen and felt when experiencing King, a luxuriously vibrant piece by Rony Plesl. The geometry and shape of the original Maria Theresa has been completely reimagined into a highly affecting contemporary piece, striking in its simple yet monumental design and bold colour scheme. Venus opens up King's design for a more composed piece. Renowned Czech designer, Rony Plesl, has created two dichotomous variations of the original Maria Theresa—reimagining the historic chandelier into two separate, yet complimentary contemporary pieces,striking in their simplicity yet monumental in design and colour scheme. Both use structures of hoops, but in contrasting ways."
+        },
+        "urunler": [
+          {
+            "product_name": "King S",
+            "Dimensions": "63 x 38 cm",
+            "Weight": "13 Kg",
+            "Wattage": "40 W",
+            "Light sources": "5 x G9",
+            "Glass": "Black",
+            "Metal": "Gold",
+            "Trimmings": "Gold Spheres",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/a540417d-4a1e-4e0c-8e2b-50e3df96ac59/King-S-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/bf76f482-5760-4bb7-bb95-1de7c74b9c61/King-S-Chrome",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/King-Venus/King-S/King-S-Gold.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/a540417d-4a1e-4e0c-8e2b-50e3df96ac59/King-S-Gold",
+            "product_id": "700127-A-1-A"
+          },
+          {
+            "product_name": "King L",
+            "Dimensions": "115 x 69 cm",
+            "Weight": "38 Kg",
+            "Wattage": "462 W",
+            "Light sources": "14 x G9",
+            "Glass": "Opal White",
+            "Metal": "Satin Nickel",
+            "Trimmings": "Silver Spheres",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/a540417d-4a1e-4e0c-8e2b-50e3df96ac59/King-S-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/bf76f482-5760-4bb7-bb95-1de7c74b9c61/King-S-Chrome",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/King-Venus/King-S/King-S-Gold.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/989ec62c-a6a2-4972-815b-d59d76fb9222/King-L-Nickel",
+            "product_id": "700127-A-1-B"
+          },
+          {
+            "product_name": "King XL",
+            "Dimensions": "155 x 163 cm",
+            "Weight": "165 Kg",
+            "Wattage": "1188 W",
+            "Light sources": "36 x G9",
+            "Glass": "Hand-blown Black Crystal Glass",
+            "Metal": "Gold Colour Stainless Steel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/72a0ecef-9444-433e-9f29-e27056643271/King-L-Black",
+              "https://eshop.preciosalighting.com/getmetafile/989ec62c-a6a2-4972-815b-d59d76fb9222/King-L-Nickel",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/King-Venus/King-L-(1)/King-L-Black.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/b8d2b4cc-4b5d-4a2c-9a7b-7d6326c36c44/King-L-Black",
+            "product_id": "700127-A-1-C"
+          },
+          {
+            "product_name": "Venus S",
+            "Dimensions": "65 x 37 cm",
+            "Weight": "9 Kg",
+            "Wattage": "198 W",
+            "Light sources": "6 x G9 / MAX 40 W",
+            "Glass": "Opal White",
+            "Metal": "Satin Nickel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/b8d2b4cc-4b5d-4a2c-9a7b-7d6326c36c44/King-L-Black",
+              "https://eshop.preciosalighting.com/getmetafile/5affd4cd-7ed3-4378-b21f-eb1c9ca16165/King-L-White",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/King-Venus/King-L/Visualization_King_CH_01_XL_Gold.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/784d26c8-2641-42ce-9611-ab15c9ac98e6/Venus-S-White",
+            "product_id": "700127-A-1-D"
+          },
+          {
+            "product_name": "Venus L",
+            "Dimensions": "101 x 70 cm",
+            "Weight": "49 Kg",
+            "Wattage": "594 W",
+            "Light sources": "18 x G9 / MAX 40 W",
+            "Glass": "Opal White",
+            "Metal": "Satin Nickel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/9dcb0bc2-be0c-47f5-aecd-7458103ea979/Venus-S-Black",
+              "https://eshop.preciosalighting.com/getmetafile/784d26c8-2641-42ce-9611-ab15c9ac98e6/Venus-S-White",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/King-Venus/Venus-S/Venus-S-White.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/4f797d60-c325-4741-af21-a50c959a678d/Venus-L-White",
+            "product_id": "700127-A-1-E"
+          },
+          {
+            "product_name": "Venus XL",
+            "Dimensions": "155 x 163 cm",
+            "Weight": "160 Kg",
+            "Wattage": "1188 W",
+            "Light sources": "36 x G9",
+            "Glass": "Hand-blown Black Crystal Glass",
+            "Metal": "Gold Colour Stainless Steel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/19d6b509-d9c2-4b44-9263-179fe2221657/Venus-L-Black",
+              "https://eshop.preciosalighting.com/getmetafile/4f797d60-c325-4741-af21-a50c959a678d/Venus-L-White",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/King-Venus/Venus-L/Venus-L-Black.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/644f6111-7cef-44a2-bb7c-6a4e0ddfdbf1/Venus-L-Black",
+            "product_id": "700127-A-1-F"
+          }
+        ]
+      }
+    }
+  },
+  "Eugene": {
+    "aile_data": {
+      "family_id": "700167",
+      "family_name": "Eugene"
+    },
+    "Eugene Chandeliers": {
+      "seri_data": {
+        "series_id": "700167-A",
+        "series_name": "Eugene Chandeliers"
+      },
+      "Eugene Chandeliers Historic design": {
+        "grup_data": {
+          "group_id": "700167-A-1",
+          "group_name": "Eugene Chandeliers Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/eugene",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Eugene/Eugene-L-HistGold-WhiteBG.jpg",
+          "group_description": "Enduring elegance and unrivalled beauty -- Eugene has stood the test of time thanks to its modern simplicity. Its startling silhouette is formed from central elements that are free from ornateness; the arms and candleholders uncomparable in their reflective possibilities. A classic glass-arm Bohemian chandelier from the original 18th century workshop of Josef Palme. What makes this chandelier so remarkable is its clear, modern simplicity—the central elements, arms and candleholders are free of ornament, making for a startling silhouette of timeless elegance and unrivalled poise.  "
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "62 x 76 cm",
+            "Weight": "15 Kg",
+            "Wattage": "240 W",
+            "Light sources": "6 x E14",
+            "Glass": "Crystal",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/dc456479-12db-4784-854a-de366e3e1a85/11_5519_006_19_Eugene_Historic_CH_01_S_24K_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/45520140-1c80-43e9-8a32-658f25855731/11_5519_006_19_Eugene_Historic_CH_01_S_Chromium",
+              "https://eshop.preciosalighting.com/getmetafile/18b2a169-020a-4744-896f-da05c1e9f186/PRECIOSA_Lighting_Collections_11_5519_006_19_Eugene_Historic_CH_01_S_Brass_full"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/18b2a169-020a-4744-896f-da05c1e9f186/PRECIOSA_Lighting_Collections_11_5519_006_19_Eugene_Historic_CH_01_S_Brass_full",
+            "product_id": "700167-A-1-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "88 x 98 cm",
+            "Weight": "17 Kg",
+            "Wattage": "480 W",
+            "Light sources": "12 x E14",
+            "Glass": "Hand-blown Crystal",
+            "Metal": "24K Gold Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/dc456479-12db-4784-854a-de366e3e1a85/11_5519_006_19_Eugene_Historic_CH_01_S_24K_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/45520140-1c80-43e9-8a32-658f25855731/11_5519_006_19_Eugene_Historic_CH_01_S_Chromium",
+              "https://eshop.preciosalighting.com/getmetafile/18b2a169-020a-4744-896f-da05c1e9f186/PRECIOSA_Lighting_Collections_11_5519_006_19_Eugene_Historic_CH_01_S_Brass_full"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/d9b8362d-acc9-4905-8c9c-b62490633ed0/11_5519_012_23_Eugene_Historic_CH_02_M_24K_Gold",
+            "product_id": "700167-A-1-B"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "99 x 131 cm",
+            "Weight": "35 Kg",
+            "Wattage": "960 W",
+            "Light sources": "24 x E14",
+            "Glass": "Hand-blown Crystal",
+            "Metal": "24K Gold Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/d9b8362d-acc9-4905-8c9c-b62490633ed0/11_5519_012_23_Eugene_Historic_CH_02_M_24K_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/0b6989d6-34dc-48de-b617-4fb204cc4613/11_5519_012_23_Eugene_Historic_CH_02_M_Chromium",
+              "https://eshop.preciosalighting.com/getmetafile/6e8b59f0-c3db-4485-aabb-b46a7a4024cd/PRECIOSA_Lighting_Collections_11_5519_012_23_Eugene_Historic_CH_02_M_Brass_full"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/0e4bb6a7-62ee-4938-adbe-424b3a809b23/11_5522_024_01_Eugene_Historic_CH_03_L_24K_Gold",
+            "product_id": "700167-A-1-C"
+          }
+        ]
+      },
+      "Eugene Chandeliers Contemporary colour": {
+        "grup_data": {
+          "group_id": "700167-A-2",
+          "group_name": "Eugene Chandeliers Contemporary colour",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/eugene-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/5fac6d98-74a6-465f-9bb5-26bbd34e02c1/Eugene-L-ColorBGR-WhiteBG.jpg",
+          "group_description": "Injecting the elegant original with a contemporary palette, Eugene is now extravagant, brave and adventurous. Freshness and energy is brought to interiors, with colours including bright green, warm rose and calming blue. Injecting the elegant original with a contemporary palette, Eugene is now extravagant, brave and adventurous. Freshness and energy is brought to interiors, with colours including bright green, warm rose and calming blue."
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "62 x 76 cm",
+            "Weight": "15 Kg",
+            "Wattage": "240 W",
+            "Light sources": "6 x E14",
+            "Glass": "Light Rose, Green & Light Blue / Frosted",
+            "Metal": "Chromium Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/6640b098-6b28-44d0-a294-759712590bc2/11_5519_006_21_Eugene_Contemporary_CH_01_S_BGR",
+              "https://eshop.preciosalighting.com/getmetafile/3171dc3a-c301-446a-8aed-c75f80294360/11_5519_006_27_Eugene_Contemporary_CH_01_S_White",
+              "https://eshop.preciosalighting.com/getmetafile/e60f76b3-5445-42da-bb3d-9a24672cff2a/11_5519_006_22_Eugene_Contemporary_CH_01_S_GAR",
+              "https://eshop.preciosalighting.com/getmetafile/31acc920-c59a-4b75-8e13-09aa9f49ba22/11_5519_006_20_Eugene_Contemporary_CH_01_S_RGB",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Eugene-(1)/Eugene-S/Visualization_Eugene_Contemporary_CH_01_S_02_M_03_L_Blue.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/31acc920-c59a-4b75-8e13-09aa9f49ba22/11_5519_006_20_Eugene_Contemporary_CH_01_S_RGB",
+            "product_id": "700167-A-2-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "88 x 98 cm",
+            "Weight": "17 Kg",
+            "Wattage": "480 W",
+            "Light sources": "12 x E14",
+            "Glass": "Light Rose, Green & Light Blue / Frosted",
+            "Metal": "Chromium Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/6640b098-6b28-44d0-a294-759712590bc2/11_5519_006_21_Eugene_Contemporary_CH_01_S_BGR",
+              "https://eshop.preciosalighting.com/getmetafile/3171dc3a-c301-446a-8aed-c75f80294360/11_5519_006_27_Eugene_Contemporary_CH_01_S_White",
+              "https://eshop.preciosalighting.com/getmetafile/e60f76b3-5445-42da-bb3d-9a24672cff2a/11_5519_006_22_Eugene_Contemporary_CH_01_S_GAR",
+              "https://eshop.preciosalighting.com/getmetafile/31acc920-c59a-4b75-8e13-09aa9f49ba22/11_5519_006_20_Eugene_Contemporary_CH_01_S_RGB",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Eugene-(1)/Eugene-S/Visualization_Eugene_Contemporary_CH_01_S_02_M_03_L_Blue.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/5b5b94e0-39ab-47e9-a0f2-1ea316fe9e77/11_5519_012_24_Eugene_Contemporary_CH_02_M_RGB",
+            "product_id": "700167-A-2-B"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "99 x 131 cm",
+            "Weight": "35 Kg",
+            "Wattage": "960 W",
+            "Light sources": "24 x E14",
+            "Glass": "Light Rose, Green & Light Blue / Frosted",
+            "Metal": "Chromium Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/aa347a4b-6b70-4432-9f5c-8deace123cec/11_5519_012_25_Eugene_Contemporary_CH_02_M_BGR",
+              "https://eshop.preciosalighting.com/getmetafile/d77eef13-c14c-4ea4-87e9-21d8eedc639c/11_5519_012_28_Eugene_Contemporary_CH_02_M_White",
+              "https://eshop.preciosalighting.com/getmetafile/14a66562-f652-47d6-b2ee-703b813b3f7c/11_5519_012_26_Eugene_Contemporary_CH_02_M_GAR",
+              "https://eshop.preciosalighting.com/getmetafile/5b5b94e0-39ab-47e9-a0f2-1ea316fe9e77/11_5519_012_24_Eugene_Contemporary_CH_02_M_RGB",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Eugene-(1)/Eugene-M/Visualization_Eugene_Contemporary_CH_01_S_02_M_03_L_Blue.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/e43f3ec1-7c33-45c7-9ea2-128172b14d11/PRECIOSA_Lighting_Collections_11_5522_024_03_Eugene_Contemporary_CH_03_L_RGB_medium",
+            "product_id": "700167-A-2-C"
+          }
+        ]
+      }
+    },
+    "Eugene Wall sconces": {
+      "seri_data": {
+        "series_id": "700167-B",
+        "series_name": "Eugene Wall sconces"
+      },
+      "Eugene Wall sconces Historic design": {
+        "grup_data": {
+          "group_id": "700167-B-1",
+          "group_name": "Eugene Wall sconces Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/wall-sconces/eugene",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4420080_Eugene_WS_3arms_Historic_Chrome.jpg",
+          "group_description": "Eugene’s beauty stems from its smooth, no cut, simple glass design. Its transparency adapts to any interior whether historic or contemporary and brightens the path of long hallways or acts as warm welcome in entryways. The wall sconce is available with either two or three candles. "
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "31 x 31 x 19 cm",
+            "Weight": "1 Kg",
+            "Wattage": "80 W",
+            "Light sources": "2 x E14 / MAX 40 W",
+            "Glass": "Crystal",
+            "Metal": "24k Gold Plated",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/fa8ea184-505c-4824-9b74-47e150df968d/4420238_Eugene_WS_2arms_Historic_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/ca23d68b-a4ab-4e93-93b2-e0d836368bad/4420257_Eugene_WS_2arms_Historic_Chrome",
+              "https://eshop.preciosalighting.com/getmetafile/80f955f0-7482-47e3-93b6-673909bcdbb1/Eugen-WS2-Brass"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/fa8ea184-505c-4824-9b74-47e150df968d/4420238_Eugene_WS_2arms_Historic_Gold",
+            "product_id": "700167-B-1-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "39 x 40 x 22 cm",
+            "Weight": "2 Kg",
+            "Wattage": "120 W",
+            "Light sources": "3 x E14 / MAX 40 W",
+            "Glass": "Crystal",
+            "Metal": "24k Gold Plated",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/fa8ea184-505c-4824-9b74-47e150df968d/4420238_Eugene_WS_2arms_Historic_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/ca23d68b-a4ab-4e93-93b2-e0d836368bad/4420257_Eugene_WS_2arms_Historic_Chrome",
+              "https://eshop.preciosalighting.com/getmetafile/80f955f0-7482-47e3-93b6-673909bcdbb1/Eugen-WS2-Brass"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/1f3d6e5c-97ba-43a3-a0e8-9c31afb3967e/4420073_Eugene_WS_3arms_Historic_Gold",
+            "product_id": "700167-B-1-B"
+          }
+        ]
+      },
+      "Eugene Wall sconces Contemporary colour": {
+        "grup_data": {
+          "group_id": "700167-B-2",
+          "group_name": "Eugene Wall sconces Contemporary colour",
+          "group_link": "https://eshop.preciosalighting.com/en/products/wall-sconces/eugene-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4420092_Eugene_WS_3arms_Contemporary_BGR.jpg",
+          "group_description": "The contemporary Eugene wall sconce brightens up spaces with a striking modern look. The flattering flora hues glow from the simple, clean design. This light is available with either two or three candles which makes it the perfect option in both smaller and larger spaces. "
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "31 x 31 x 19 cm",
+            "Weight": "1 Kg",
+            "Wattage": "40 W",
+            "Light sources": "2 x E14",
+            "Glass": "Crystal Frosted",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/f89e01d0-a27f-4209-8093-a0a668f908ef/4420046_Eugene_WS_2arms_Contemporary_White",
+              "https://eshop.preciosalighting.com/getmetafile/6e54d2cc-51db-4309-a58a-512d30016de2/4420263_Eugene_WS_2arms_Contemporary_BGR",
+              "https://eshop.preciosalighting.com/getmetafile/fac79f3c-4558-48fa-84d3-78af7ad0c2ab/4420312_Eugene_WS_2arms_Contemporary_GYR",
+              "https://eshop.preciosalighting.com/getmetafile/31f85196-1022-46ad-8d55-9cb3181d673c/4420314_Eugene_WS_2arms_Contemporary_RGB"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/f89e01d0-a27f-4209-8093-a0a668f908ef/4420046_Eugene_WS_2arms_Contemporary_White",
+            "product_id": "700167-B-2-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "39 x 40 x 22 cm",
+            "Weight": "2 Kg",
+            "Wattage": "40 W",
+            "Light sources": "3 x E14",
+            "Glass": "Crystal / Frosted",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/f89e01d0-a27f-4209-8093-a0a668f908ef/4420046_Eugene_WS_2arms_Contemporary_White",
+              "https://eshop.preciosalighting.com/getmetafile/6e54d2cc-51db-4309-a58a-512d30016de2/4420263_Eugene_WS_2arms_Contemporary_BGR",
+              "https://eshop.preciosalighting.com/getmetafile/fac79f3c-4558-48fa-84d3-78af7ad0c2ab/4420312_Eugene_WS_2arms_Contemporary_GYR",
+              "https://eshop.preciosalighting.com/getmetafile/31f85196-1022-46ad-8d55-9cb3181d673c/4420314_Eugene_WS_2arms_Contemporary_RGB"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/77062f38-d9c6-44a5-adbc-4831ceff1d3e/4420051_Eugene_WS_3arms_Contemporary_White",
+            "product_id": "700167-B-2-B"
+          }
+        ]
+      }
+    }
+  },
+  "Echo": {
+    "aile_data": {
+      "family_id": "700207",
+      "family_name": "Echo"
+    },
+    "Echo Chandeliers": {
+      "seri_data": {
+        "series_id": "700207-A",
+        "series_name": "Echo Chandeliers"
+      },
+      "Echo Chandeliers New interpretation": {
+        "grup_data": {
+          "group_id": "700207-A-1",
+          "group_name": "Echo Chandeliers New interpretation",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/echo",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/40cad230-2522-40ee-986b-3d33725ff06d/Echo-L-Gold.jpg",
+          "group_description": "Reflection and form take on new meaning with Echo,a dynamic take on Eugene. Designer Frank Tjepkema maintained the original grace and elegance but introduced intrigue with unusual shapes and reflections. Reflection and form take on new meaning with Echo, a dynamic take on Eugene. Designer Frank Tjepkema maintained the original’s grace and elegance but introduced intrigue with unusual shapes and reflections."
+        },
+        "urunler": [
+          {
+            "product_name": "M",
+            "Dimensions": "62 x 145 cm",
+            "Weight": "28 Kg",
+            "Wattage": "83 W",
+            "Light sources": "LED",
+            "Glass": "Hand-blown Crystal",
+            "Metal": "Gold Colour Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Echo/Echo-M/Visualization_Echo_CH_01_M-(1).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/1f9fd55d-6158-499c-9bb6-74622497b2f0/Echo-M-Gold",
+            "product_id": "700207-A-1-A"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "89 x 200 cm",
+            "Weight": "50 Kg",
+            "Wattage": "220 W",
+            "Light sources": "LED",
+            "Glass": "Hand-blown Crystal",
+            "Metal": "Gold Colour Brass",
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/5de2a289-c3c7-463c-aa72-265042a62c9f/Echo-L-Gold",
+            "product_id": "700207-A-1-B"
+          }
+        ]
+      }
+    }
+  },
+  "Louis": {
+    "aile_data": {
+      "family_id": "700247",
+      "family_name": "Louis"
+    },
+    "Louis Chandeliers": {
+      "seri_data": {
+        "series_id": "700247-A",
+        "series_name": "Louis Chandeliers"
+      },
+      "Louis Chandeliers Historic design": {
+        "grup_data": {
+          "group_id": "700247-A-1",
+          "group_name": "Louis Chandeliers Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/louis",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Louis/16_5376_040_00_Louis_Historic_CH_05_XL_24K_Gold.jpg",
+          "group_description": "This iconic Bohemian brass arm chandelier was a revolution for its time, enchanting 18th century high society. It still mesmerizes today. A cast brass chandelier, heavily inﬂuenced by Louis XIV’s chandeliers, it is a bold, expansive statement of light, radiating luxury. New methods of casting brass revolutionised the production of chandeliers in the 18th century whilst simultaneously enchanting high society. Louis enchants still, with its compelling silhouette and intense glow."
+        },
+        "urunler": [
+          {
+            "product_name": "XS",
+            "Dimensions": "75 x 71 cm",
+            "Weight": "20 Kg",
+            "Wattage": "320 W",
+            "Light sources": "8 x E14",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/ae89baf6-1873-4c70-9f45-9742b7f6987e/16_5791_008_08_Louis_Historic_CH_01_XS_24K_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/176501b4-4077-49a9-9300-63073d0238b1/Louis-XS-Nickel",
+              "https://eshop.preciosalighting.com/getmetafile/8e2d6ca0-2e92-439f-aeb8-9d8657dba323/Louis-XS-Brass"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/8e2d6ca0-2e92-439f-aeb8-9d8657dba323/Louis-XS-Brass",
+            "product_id": "700247-A-1-A"
+          },
+          {
+            "product_name": "S",
+            "Dimensions": "85 x 78 cm",
+            "Weight": "30 Kg",
+            "Wattage": "480 W",
+            "Light sources": "12 x E14",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/ae89baf6-1873-4c70-9f45-9742b7f6987e/16_5791_008_08_Louis_Historic_CH_01_XS_24K_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/176501b4-4077-49a9-9300-63073d0238b1/Louis-XS-Nickel",
+              "https://eshop.preciosalighting.com/getmetafile/8e2d6ca0-2e92-439f-aeb8-9d8657dba323/Louis-XS-Brass"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/ccf5858b-acfe-4c2f-9284-f62dd75dde57/Louis-S-Brass",
+            "product_id": "700247-A-1-B"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "98 x 78 cm",
+            "Weight": "65 Kg",
+            "Wattage": "720 W",
+            "Light sources": "18 x E14",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/5858293d-dae7-4784-881f-ce5c2f3c7a30/Louis-S-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/5ad1f44b-85d9-4e4e-b307-eca18c6ac36e/Louis-S-Nickel",
+              "https://eshop.preciosalighting.com/getmetafile/ccf5858b-acfe-4c2f-9284-f62dd75dde57/Louis-S-Brass"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/7c84d4ec-85ef-4d98-95df-de1e6ea2db07/Louis-M-Brass",
+            "product_id": "700247-A-1-C"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "111 x 93 cm",
+            "Weight": "80 Kg",
+            "Wattage": "960 W",
+            "Light sources": "24 x E14",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/231fc242-b878-4597-bdab-491a23113aa5/Louis-M-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/cdd90c63-15a6-453f-98d6-80961cbba690/Louis-M-Nickel",
+              "https://eshop.preciosalighting.com/getmetafile/7c84d4ec-85ef-4d98-95df-de1e6ea2db07/Louis-M-Brass",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Louis/Louis-M/Visualization_Louis_Historic_CH_03_M_Gold-(1).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/bd9fb11a-6a09-4055-88bf-7dcde5e59d06/Louis-L-Brass",
+            "product_id": "700247-A-1-D"
+          },
+          {
+            "product_name": "XL",
+            "Dimensions": "155 x 115 cm",
+            "Weight": "120 Kg",
+            "Wattage": "1600 W",
+            "Light sources": "40 x E14",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/8f9a047a-995e-4aab-b660-4c9227dab26d/Louis-L-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/0d2e8b75-2e83-4848-9852-d20533f7fcfe/Louis-L-Nickel",
+              "https://eshop.preciosalighting.com/getmetafile/bd9fb11a-6a09-4055-88bf-7dcde5e59d06/Louis-L-Brass",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Louis/Louis-L/Visualization_Louis_Historic_CH_03_M_Gold-(1).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/31650045-578d-4b7b-8b4a-9595c68b8754/16_5376_040_00_Louis_Historic_CH_05_XL_Polished-Brass",
+            "product_id": "700247-A-1-E"
+          }
+        ]
+      },
+      "Louis Chandeliers Contemporary colour": {
+        "grup_data": {
+          "group_id": "700247-A-2",
+          "group_name": "Louis Chandeliers Contemporary colour",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/louis-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Louis-(1)/16_5376_040_01_Louis_Contemporary_CH_05_XL_Black.jpg",
+          "group_description": "Keeping Louis's elemental geometry, this chandelier produces a softer glow, achieved through the use of colour and lampshades. Because of the assortment of surface finishes and hues, a relaxed elegance can be brought to a variety of interiors. The dominant silhouette of the original has been softened through colour, which instantly lifts the atmosphere of the piece. The addition of lampshades not only diﬀuses the light, but also adds to this more relaxed elegance, perfect for above table settings, as shadows are minimised. The new colours allow for variations of mood or tone, to suit a variety of intimate or majestic settings."
+        },
+        "urunler": [
+          {
+            "product_name": "XS",
+            "Dimensions": "75 x 71 cm",
+            "Weight": "20 Kg",
+            "Wattage": "320 W",
+            "Light sources": "8 x E14",
+            "Metal": "Black Colour Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/ea58623c-7176-4f0f-aabb-55a251c827f0/Louis-XS-Black",
+              "https://eshop.preciosalighting.com/getmetafile/a7f76ffd-8440-431b-a4b8-437f91370f70/16_5791_008_12_Louis_Contemporary_CH_01_XS_Cooper",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Louis-(1)/Louis-XS/Visualization_Louis_Contemporary_CH_01_XS_Black-(1).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/ea58623c-7176-4f0f-aabb-55a251c827f0/Louis-XS-Black",
+            "product_id": "700247-A-2-A"
+          },
+          {
+            "product_name": "S",
+            "Dimensions": "85 x 78 cm",
+            "Weight": "30 Kg",
+            "Wattage": "480 W",
+            "Light sources": "12 x E14",
+            "Metal": "Black Colour Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/ea58623c-7176-4f0f-aabb-55a251c827f0/Louis-XS-Black",
+              "https://eshop.preciosalighting.com/getmetafile/a7f76ffd-8440-431b-a4b8-437f91370f70/16_5791_008_12_Louis_Contemporary_CH_01_XS_Cooper",
+              "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Louis-(1)/Louis-XS/Visualization_Louis_Contemporary_CH_01_XS_Black-(1).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/f4c4f6bb-ef40-44ee-be62-84e5d65956ce/Louis-S-Black",
+            "product_id": "700247-A-2-B"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "98 x 78 cm",
+            "Weight": "65 Kg",
+            "Wattage": "720 W",
+            "Light sources": "18 x E14",
+            "Metal": "Black Colour Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/f4c4f6bb-ef40-44ee-be62-84e5d65956ce/Louis-S-Black",
+              "https://eshop.preciosalighting.com/getmetafile/22f4ec67-e326-45fc-8792-fb1451b9fdef/Louis-S-Copper"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/7b6d4fb9-e5a7-4ec0-b7fb-ffd5ad100d85/Louis-M-Black",
+            "product_id": "700247-A-2-C"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "111 x 93 cm",
+            "Weight": "80 Kg",
+            "Wattage": "960 W",
+            "Light sources": "24 x E14",
+            "Metal": "Black Colour Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/7b6d4fb9-e5a7-4ec0-b7fb-ffd5ad100d85/Louis-M-Black",
+              "https://eshop.preciosalighting.com/getmetafile/1dab950a-5038-4abb-b2df-5bdf3c1af7e5/Louis-M-Copper"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/cade9052-18af-4808-988a-85bc3727129c/Louis-L-Black",
+            "product_id": "700247-A-2-D"
+          },
+          {
+            "product_name": "XL",
+            "Dimensions": "155 x 115 cm",
+            "Weight": "120 Kg",
+            "Wattage": "1600 W",
+            "Light sources": "40 x E14",
+            "Metal": "Black Colour Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/cade9052-18af-4808-988a-85bc3727129c/Louis-L-Black",
+              "https://eshop.preciosalighting.com/getmetafile/9c6a5322-0daa-4156-a430-8fa0b7415d1f/Louis-L-Copper"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/20e173e7-b9af-4f94-90f0-990f754d4993/Louis-XL-Black",
+            "product_id": "700247-A-2-E"
+          }
+        ]
+      }
+    },
+    "Louis Wall sconces": {
+      "seri_data": {
+        "series_id": "700247-B",
+        "series_name": "Louis Wall sconces"
+      },
+      "Louis Wall sconces Historic design": {
+        "grup_data": {
+          "group_id": "700247-B-1",
+          "group_name": "Louis Wall sconces Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/wall-sconces/louis",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4467517_Louis_WS_3arms_Historic_Nickel-plated.jpg",
+          "group_description": "Louis is a cast brass chandelier and when modified to a wall sconce becomes a bold piece of art. The intense glow that Louis radiates attracts passers-by to pause for a moment and discover the handcrafted craftsmanship. The wall scone is available with either two or three candles "
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "35 x 39 x 20 cm",
+            "Weight": "3 Kg",
+            "Wattage": "40 W",
+            "Light sources": "2 x E14",
+            "Metal": "24k Gold Plated",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/9e75ed58-1707-48aa-894b-7ea46e86dc75/4467457_Louis_WS_2arms_Historic_24k-Gold-plated",
+              "https://eshop.preciosalighting.com/getmetafile/e4a7173a-5d00-4814-b67c-eedbd5bd8f6e/4437138_Louis_WS_2arms_Historic_Polished-Brass",
+              "https://eshop.preciosalighting.com/getmetafile/794fa085-49b7-471b-a8b0-4eb22799cbf3/4467391_Louis_WS_2arms_Historic_Nickel-plated"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/9e75ed58-1707-48aa-894b-7ea46e86dc75/4467457_Louis_WS_2arms_Historic_24k-Gold-plated",
+            "product_id": "700247-B-1-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "38 x 47 x 24",
+            "Weight": "4 Kg",
+            "Metal": "24k gold plated",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/9e75ed58-1707-48aa-894b-7ea46e86dc75/4467457_Louis_WS_2arms_Historic_24k-Gold-plated",
+              "https://eshop.preciosalighting.com/getmetafile/e4a7173a-5d00-4814-b67c-eedbd5bd8f6e/4437138_Louis_WS_2arms_Historic_Polished-Brass",
+              "https://eshop.preciosalighting.com/getmetafile/794fa085-49b7-471b-a8b0-4eb22799cbf3/4467391_Louis_WS_2arms_Historic_Nickel-plated"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/59d8bcba-7b36-4360-8d1e-d3cf95cf33fb/4467532_Louis_WS_3arms_Historic_24k-Gold-plated",
+            "product_id": "700247-B-1-B"
+          }
+        ]
+      },
+      "Louis Wall sconces Contemporary colour": {
+        "grup_data": {
+          "group_id": "700247-B-2",
+          "group_name": "Louis Wall sconces Contemporary colour",
+          "group_link": "https://eshop.preciosalighting.com/en/products/wall-sconces/louis-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4437334_Louis_WS_3arms_Contemporary_Black.jpg",
+          "group_description": "The dominant silhouette of the original Louis has been softened through colour and lamp shades which instantly lift the atmosphere of the space. The colours allow for variations in mood or tone. The Louis contemporary wall sconce offers either two or three candles.    "
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "35 x 39 x 20 cm",
+            "Weight": "3 Kg",
+            "Wattage": "40 W",
+            "Light sources": "2 x E14",
+            "Metal": "Black",
+            "Lamp shades": "White Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/40114c8c-b051-49be-b5cf-678c6fa9b9ce/4437134_Louis_WS_2arms_Contemporary_Black",
+              "https://eshop.preciosalighting.com/getmetafile/70aaf770-3e3c-4277-8771-fc75b33ef101/4467488_Louis_WS_2arms_Contemporary_Copper"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/40114c8c-b051-49be-b5cf-678c6fa9b9ce/4437134_Louis_WS_2arms_Contemporary_Black",
+            "product_id": "700247-B-2-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "38 x 47 x 24",
+            "Weight": "4 Kg",
+            "Wattage": "40 W",
+            "Light sources": "2 x E14",
+            "Metal": "Black",
+            "Lamp shades": "White Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/40114c8c-b051-49be-b5cf-678c6fa9b9ce/4437134_Louis_WS_2arms_Contemporary_Black",
+              "https://eshop.preciosalighting.com/getmetafile/70aaf770-3e3c-4277-8771-fc75b33ef101/4467488_Louis_WS_2arms_Contemporary_Copper"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/11854582-b23d-4fdf-82b8-f8b11e258ecc/4437334_Louis_WS_3arms_Contemporary_Black",
+            "product_id": "700247-B-2-B"
+          }
+        ]
+      }
+    }
+  },
+  "Mercury": {
+    "aile_data": {
+      "family_id": "700287",
+      "family_name": "Mercury"
+    },
+    "Mercury Chandeliers": {
+      "seri_data": {
+        "series_id": "700287-A",
+        "series_name": "Mercury Chandeliers"
+      },
+      "Mercury Chandeliers New interpretation": {
+        "grup_data": {
+          "group_id": "700287-A-1",
+          "group_name": "Mercury Chandeliers New interpretation",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/mercury",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Mercury/New_Interpretation_4323953_Mercury_Design_By_Rony_Plesl_L_Gold.jpg",
+          "group_description": "A daring piece, Mercury incorporates one of the best design elements of its predecessor; the ability of its surface to reflect light. Designer Rony Plesl used striking brass to create a confident installation while still reflecting refinement and luxury. Czech designer Rony Plesl has transmuted the form of the original frame and arms into an entirely new, strong, and decisive light piece. Mercury retains the perfect design intent of its predecessor – to use its surfaces to reflect light – but uses new laser cutting technology to achieve this result, and has added retract and extend capabilities. The striking form of the frame is smooth and highly polished, leading to an industrial look, whilst maintaining sophistication and charm.  "
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "101 x 73 cm",
+            "Weight": "45 Kg",
+            "Wattage": "960 W",
+            "Light sources": "24 x E14",
+            "Glass": "Short Candles",
+            "Metal": "Gold",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/9a9ee1e3-be61-4ad7-9bcd-ab89819139f2/New_Interpretation_4321214_Mercury_Design_By_Rony_Plesl_S_Copper",
+              "https://eshop.preciosalighting.com/getmetafile/cba7e75c-72ad-4904-9bb4-d1ef5cfe4b94/New_Interpretation_4477208_Mercury_Design_By_Rony_Plesl_S_copper_long_candles_rounded",
+              "https://eshop.preciosalighting.com/getmetafile/408b193e-6bc2-482e-911d-6ff8c9103317/New_Interpretation_4319629_Mercury_Design_By_Rony_Plesl_S_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/b900fb79-c6b4-440b-89f0-443671dc0190/New_Interpretation_4477183_Mercury_Design_By_Rony_Plesl_S_gold_short_candles_edison"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/b900fb79-c6b4-440b-89f0-443671dc0190/New_Interpretation_4477183_Mercury_Design_By_Rony_Plesl_S_gold_short_candles_edison",
+            "product_id": "700287-A-1-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "137 x 106 cm",
+            "Weight": "80 Kg",
+            "Wattage": "2160 W",
+            "Light sources": "54 x E14",
+            "Metal": "Copper Colour Stainless Steel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/9a9ee1e3-be61-4ad7-9bcd-ab89819139f2/New_Interpretation_4321214_Mercury_Design_By_Rony_Plesl_S_Copper",
+              "https://eshop.preciosalighting.com/getmetafile/cba7e75c-72ad-4904-9bb4-d1ef5cfe4b94/New_Interpretation_4477208_Mercury_Design_By_Rony_Plesl_S_copper_long_candles_rounded",
+              "https://eshop.preciosalighting.com/getmetafile/408b193e-6bc2-482e-911d-6ff8c9103317/New_Interpretation_4319629_Mercury_Design_By_Rony_Plesl_S_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/b900fb79-c6b4-440b-89f0-443671dc0190/New_Interpretation_4477183_Mercury_Design_By_Rony_Plesl_S_gold_short_candles_edison"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/960f14e8-a5fd-4984-8a23-1863ff2219fd/New_Interpretation_4320269_Mercury_Design_By_Rony_Plesl_M_Copper",
+            "product_id": "700287-A-1-B"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "174 x 141 cm",
+            "Weight": "130 Kg",
+            "Wattage": "2880 W",
+            "Light sources": "72 x E14",
+            "Metal": "Copper Colour Stainless Steel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/960f14e8-a5fd-4984-8a23-1863ff2219fd/New_Interpretation_4320269_Mercury_Design_By_Rony_Plesl_M_Copper",
+              "https://eshop.preciosalighting.com/getmetafile/685a86b5-3d7e-4beb-964e-3f530ab98287/New_Interpretation_4477331_Mercury_Design_By_Rony_Plesl_M_copper_long_candles_rounded",
+              "https://eshop.preciosalighting.com/getmetafile/4243e14e-0683-4f03-a065-af2fef9f033e/New_Interpretation_4306284_Mercury_Design_By_Rony_Plesl_M_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/2d1d725a-4f2f-4b0c-8f69-0a0982273600/New_Interpretation_4477291_Mercury_Design_By_Rony_Plesl_M_gold_short_candles_edison"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/dae50f72-4b7b-48c3-8aad-bf64a4435ac0/New_Interpretation_4291699_Mercury_Design_By_Rony_Plesl_L_Copper",
+            "product_id": "700287-A-1-C"
+          }
+        ]
+      }
+    },
+    "Mercury Wall sconces": {
+      "seri_data": {
+        "series_id": "700287-B",
+        "series_name": "Mercury Wall sconces"
+      },
+      "Mercury Wall sconces New interpretations": {
+        "grup_data": {
+          "group_id": "700287-B-1",
+          "group_name": "Mercury Wall sconces New interpretations",
+          "group_link": "https://eshop.preciosalighting.com/en/products/wall-sconces/mercury",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/Products/Wall-sconces/Mercury/Mercury-WS1-Copper-Edison-Long-Candle.jpg",
+          "group_description": ""
+        },
+        "urunler": [
+          {
+            "product_name": "Mercury Wall sconces New interpretations",
+            "Dimensions": "12 x 32 x 22 cm",
+            "Weight": "2 Kg",
+            "Wattage": "40 W",
+            "Light sources": "1 x E14 / MAX 40 W",
+            "Metal": "Gold",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/f0f2cad5-bfe1-409e-b858-80d37325adb9/Mercury-WS1-Copper-Edison-Long-Candle",
+              "https://eshop.preciosalighting.com/getmetafile/7509d712-3aac-4fbf-aedb-e518895862c1/Mercury-WS1-Gold-Edison-Long-Candle"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/7509d712-3aac-4fbf-aedb-e518895862c1/Mercury-WS1-Gold-Edison-Long-Candle",
+            "product_id": "700287-B-1-A"
+          }
+        ]
+      }
+    }
+  },
+  "Fractal": {
+    "aile_data": {
+      "family_id": "700327",
+      "family_name": "Fractal"
+    },
+    "Fractal Chandeliers": {
+      "seri_data": {
+        "series_id": "700327-A",
+        "series_name": "Fractal Chandeliers"
+      },
+      "Fractal Chandeliers New interpretation": {
+        "grup_data": {
+          "group_id": "700327-A-1",
+          "group_name": "Fractal Chandeliers New interpretation",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/fractal",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/Fractal/191125-Fractal-XL-Gold.jpg",
+          "group_description": "The Fractal family features an industrial aesthetic inspired by nature. A fractal structure is a never-ending pattern. They can be found in nature, for example in the leaves, branches and roots of trees. Our Fractal designed by an internationally established product designer Thomas Feichtner features metal branches and hand cut crystal plates that mirror these natural motifs through a modular structure and reflecting patterns of crystal light. The chandelier’s construction is created through tubular metal ‘branches’ which not only give the fixture its artistic shape, but also conceal the light sources. The branches end with hand-blown crystal plates. The chandelier comes in five different sizes.  "
+        },
+        "urunler": [
+          {
+            "product_name": "XS",
+            "Dimensions": "33 x 23 cm",
+            "Weight": "5 Kg",
+            "Wattage": "3 W",
+            "Light sources": "3 x LED / 1 W",
+            "Glass": "Crystal",
+            "Metal": "Black",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/1880bcf5-8fd9-450e-8dfa-ba420a168247/191125-Fractal-XS-Black",
+              "https://eshop.preciosalighting.com/getmetafile/c150a3e4-04a2-426d-bfc1-bbcccb64f98d/191125-Fractal-XS-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/d2bc1bf1-868c-48ec-b7d2-70c1292eb6b2/191125-Fractal-XS-Chrome"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/1880bcf5-8fd9-450e-8dfa-ba420a168247/191125-Fractal-XS-Black",
+            "product_id": "700327-A-1-A"
+          },
+          {
+            "product_name": "S",
+            "Dimensions": "73 x 33 cm",
+            "Weight": "9 Kg",
+            "Wattage": "9 W",
+            "Light sources": "9 x LED / 1 W",
+            "Glass": "Crystal",
+            "Metal": "Black",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/1880bcf5-8fd9-450e-8dfa-ba420a168247/191125-Fractal-XS-Black",
+              "https://eshop.preciosalighting.com/getmetafile/c150a3e4-04a2-426d-bfc1-bbcccb64f98d/191125-Fractal-XS-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/d2bc1bf1-868c-48ec-b7d2-70c1292eb6b2/191125-Fractal-XS-Chrome"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/1b0fda98-53ed-4e9d-a35e-b4f998c1773b/191125-Fractal-S-Black",
+            "product_id": "700327-A-1-B"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "73 x 56 cm",
+            "Weight": "11 Kg",
+            "Wattage": "12 W",
+            "Light sources": "12 x LED / 1 W",
+            "Glass": "Crystal",
+            "Metal": "Black",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/1b0fda98-53ed-4e9d-a35e-b4f998c1773b/191125-Fractal-S-Black",
+              "https://eshop.preciosalighting.com/getmetafile/73b04b78-9ea8-40e4-bebd-c4e9e8c55350/191125-Fractal-S-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/0bf56e58-4a21-4798-b561-fa91bb3d1156/191125-Fractal-S-Chrome"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/0a81c1d5-4a31-4bb0-ac78-df1f87a3aed8/191125-Fractal-M-Black",
+            "product_id": "700327-A-1-C"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "108 x 57 cm",
+            "Weight": "20 Kg",
+            "Wattage": "24 W",
+            "Light sources": "24 x LED / 1 W",
+            "Glass": "Crystal",
+            "Metal": "Black",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/0a81c1d5-4a31-4bb0-ac78-df1f87a3aed8/191125-Fractal-M-Black",
+              "https://eshop.preciosalighting.com/getmetafile/5e3eff6f-93fc-4c86-9c73-5133ecade0ad/191125-Fractal-M-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/ef422827-004b-4d69-85a9-0fce406f57cc/191125-Fractal-M-Chrome"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/0eea5857-ba39-4ab8-8d5d-914f95612a64/191125-Fractal-L-Black",
+            "product_id": "700327-A-1-D"
+          },
+          {
+            "product_name": "XL",
+            "Dimensions": "108 x 88 cm",
+            "Weight": "30 Kg",
+            "Wattage": "36 W",
+            "Light sources": "36 x LED / 1 W",
+            "Glass": "Crystal",
+            "Metal": "Black",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/0eea5857-ba39-4ab8-8d5d-914f95612a64/191125-Fractal-L-Black",
+              "https://eshop.preciosalighting.com/getmetafile/564729c3-f358-440f-a122-e8b1ee8815ab/191125-Fractal-L-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/1a656b85-f5ff-406c-b669-767186090a12/191125-Fractal-L-Silver"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/699dd44a-2422-495d-a098-0361a64937a4/191125-Fractal-XL-Black",
+            "product_id": "700327-A-1-E"
+          }
+        ]
+      }
+    },
+    "Fractal Solitaire": {
+      "seri_data": {
+        "series_id": "700327-B",
+        "series_name": "Fractal Solitaire"
+      },
+      "Fractal Solitaire Solitaire": {
+        "grup_data": {
+          "group_id": "700327-B-1",
+          "group_name": "Fractal Solitaire Solitaire",
+          "group_link": "https://eshop.preciosalighting.com/en/products/solitaire/fractal",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/b8a8e9d7-97f3-4ae3-b622-e2d936f9ce61/191127-Fractal-Cluster-5-Gold.jpg",
+          "group_description": "The Fractal family features an industrial aesthetic inspired by nature. A fractal structure is a never-ending pattern. They can be found in nature, for example in the leaves, branches and roots of trees. Our Fractal designed by an internationally established product designer Thomas Feichtner features metal branches and hand cut crystal plates that mirror these natural motifs through a modular structure and reflecting patterns of crystal light. Single solitaires of Fractal are also available for a contemporary look in a smaller space, or to cluster together in groups of three, five, or seven pendants."
+        },
+        "urunler": [
+          {
+            "product_name": "XXS",
+            "Dimensions": "14 x 15 cm",
+            "Weight": "2 Kg",
+            "Wattage": "1 W",
+            "Light sources": "1 x LED / 1 W",
+            "Glass": "Crystal",
+            "Metal": "Black",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/a1820b65-af6d-4e24-997f-ab0851f305b9/191125-Fractal-XXS-Black",
+              "https://eshop.preciosalighting.com/getmetafile/4ee8f9f8-22e1-42b6-b661-bb32b307e387/191125-Fractal-XXS-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/ac62789f-e5eb-44cd-9fdf-3f7f5112540c/191125-Fractal-XXS-Chrome"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/a1820b65-af6d-4e24-997f-ab0851f305b9/191125-Fractal-XXS-Black",
+            "product_id": "700327-B-1-A"
+          },
+          {
+            "product_name": "S",
+            "Dimensions": "25 x 250 cm",
+            "Weight": "7 Kg",
+            "Wattage": "3 W",
+            "Light sources": "3 x LED / 1 W",
+            "Glass": "Crystal",
+            "Metal": "Black",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/a1820b65-af6d-4e24-997f-ab0851f305b9/191125-Fractal-XXS-Black",
+              "https://eshop.preciosalighting.com/getmetafile/4ee8f9f8-22e1-42b6-b661-bb32b307e387/191125-Fractal-XXS-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/ac62789f-e5eb-44cd-9fdf-3f7f5112540c/191125-Fractal-XXS-Chrome"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/93112318-881d-444e-bd85-64c9ef9b7570/Fractal-Cluster-3-Black",
+            "product_id": "700327-B-1-B"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "30 x 250 cm",
+            "Weight": "10 Kg",
+            "Wattage": "5 W",
+            "Light sources": "5 x LED / 1 W",
+            "Glass": "Crystal",
+            "Metal": "Black",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/93112318-881d-444e-bd85-64c9ef9b7570/Fractal-Cluster-3-Black",
+              "https://eshop.preciosalighting.com/getmetafile/865293e0-a146-44a5-b396-b7265f1cf145/191127-Fractal-Cluster-3-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/f1ecb7f4-3684-4b60-885c-db7afe2d319f/Fractal-Cluster-3-Steel"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/ba549c8a-8276-4b87-a392-117b34b03dd9/Fractal-Cluster-5-Black",
+            "product_id": "700327-B-1-C"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "45 x 250 cm",
+            "Weight": "14 Kg",
+            "Wattage": "7 W",
+            "Light sources": "7 x LED / 1 W",
+            "Glass": "Crystal",
+            "Metal": "Black",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/ba549c8a-8276-4b87-a392-117b34b03dd9/Fractal-Cluster-5-Black",
+              "https://eshop.preciosalighting.com/getmetafile/e850559f-c306-488d-b3db-0ad902bd2dae/191127-Fractal-Cluster-5-Gold",
+              "https://eshop.preciosalighting.com/getmetafile/c00f37cc-a979-4cce-a994-edc8a4f686e8/Fractal-Cluster-5-Steel"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/3ad321a0-62c8-47c2-a3de-2570306d9a99/Fractal-Cluster-7-Black",
+            "product_id": "700327-B-1-D"
+          }
+        ]
+      }
+    }
+  },
+  "George": {
+    "aile_data": {
+      "family_id": "700367",
+      "family_name": "George"
+    },
+    "George Chandeliers": {
+      "seri_data": {
+        "series_id": "700367-A",
+        "series_name": "George Chandeliers"
+      },
+      "George Chandeliers Historic design": {
+        "grup_data": {
+          "group_id": "700367-A-1",
+          "group_name": "George Chandeliers Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/george",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/V119473_George_L_brass.jpg",
+          "group_description": "Eye-catching crystal splendour with a historic design finish, George is the perfect addition to traditional settings looking for glamour as well as contemporary spaces wanting a bit of dazzle. The George family of brilliant chandeliers is named after King George II of Britain and the so-called English Regency style of chandeliers.     Its enduring appeal lies in the fact that the geometrical arrangements of the chandelier’s trimmings are put into the spotlight while its structural elements remain in the shadows. Crystal octagons and drops form the chandeliers body with a traditionally pressed metal belt featuring floral motives bringing the piece together."
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "51 x 82 cm",
+            "Weight": "12 Kg",
+            "Wattage": "40 W",
+            "Light sources": "8 x E14",
+            "Glass": "Crystal",
+            "Metal": "Polished Brass",
+            "Trimmings": "Crystal",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/bf708ce2-f758-4293-beba-c492401fdb58/V135361_George_S_brass",
+              "https://eshop.preciosalighting.com/getmetafile/a8b8f006-0a5b-45fa-8db2-7af0d70b1f09/V144688_George_S_nickel"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/bf708ce2-f758-4293-beba-c492401fdb58/V135361_George_S_brass",
+            "product_id": "700367-A-1-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "75 x 119 cm",
+            "Weight": "29 Kg",
+            "Wattage": "40 W",
+            "Light sources": "21 x E14",
+            "Glass": "Crystal",
+            "Metal": "Polished Brass",
+            "Trimmings": "Crystal",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/bf708ce2-f758-4293-beba-c492401fdb58/V135361_George_S_brass",
+              "https://eshop.preciosalighting.com/getmetafile/a8b8f006-0a5b-45fa-8db2-7af0d70b1f09/V144688_George_S_nickel"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/f196ef4c-8beb-414f-8f67-012028cfe23b/V120169_George_M_brass",
+            "product_id": "700367-A-1-B"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "100 x 168 cm",
+            "Weight": "60 Kg",
+            "Wattage": "40 W",
+            "Light sources": "38 x E14",
+            "Glass": "Crystal",
+            "Metal": "Polished Brass",
+            "Trimmings": "Crystal",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/f196ef4c-8beb-414f-8f67-012028cfe23b/V120169_George_M_brass",
+              "https://eshop.preciosalighting.com/getmetafile/55ec2539-9b86-4b84-8b73-63e4928d2392/V145553_George_M_nickel"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/6d85c77a-a1ef-40e2-b2cd-d1d8336d885b/V119473_George_L_brass",
+            "product_id": "700367-A-1-C"
+          }
+        ]
+      }
+    }
+  },
+  "George - ceiling lamp": {
+    "aile_data": {
+      "family_id": "700407",
+      "family_name": "George - ceiling lamp"
+    },
+    "George - ceiling lamp Chandeliers": {
+      "seri_data": {
+        "series_id": "700407-A",
+        "series_name": "George - ceiling lamp Chandeliers"
+      },
+      "George - ceiling lamp Chandeliers Iconic": {
+        "grup_data": {
+          "group_id": "700407-A-1",
+          "group_name": "George - ceiling lamp Chandeliers Iconic",
+          "group_link": "https://eshop.preciosalighting.com/en/products/chandeliers/george-ceiling-lamp",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/Products/Chandeliers/George-Ceiling-Lamp/George-HB-L-Brass.jpg",
+          "group_description": ""
+        },
+        "urunler": [
+          {
+            "product_name": "George S",
+            "Dimensions": "52 x 36 cm",
+            "Weight": "9 Kg",
+            "Wattage": "240 W",
+            "Light sources": "6 x E14 / MAX 40 W",
+            "Glass": "Crystal",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/5943e3f9-f3d1-443e-92db-483709f40f0f/George-HB-S-Brass",
+              "https://eshop.preciosalighting.com/getmetafile/6fcd1cd8-806c-4ba4-8f60-2218fec415b6/George-HB-S-Nickel"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/5943e3f9-f3d1-443e-92db-483709f40f0f/George-HB-S-Brass",
+            "product_id": "700407-A-1-A"
+          },
+          {
+            "product_name": "George M",
+            "Dimensions": "75 x 48 cm",
+            "Weight": "21 Kg",
+            "Wattage": "480 W",
+            "Light sources": "12 x E14 / MAX 40 W",
+            "Glass": "Crystal",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/5943e3f9-f3d1-443e-92db-483709f40f0f/George-HB-S-Brass",
+              "https://eshop.preciosalighting.com/getmetafile/6fcd1cd8-806c-4ba4-8f60-2218fec415b6/George-HB-S-Nickel"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/4085c46c-a36a-45b2-804d-23fee071663e/George-HB-M-Brass",
+            "product_id": "700407-A-1-B"
+          },
+          {
+            "product_name": "George L",
+            "Dimensions": "100 x 60 cm",
+            "Weight": "37 Kg",
+            "Wattage": "800 W",
+            "Light sources": "20 x E14 / MAX 40 W",
+            "Glass": "Crystal",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/4085c46c-a36a-45b2-804d-23fee071663e/George-HB-M-Brass",
+              "https://eshop.preciosalighting.com/getmetafile/10991c0d-f19c-42b7-92c7-202a61aa97de/George-HB-M-Nickel"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/5d1aa093-e094-4a44-8e82-441995c0fad1/George-HB-L-Brass",
+            "product_id": "700407-A-1-C"
+          }
+        ]
+      }
+    }
+  },
+  "Rudolf - floor lamps": {
+    "aile_data": {
+      "family_id": "700447",
+      "family_name": "Rudolf - floor lamps"
+    },
+    "Rudolf - floor lamps Lamps": {
+      "seri_data": {
+        "series_id": "700447-A",
+        "series_name": "Rudolf - floor lamps Lamps"
+      },
+      "Rudolf - floor lamps Lamps Historic design": {
+        "grup_data": {
+          "group_id": "700447-A-1",
+          "group_name": "Rudolf - floor lamps Lamps Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/lamps/rudolf-floor-lamps",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4432527_Rudolf_FL_Historic-(1).jpg",
+          "group_description": "Rudolf is precisely designed to ensure that the trimmings, candle holders and central elements emit maximum radiance from every angle. Even the chrome finish lends itself to this brilliance. Rudolf boasts a generous amount of trimmings which means this is an unmissable, free standing chandelier.   "
+        },
+        "urunler": [
+          {
+            "product_name": "Rudolf - floor lamps Lamps Historic design",
+            "Dimensions": "73 x 188 cm",
+            "Weight": "64 Kg",
+            "Wattage": "40 W",
+            "Light sources": "15 x E14",
+            "Glass": "Crystal",
+            "Metal": "Chrome",
+            "Lamp shades": "Crystal Trimmings",
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/3e8e9bb5-34dc-46cc-a891-23b3ff2d872f/4432527_Rudolf_FL_Historic",
+            "product_id": "700447-A-1-A"
+          }
+        ]
+      },
+      "Rudolf - floor lamps Lamps Contemporary colour": {
+        "grup_data": {
+          "group_id": "700447-A-2",
+          "group_name": "Rudolf - floor lamps Lamps Contemporary colour",
+          "group_link": "https://eshop.preciosalighting.com/en/products/lamps/rudolf-floor-lamps-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/Rudolf-FL-Cont.jpg",
+          "group_description": "For a softer ambience, the Rudolf contemporary floor lamp adds colourful lampshades and features pearly tones of frosted glass. Lamp shades are available in four colour choices for maximum design potential. This modern style is the perfect accent piece for intimate settings.    "
+        },
+        "urunler": [
+          {
+            "product_name": "Rudolf - floor lamps Lamps Contemporary colour",
+            "Dimensions": "73 x 185 cm",
+            "Weight": "60 Kg",
+            "Wattage": "40 W",
+            "Light sources": "15 x E14",
+            "Glass": "Crystal Frosted",
+            "Metal": "Chrome",
+            "Trimmings": "Crystal Frosted",
+            "Lamp shades": "Amber Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/c18411e9-a31c-41e6-8eff-67142fe73824/Rudolf-FL-Cont",
+              "https://eshop.preciosalighting.com/getmetafile/9dfd8f82-9d24-46d1-92c2-494055a65f32/4431956_Rudolf_FL_Contemporary_Blue",
+              "https://eshop.preciosalighting.com/getmetafile/22a13728-b66d-4cb2-8ff0-2bef7c2bfb12/4467222_Rudolf_FL_Contemporary_Green",
+              "https://eshop.preciosalighting.com/getmetafile/51695d4a-88bc-4fed-aede-ec71edfdd6a3/4467283_Rudolf_FL_Contemporary_Red",
+              "https://eshop.preciosalighting.com/getmetafile/e066cba2-84cc-4bc0-b839-948762284b5d/4467216_Rudolf_FL_Contemporary_White"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/c18411e9-a31c-41e6-8eff-67142fe73824/Rudolf-FL-Cont",
+            "product_id": "700447-A-2-A"
+          }
+        ]
+      }
+    }
+  },
+  "Rudolf - table lamps": {
+    "aile_data": {
+      "family_id": "700487",
+      "family_name": "Rudolf - table lamps"
+    },
+    "Rudolf - table lamps Lamps": {
+      "seri_data": {
+        "series_id": "700487-A",
+        "series_name": "Rudolf - table lamps Lamps"
+      },
+      "Rudolf - table lamps Lamps Historic design": {
+        "grup_data": {
+          "group_id": "700487-A-1",
+          "group_name": "Rudolf - table lamps Lamps Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/lamps/rudolf-table-lamps",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4372994_Rudolf_Historic_TL_02_5.jpg",
+          "group_description": "Rudolf appears as if it were sculpted from pure ice, so brilliant are the cut crystal trimmings. This lamp features long candles which makes the historic chandelier translate perfectly to the more intimate setting of a table. The lamp is available with one, three or five candles. "
+        },
+        "urunler": [
+          {
+            "product_name": "Rudolf L",
+            "Dimensions": "46 x 59 cm",
+            "Weight": "7 Kg",
+            "Wattage": "40 W",
+            "Light sources": "5 x E14",
+            "Glass": "Crystal",
+            "Metal": "Chrome",
+            "Trimmings": "Crystal Trimmings",
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/2ad03743-87b0-4feb-83a5-30dbe2dc4d76/4372994_Rudolf_Historic_TL_02_5",
+            "product_id": "700487-A-1-A"
+          },
+          {
+            "product_name": "Rudolf M",
+            "Dimensions": "46 x 59 cm",
+            "Weight": "5 Kg",
+            "Wattage": "40 W",
+            "Light sources": "3 x E14",
+            "Glass": "Crystal",
+            "Metal": "Chrome",
+            "Trimmings": "Crystal Trimmings",
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/03e9f797-2fb6-4fdf-a996-76739dc3e24a/4332608_Rudolf_Historic_TL_01_3",
+            "product_id": "700487-A-1-B"
+          },
+          {
+            "product_name": "Rudolf S",
+            "Dimensions": "12 x 41 cm",
+            "Weight": "1 Kg",
+            "Wattage": "40 W",
+            "Light sources": "1 x E14",
+            "Glass": "Crystal",
+            "Metal": "Chrome",
+            "Trimmings": "Crystal Trimmings",
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/317b0fba-318a-4b5a-93c7-065e722b7a2a/4431922_Rudolf_TL1_Historic",
+            "product_id": "700487-A-1-C"
+          }
+        ]
+      },
+      "Rudolf - table lamps Lamps Contemporary colour": {
+        "grup_data": {
+          "group_id": "700487-A-2",
+          "group_name": "Rudolf - table lamps Lamps Contemporary colour",
+          "group_link": "https://eshop.preciosalighting.com/en/products/lamps/rudolf-table-lamps-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4374570_Rudolf_Contemporary_TL_02_5_Blue.jpg",
+          "group_description": "The contemporary version of the Rudolf table lamp offers colourful lamp shades which make it the perfect addition to side tables and entryways. The dense cut and number of trimmings reflect the maximum amount of light to create brilliant atmospheres. The table lamp is available with one, three or five candles and creates complementary mood lighting for living spaces.  "
+        },
+        "urunler": [
+          {
+            "product_name": "Rudolf S",
+            "Dimensions": "12 x 46 cm",
+            "Weight": "1 Kg",
+            "Wattage": "40 W",
+            "Light sources": "1 x E14",
+            "Glass": "Crystal Frosted",
+            "Metal": "Chrome",
+            "Trimmings": "Crystal Frosted",
+            "Lamp shades": "Amber Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/bb9f657b-9310-4c4d-a261-cef2f1e8543a/Rudolf-TL1-Cont",
+              "https://eshop.preciosalighting.com/getmetafile/f216fd6d-2641-4b8f-9016-074ca361ebd4/4431942_Rudolf_TL1_Contemporary_Blue",
+              "https://eshop.preciosalighting.com/getmetafile/ab901f73-b143-42fb-81fc-6145f3000c38/4467336_Rudolf_TL1_Contemporary_Green",
+              "https://eshop.preciosalighting.com/getmetafile/54c7e68b-bcdc-4845-b935-46647dca78f4/4467340_Rudolf_TL1_Contemporary_Red",
+              "https://eshop.preciosalighting.com/getmetafile/33b70a7d-439f-40c8-9c78-4f2c672e5ceb/4467333_Rudolf_TL1_Contemporary_White"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/bb9f657b-9310-4c4d-a261-cef2f1e8543a/Rudolf-TL1-Cont",
+            "product_id": "700487-A-2-A"
+          },
+          {
+            "product_name": "Rudolf M",
+            "Dimensions": "46 x 63 cm",
+            "Wattage": "40 W",
+            "Light sources": "3 x E14",
+            "Glass": "Crystal Frosted",
+            "Metal": "Chrome",
+            "Trimmings": "Crystal Frosted",
+            "Lamp shades": "Amber Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/bb9f657b-9310-4c4d-a261-cef2f1e8543a/Rudolf-TL1-Cont",
+              "https://eshop.preciosalighting.com/getmetafile/f216fd6d-2641-4b8f-9016-074ca361ebd4/4431942_Rudolf_TL1_Contemporary_Blue",
+              "https://eshop.preciosalighting.com/getmetafile/ab901f73-b143-42fb-81fc-6145f3000c38/4467336_Rudolf_TL1_Contemporary_Green",
+              "https://eshop.preciosalighting.com/getmetafile/54c7e68b-bcdc-4845-b935-46647dca78f4/4467340_Rudolf_TL1_Contemporary_Red",
+              "https://eshop.preciosalighting.com/getmetafile/33b70a7d-439f-40c8-9c78-4f2c672e5ceb/4467333_Rudolf_TL1_Contemporary_White"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/en/products/lamps/rudolf-table-lamps-(1)",
+            "product_id": "700487-A-2-B"
+          },
+          {
+            "product_name": "Rudolf L",
+            "Dimensions": "46 x 63 cm",
+            "Weight": "7 Kg",
+            "Wattage": "40 W",
+            "Light sources": "5 x E14",
+            "Glass": "Crystal Frosted",
+            "Metal": "Chrome",
+            "Trimmings": "Crystal Frosted",
+            "Lamp shades": "Blue Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/en/products/lamps/rudolf-table-lamps-(1)",
+              "https://eshop.preciosalighting.com/getmetafile/7101e513-9bea-44aa-9206-5de97ab2c7f5/4374567_Rudolf_Contemporary_TL_01_3_Blue",
+              "https://eshop.preciosalighting.com/getmetafile/5314e9b9-5092-46e0-8b8f-36c67d7e018c/4374568_Rudolf_Contemporary_TL_01_3_Green",
+              "https://eshop.preciosalighting.com/getmetafile/00145609-9e6a-4a12-b213-f6e5e1ab3f21/4374569_Rudolf_Contemporary_TL_01_3_Red",
+              "https://eshop.preciosalighting.com/getmetafile/662cdc61-74bd-4c0a-838c-8b95ffa69fc9/4336035_Rudolf_Contemporary_TL_01_3_White"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/0e37b0e5-40d6-4fe7-9c3f-8afb8e978ec9/4374570_Rudolf_Contemporary_TL_02_5_Blue",
+            "product_id": "700487-A-2-C"
+          }
+        ]
+      }
+    }
+  },
+  "Maria theresa - floor lamps": {
+    "aile_data": {
+      "family_id": "700527",
+      "family_name": "Maria theresa - floor lamps"
+    },
+    "Maria theresa - floor lamps Lamps": {
+      "seri_data": {
+        "series_id": "700527-A",
+        "series_name": "Maria theresa - floor lamps Lamps"
+      },
+      "Maria theresa - floor lamps Lamps Historic design": {
+        "grup_data": {
+          "group_id": "700527-A-1",
+          "group_name": "Maria theresa - floor lamps Lamps Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/lamps/maria-theresa-floor-lamps",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4430486_MT_FL_Historic_Nickle-plated.jpg",
+          "group_description": "The Maria Theresa is a chandelier of sumptuous curves and shimmering crystal pendalogues. Bringing this historic piece down to eye level provides the opportunity of studying the beautiful Bohemian craftsmanship up close.   "
+        },
+        "urunler": [
+          {
+            "product_name": "Maria theresa - floor lamps Lamps Historic design",
+            "Dimensions": "66 x 178 cm",
+            "Weight": "62 Kg",
+            "Wattage": "600 W",
+            "Light sources": "15 x E14",
+            "Glass": "Crystal",
+            "Metal": "24k Gold Plated",
+            "Trimmings": "Crystal",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/6b57af00-f5ff-4c4b-97c6-60d48c80a93e/4468031_MT_FL_Historic_24k-Gold-plated",
+              "https://eshop.preciosalighting.com/getmetafile/77344a78-1def-4435-a45d-626b1e42aa7a/PRECIOSA_Lighting_Collections_4468031_MT_FL_Historic_Brass_full",
+              "https://eshop.preciosalighting.com/getmetafile/ad671027-6e92-46cb-9b40-1db20966e229/4430486_MT_FL_Historic_Nickle-plated"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/6b57af00-f5ff-4c4b-97c6-60d48c80a93e/4468031_MT_FL_Historic_24k-Gold-plated",
+            "product_id": "700527-A-1-A"
+          }
+        ]
+      },
+      "Maria theresa - floor lamps Lamps Contemporary colour": {
+        "grup_data": {
+          "group_id": "700527-A-2",
+          "group_name": "Maria theresa - floor lamps Lamps Contemporary colour",
+          "group_link": "https://eshop.preciosalighting.com/en/products/lamps/maria-theresa-floor-lamps-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4465073_MT_FL_Contemporary_Blue-(1).jpg",
+          "group_description": "The Maria Theresa floor lamp features coloured glass decorations and lampshades for a youthful touch. It’s the perfect accessory to add a touch of fresh luxury to a space.    "
+        },
+        "urunler": [
+          {
+            "product_name": "Maria theresa - floor lamps Lamps Contemporary colour",
+            "Dimensions": "69 x 180 cm",
+            "Weight": "62 Kg",
+            "Wattage": "40 W",
+            "Light sources": "15 x E14",
+            "Glass": "Opal White Frosted",
+            "Metal": "Amber Matte",
+            "Lamp shades": "Amber Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/a986152e-c7fd-4cfe-98d3-c9ce68bfca69/PRECIOSA_Lighting_Collections_4464952_MT_FL_Contemporary_Amber_full",
+              "https://eshop.preciosalighting.com/getmetafile/7c9663c4-b8ce-49b6-8977-4aa6aa1390ec/4465073_MT_FL_Contemporary_Blue",
+              "https://eshop.preciosalighting.com/getmetafile/53034fc4-17e7-42e3-9b72-a6f2f447a03b/4432921_MT_FL_Contemporary_Green",
+              "https://eshop.preciosalighting.com/getmetafile/fd6b1154-c0bd-49f2-b579-0ce78ae82df5/4465162_MT_FL_Contemporary_Red",
+              "https://eshop.preciosalighting.com/getmetafile/06bf67fd-c4a6-4cf3-ba06-527dff0e6594/PRECIOSA_Lighting_Collections_4464952_MT_FL_Contemporary_White_full-1"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/a986152e-c7fd-4cfe-98d3-c9ce68bfca69/PRECIOSA_Lighting_Collections_4464952_MT_FL_Contemporary_Amber_full",
+            "product_id": "700527-A-2-A"
+          }
+        ]
+      }
+    }
+  },
+  "Maria theresa - table lamps": {
+    "aile_data": {
+      "family_id": "700567",
+      "family_name": "Maria theresa - table lamps"
+    },
+    "Maria theresa - table lamps Lamps": {
+      "seri_data": {
+        "series_id": "700567-A",
+        "series_name": "Maria theresa - table lamps Lamps"
+      },
+      "Maria theresa - table lamps Lamps Historic design": {
+        "grup_data": {
+          "group_id": "700567-A-1",
+          "group_name": "Maria theresa - table lamps Lamps Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/lamps/maria-theresa-table-lamps",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4429860_MT_TL_2arms_Historic_Nickle-plated.jpg",
+          "group_description": "Be surrounded by the sparkle of crystal. The regal Maria Theresa moves gracefully to the table. All the better to enrich interiors with her hand-blown beauty. Up close, the handcrafted details, like the famed rosette trimmings, can be carefully discovered.The Maria Theresa table lamp features three candles.   "
+        },
+        "urunler": [
+          {
+            "product_name": "Maria theresa - table lamps Lamps Historic design",
+            "Dimensions": "45 x 49 x 17 cm",
+            "Wattage": "40 W",
+            "Light sources": "2 x E14",
+            "Glass": "Crystal",
+            "Metal": "24k Gold Plated",
+            "Trimmings": "Crystal",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/56683594-ab98-493a-8581-2bbf4f71607e/4454147_MT_TL_2arms_Historic_24kGold-Plated",
+              "https://eshop.preciosalighting.com/getmetafile/47d1641b-c02a-48bb-9ac0-eadc41f00fff/PRECIOSA_Lighting_Collections_4454147_MT_TL_2arms_Historic_Brass_full",
+              "https://eshop.preciosalighting.com/getmetafile/c3fd4d0b-b63f-40a2-a201-74c4a3829207/4429860_MT_TL_2arms_Historic_Nickle-plated"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/56683594-ab98-493a-8581-2bbf4f71607e/4454147_MT_TL_2arms_Historic_24kGold-Plated",
+            "product_id": "700567-A-1-A"
+          }
+        ]
+      },
+      "Maria theresa - table lamps Lamps Contemporary colour": {
+        "grup_data": {
+          "group_id": "700567-A-2",
+          "group_name": "Maria theresa - table lamps Lamps Contemporary colour",
+          "group_link": "https://eshop.preciosalighting.com/en/products/lamps/maria-theresa-table-lamps-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4454147_MT_TL_Contemporary_Blue.jpg",
+          "group_description": "With its crown-like shape the contemporary Maria Theresa table lamp brings an opulent yet gentle design. These lamps features three candles and provide a sense of light-heartened splendour to modern rooms.   "
+        },
+        "urunler": [
+          {
+            "product_name": "Maria theresa - table lamps Lamps Contemporary colour",
+            "Dimensions": "47 x 50 x 18 cm",
+            "Weight": "3 Kg",
+            "Wattage": "40 W",
+            "Light sources": "2 x E14",
+            "Glass": "Opal White Frosted",
+            "Metal": "Amber Matte",
+            "Lamp shades": "Amber Silk",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/0cf1c1a4-c944-4633-9929-bee7996be605/PRECIOSA_Lighting_Collections_4454413_MT_TL_Contemporary_Amber_full",
+              "https://eshop.preciosalighting.com/getmetafile/dac5d2a7-8c2e-47a7-af17-501470df0335/4454147_MT_TL_Contemporary_Blue",
+              "https://eshop.preciosalighting.com/getmetafile/03124505-a0fc-49c7-94c1-97767cac8800/4429896_MT_TL_Contemporary_Green",
+              "https://eshop.preciosalighting.com/getmetafile/90f82b50-e460-4d1c-bf17-58e1093e446f/4454320_MT_TL_Contemporary_Red",
+              "https://eshop.preciosalighting.com/getmetafile/29c7a007-5eff-423e-bf98-fe140b1efb17/PRECIOSA_Lighting_Collections_4454413_MT_TL_Contemporary_White_full-1"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/0cf1c1a4-c944-4633-9929-bee7996be605/PRECIOSA_Lighting_Collections_4454413_MT_TL_Contemporary_Amber_full",
+            "product_id": "700567-A-2-A"
+          }
+        ]
+      }
+    }
+  },
+  "Siren - table lamp": {
+    "aile_data": {
+      "family_id": "700607",
+      "family_name": "Siren - table lamp"
+    },
+    "Siren - table lamp Lamps": {
+      "seri_data": {
+        "series_id": "700607-A",
+        "series_name": "Siren - table lamp Lamps"
+      },
+      "Siren - table lamp Lamps ": {
+        "grup_data": {
+          "group_id": "700607-A-1",
+          "group_name": "Siren - table lamp Lamps ",
+          "group_link": "https://eshop.preciosalighting.com/en/products/lamps/siren-table-lamp",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/Products/Chandeliers/4453494_Siren_TL_Red-Frosted.jpg",
+          "group_description": ""
+        },
+        "urunler": [
+          {
+            "product_name": "Siren - table lamp Lamps ",
+            "Dimensions": "20 x 37 cm",
+            "Weight": "4 Kg",
+            "Wattage": "3 W",
+            "Light sources": "3 x G9",
+            "Glass": "Amber Frosted / Grey Frosted / Crystal Frosted",
+            "Metal": "Graphite",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/a978a96c-4775-4846-9e8a-d507ecd63a4a/4474368_Siren_TL_Amber-Frosted",
+              "https://eshop.preciosalighting.com/getmetafile/6f71f06b-0067-4d8a-8824-a05f7c0e492e/4474366_Siren_TL_Crystal-Frosted",
+              "https://eshop.preciosalighting.com/getmetafile/186cc2e2-4768-42c8-88ca-af8d420026c7/4453494_Siren_TL_Red-Frosted",
+              "https://eshop.preciosalighting.com/getmetafile/65514b4b-358d-4513-a638-74f799d2a99f/4474372_Siren_TL_Rose-Frosted"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/a978a96c-4775-4846-9e8a-d507ecd63a4a/4474368_Siren_TL_Amber-Frosted",
+            "product_id": "700607-A-1-A"
+          }
+        ]
+      }
+    }
+  },
+  "Eugene - table lamp": {
+    "aile_data": {
+      "family_id": "700647",
+      "family_name": "Eugene - table lamp"
+    },
+    "Eugene - table lamp Lamps": {
+      "seri_data": {
+        "series_id": "700647-A",
+        "series_name": "Eugene - table lamp Lamps"
+      },
+      "Eugene - table lamp Lamps Historic design": {
+        "grup_data": {
+          "group_id": "700647-A-1",
+          "group_name": "Eugene - table lamp Lamps Historic design",
+          "group_link": "https://eshop.preciosalighting.com/en/products/lamps/eugene-table-lamp-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/Products/Lamps/Eugene-Table-lamp-(1)/Eugen-TL2-Hist-Brass.jpg",
+          "group_description": ""
+        },
+        "urunler": [
+          {
+            "product_name": "Eugene S",
+            "Dimensions": "15 x 36 cm",
+            "Weight": "1 Kg",
+            "Wattage": "40 W",
+            "Light sources": "1 x E14 / MAX 40 W",
+            "Glass": "Crystal",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/b92c9b34-2500-4356-a211-f112c5e8f00c/Eugen-TL1-Hist-Brass"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/b92c9b34-2500-4356-a211-f112c5e8f00c/Eugen-TL1-Hist-Brass",
+            "product_id": "700647-A-1-A"
+          },
+          {
+            "product_name": "Eugene M",
+            "Dimensions": "40 x 40 x 17 cm",
+            "Weight": "3 Kg",
+            "Wattage": "80 W",
+            "Light sources": "2 x E14 / MAX 40 W",
+            "Glass": "Crystal",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/b92c9b34-2500-4356-a211-f112c5e8f00c/Eugen-TL1-Hist-Brass"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/07cb6d3f-4a94-4737-ab72-c28c52adadac/Eugen-TL2-Hist-Brass",
+            "product_id": "700647-A-1-B"
+          },
+          {
+            "product_name": "Eugene L",
+            "Dimensions": "40 x 40 cm",
+            "Weight": "3 Kg",
+            "Wattage": "120 W",
+            "Light sources": "3 x E14 / MAX 40 W",
+            "Glass": "Crystal",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/b92c9b34-2500-4356-a211-f112c5e8f00c/Eugen-TL1-Hist-Brass"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/44da3709-6c80-47a5-94be-2b6dcfc35af9/Eugen-TL3-Hist-Brass",
+            "product_id": "700647-A-1-C"
+          }
+        ]
+      },
+      "Eugene - table lamp Lamps Contemporary colour": {
+        "grup_data": {
+          "group_id": "700647-A-2",
+          "group_name": "Eugene - table lamp Lamps Contemporary colour",
+          "group_link": "https://eshop.preciosalighting.com/en/products/lamps/eugene-table-lamp",
+          "group_cover_photo": "https://eshop.preciosalighting.com/getattachment/Products/Lamps/Eugene-Table-lamp/Eugen-TL2-Cont-BGR.jpg",
+          "group_description": ""
+        },
+        "urunler": [
+          {
+            "product_name": "Eugene S",
+            "Dimensions": "15 x 36 cm",
+            "Weight": "1 Kg",
+            "Wattage": "40 W",
+            "Light sources": "1 x E14 / MAX 40 W",
+            "Glass": "Crystal Frosted",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/ea1475f9-3e27-4227-bfa6-ba9af8f7070a/200310-Eugen-TL1-Frosted-Bras",
+              "https://eshop.preciosalighting.com/getmetafile/d2442d64-8096-4ba4-8033-2f34fd4c8f1d/200310-Eugen-TL1-Cont-BR",
+              "https://eshop.preciosalighting.com/getmetafile/7b400d03-a61e-477c-a13e-22ec2c540ca8/200310-Eugen-TL1-Cont-GR",
+              "https://eshop.preciosalighting.com/getmetafile/aaa285ab-24cf-4753-9171-9f439d0b45b0/Eugen-TL1-Cont-RB"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/ea1475f9-3e27-4227-bfa6-ba9af8f7070a/200310-Eugen-TL1-Frosted-Bras",
+            "product_id": "700647-A-2-A"
+          },
+          {
+            "product_name": "Eugene M",
+            "Dimensions": "40 x 40 x 17 cm",
+            "Weight": "3 Kg",
+            "Wattage": "80 W",
+            "Light sources": "2 x E14 / MAX 40 W",
+            "Glass": "Crystal Frosted",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/ea1475f9-3e27-4227-bfa6-ba9af8f7070a/200310-Eugen-TL1-Frosted-Bras",
+              "https://eshop.preciosalighting.com/getmetafile/d2442d64-8096-4ba4-8033-2f34fd4c8f1d/200310-Eugen-TL1-Cont-BR",
+              "https://eshop.preciosalighting.com/getmetafile/7b400d03-a61e-477c-a13e-22ec2c540ca8/200310-Eugen-TL1-Cont-GR",
+              "https://eshop.preciosalighting.com/getmetafile/aaa285ab-24cf-4753-9171-9f439d0b45b0/Eugen-TL1-Cont-RB"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/7707ab3f-3d85-403c-ae03-968a5dbd065d/Eugen-TL2-Cont-CrystalFrosted",
+            "product_id": "700647-A-2-B"
+          },
+          {
+            "product_name": "Eugene L",
+            "Dimensions": "40 x 40 cm",
+            "Weight": "3 Kg",
+            "Wattage": "120 W",
+            "Light sources": "3 x E14 / MAX 40 W",
+            "Glass": "Crystal Frosted",
+            "Metal": "Polished Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/7707ab3f-3d85-403c-ae03-968a5dbd065d/Eugen-TL2-Cont-CrystalFrosted",
+              "https://eshop.preciosalighting.com/getmetafile/07012c62-e6d0-4f14-b20c-08322f1b6f05/Eugen-TL2-Cont-BGR",
+              "https://eshop.preciosalighting.com/getmetafile/7bcbf127-c08e-4cb4-a83b-f1a5d648428d/Eugen-TL2-Cont-GYR",
+              "https://eshop.preciosalighting.com/getmetafile/516cf6ca-cb19-455f-a1e6-a8cc3264fed5/Eugen-TL2-Cont-RGB"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/1d85fa35-52f3-4eba-94c1-d66f081e50f2/Eugen-TL3-Cont-Frosted-White",
+            "product_id": "700647-A-2-C"
+          }
+        ]
+      }
+    }
+  },
+  "Gemma": {
+    "aile_data": {
+      "family_id": "700687",
+      "family_name": "Gemma"
+    },
+    "Gemma Solitaire": {
+      "seri_data": {
+        "series_id": "700687-A",
+        "series_name": "Gemma Solitaire"
+      },
+      "Gemma Solitaire Solitaire": {
+        "grup_data": {
+          "group_id": "700687-A-1",
+          "group_name": "Gemma Solitaire Solitaire",
+          "group_link": "https://eshop.preciosalighting.com/en/products/solitaire/gemma-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/products/solitaire/4423242_gemma_white_wedge_frosted.jpg",
+          "group_description": "Gemma is a mysterious light which features a glowing crystal heart. It’s the perfect combination of contemporary heritage, with its modern form featuring traditional glass cutting techniques and material. Available in crystal and frosted version, the crystal showcases the cut crystal inside while the frosted gives off an enigmatic glow. Gemma also features a diamond cut which beautifully refracts light and a wedge cut which creates a soft glow."
+        },
+        "urunler": [
+          {
+            "product_name": "Gemma Solitaire Solitaire",
+            "Dimensions": "30 x 61 cm",
+            "Weight": "6 Kg",
+            "Wattage": "5 W / 5,9 W",
+            "Light sources": "1 x E27 / 1 x GU10",
+            "Glass": "Crystal Frosted",
+            "Metal": "White Matte",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/0060703c-66da-49d8-b528-928697c3f97f/4423242_GEMMA_white_wedge_frosted",
+              "https://eshop.preciosalighting.com/getmetafile/9f807421-5e14-43ee-a7cf-7c25e5f3e3e4/GEMMA_clear_white_spitztein",
+              "https://eshop.preciosalighting.com/getmetafile/8ce408d2-124c-4b61-aac5-cc135db1b355/Gemma-Black-Spitstein1",
+              "https://eshop.preciosalighting.com/getmetafile/c5d96b69-21cd-473a-a804-dc1e93892aff/Gemma_Black_Wedge",
+              "https://eshop.preciosalighting.com/getmetafile/863bf158-762c-4469-ad00-8ec8f5afe9ff/GEMMA_clear_white_wedge"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/0060703c-66da-49d8-b528-928697c3f97f/4423242_GEMMA_white_wedge_frosted",
+            "product_id": "700687-A-1-A"
+          }
+        ]
+      }
+    }
+  },
+  "Siren": {
+    "aile_data": {
+      "family_id": "700727",
+      "family_name": "Siren"
+    },
+    "Siren Solitaire": {
+      "seri_data": {
+        "series_id": "700727-A",
+        "series_name": "Siren Solitaire"
+      },
+      "Siren Solitaire Solitaire": {
+        "grup_data": {
+          "group_id": "700727-A-1",
+          "group_name": "Siren Solitaire Solitaire",
+          "group_link": "https://eshop.preciosalighting.com/en/products/solitaire/siren-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/products/solitaire/nahled_4096x4096_siren.jpg",
+          "group_description": "With its playful reflections from every angle, Siren is one of Preciosa’s most intriguing designs. Three glass bells in differing colours and textures are layered to produce enchanting illumination options. This vivid yet mysterious lamp will bring intrigue to your space with its playful inversion of the classical bell shape and enchanting combination of colours and textures. The three glass bells are layered to hide and reveal, with diﬀerent illumination options, so that there is always interest and new aspects and reﬂections to discover."
+        },
+        "urunler": [
+          {
+            "product_name": "XS",
+            "Dimensions": "20 x 55 cm",
+            "Weight": "5 Kg",
+            "Wattage": "MAX 5 W",
+            "Light sources": "3 x G9",
+            "Glass": "Grey Frosted / Red Frosted / Crystal Frosted",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/0e79826f-52d7-4af4-9e70-65e821c68714/Siren_CH_01_XS_04",
+              "https://eshop.preciosalighting.com/getmetafile/102d175f-2f36-4889-9fcd-33bdf9bc91e9/Siren_CH_01_XS_02",
+              "https://eshop.preciosalighting.com/getmetafile/1605f800-f271-450c-8f78-7d002d9da3c0/Siren_CH_01_XS_03",
+              "https://eshop.preciosalighting.com/getmetafile/413e4d11-dbf4-4af8-82d2-e17d11681933/Siren_CH_01_XS_01"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/1605f800-f271-450c-8f78-7d002d9da3c0/Siren_CH_01_XS_03",
+            "product_id": "700727-A-1-A"
+          },
+          {
+            "product_name": "S",
+            "Dimensions": "20 x 60 cm",
+            "Weight": "5 Kg",
+            "Wattage": "MAX 5 W",
+            "Light sources": "3 x G9",
+            "Glass": "Hand-blown Crystal",
+            "Trimmings": "Grey Frosted / Red Frosted / Crystal Frosted",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/0e79826f-52d7-4af4-9e70-65e821c68714/Siren_CH_01_XS_04",
+              "https://eshop.preciosalighting.com/getmetafile/102d175f-2f36-4889-9fcd-33bdf9bc91e9/Siren_CH_01_XS_02",
+              "https://eshop.preciosalighting.com/getmetafile/1605f800-f271-450c-8f78-7d002d9da3c0/Siren_CH_01_XS_03",
+              "https://eshop.preciosalighting.com/getmetafile/413e4d11-dbf4-4af8-82d2-e17d11681933/Siren_CH_01_XS_01"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/def91b58-5a27-4529-82ba-62163a44e451/Siren_CH_02_S_02",
+            "product_id": "700727-A-1-B"
+          }
+        ]
+      }
+    }
+  },
+  "Geometric": {
+    "aile_data": {
+      "family_id": "700767",
+      "family_name": "Geometric"
+    },
+    "Geometric Solitaire": {
+      "seri_data": {
+        "series_id": "700767-A",
+        "series_name": "Geometric Solitaire"
+      },
+      "Geometric Solitaire Solitaire": {
+        "grup_data": {
+          "group_id": "700767-A-1",
+          "group_name": "Geometric Solitaire Solitaire",
+          "group_link": "https://eshop.preciosalighting.com/en/products/solitaire/geometric-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/products/solitaire/nahled_4096x4096_geometric.jpg",
+          "group_description": "Simplicity as the ultimate in sophistication. This lighting solution casts an intimate glow thanks to its compelling form created from a hand-faceted glass cylinder and a quadrangular brushed brass base. In this design the precision cutting of the hand-blown crystal deﬁnes the dispersal of light. The light splinters out from the three types of cut, creating captivating patterns and enhancing the crystal brilliance of the glass. The three styles may be hung in variety, as one, or in a grand arranged scheme."
+        },
+        "urunler": [
+          {
+            "product_name": "Geometric Solitaire Solitaire",
+            "Dimensions": "9 x 39 cm",
+            "Weight": "3 Kg",
+            "Wattage": "40 W",
+            "Light sources": "1 x E14",
+            "Glass": "Grid Cut",
+            "Metal": "Brushed Brass Stainless Steel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/c173d8f2-b8fe-4c5e-b1e6-da14f84b955b/67_6958_001_05_Product_Geometric_GridCut_BrushedBrass",
+              "https://eshop.preciosalighting.com/getmetafile/07d977af-8093-4805-b17a-cd328ec369a0/67_6958_001_00_Product_Geometric_GridCut_Copper-(2)",
+              "https://eshop.preciosalighting.com/getmetafile/22e30ddf-483d-47bd-9d15-306b203a11aa/67_6958_001_03_Product_Geometric_GridCut_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/84a62caf-1864-4258-aa85-bb8f50e6f46a/67_6958_001_06_Product_Geometric_SquareCut_BrushedBrass",
+              "https://eshop.preciosalighting.com/getmetafile/44c56579-9051-4b19-a2eb-10182bfdabed/67_6958_001_01_Product_Geometric_SquareCut_Copper",
+              "https://eshop.preciosalighting.com/getmetafile/0f1eb37e-9dda-46dd-8251-7e64d45eeb61/67_6958_001_04_Product_Geometric_SquareCut_Gold",
+              "https://eshop.preciosalighting.com/getattachment/Products/Solitaire/Geometric-(1)/Geometric/Visualization_Geometric_GridCut_BrushedBrass.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/c173d8f2-b8fe-4c5e-b1e6-da14f84b955b/67_6958_001_05_Product_Geometric_GridCut_BrushedBrass",
+            "product_id": "700767-A-1-A"
+          }
+        ]
+      }
+    }
+  },
+  "Flare": {
+    "aile_data": {
+      "family_id": "700807",
+      "family_name": "Flare"
+    },
+    "Flare Solitaire": {
+      "seri_data": {
+        "series_id": "700807-A",
+        "series_name": "Flare Solitaire"
+      },
+      "Flare Solitaire Solitaire": {
+        "grup_data": {
+          "group_id": "700807-A-1",
+          "group_name": "Flare Solitaire Solitaire",
+          "group_link": "https://eshop.preciosalighting.com/en/products/solitaire/flare-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/products/solitaire/nahled_4096x4096_flare.jpg",
+          "group_description": "Shining with sparkle and flair, Flare’s hand-blown crystal is precisely cut to encourage the dispersal of light. Captivating patterns enhance the crystal brilliance of the glass while emphasizing the gold plated body. Flare’s three styles may be hung as one, in variety, or in a grand arranged scheme. In this design the precision cutting of the hand-blown crystal deﬁnes the dispersal of light. The light splinters out from the three types of cut, creating captivating patterns and enhancing the crystal brilliance of the glass. The three styles may be hung in variety, as one, or in a grand arranged scheme."
+        },
+        "urunler": [
+          {
+            "product_name": "Flare Solitaire Solitaire",
+            "Dimensions": "5 x 50 cm",
+            "Weight": "2 Kg",
+            "Wattage": "3 W",
+            "Light sources": "1 x G9 LED",
+            "Glass": "Octagon Cut",
+            "Metal": "Gold",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/9983aca9-231f-42dc-ad3b-37a378376e26/68_5392_001_02_Product_Flare_OctagonCut_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/10677a78-199b-4276-a84d-d92687e8da21/68_5392_001_05_Product_Flare_OctagonCut",
+              "https://eshop.preciosalighting.com/getmetafile/46d879a4-2006-4ff5-a7b4-ba04ddd6d2f8/68_5392_001_01_Product_Flare_SquareCut_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/353bc143-7c79-49ba-acbf-9600abc0be04/68_5392_001_04_Product_Flare_SquareCut",
+              "https://eshop.preciosalighting.com/getmetafile/77ca8287-6f15-4bb1-935f-d67f0b92af48/68_5392_001_99_00_Product_Flare_WedgeCut_Gold",
+              "https://eshop.preciosalighting.com/getmetafile/ecb93579-947c-42c3-ad63-ef9c1abc4941/68_5392_001_03_Product_Flare_WedgeCut_PSS",
+              "https://eshop.preciosalighting.com/getattachment/Products/Solitaire/Flare-(1)/Flare/Visualization_Flare_Gold_Cluster-(1).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/9983aca9-231f-42dc-ad3b-37a378376e26/68_5392_001_02_Product_Flare_OctagonCut_Gold",
+            "product_id": "700807-A-1-A"
+          }
+        ]
+      }
+    }
+  },
+  "Muutos": {
+    "aile_data": {
+      "family_id": "700847",
+      "family_name": "Muutos"
+    },
+    "Muutos Solitaire": {
+      "seri_data": {
+        "series_id": "700847-A",
+        "series_name": "Muutos Solitaire"
+      },
+      "Muutos Solitaire Solitaire": {
+        "grup_data": {
+          "group_id": "700847-A-1",
+          "group_name": "Muutos Solitaire Solitaire",
+          "group_link": "https://eshop.preciosalighting.com/en/products/solitaire/muutos-(1)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/products/solitaire/nahled_4096x4096_muutos.jpg",
+          "group_description": "Mesmerizing Muutos takes its form from traditional glass-blowing shapes and modernizes that grace for a feel that is fluid yet tactil. The subtle beauty and gentle reflections come courtesy of Preciosa masters who hand blow every piece. Muutos celebrates capacity for organic forms in crystal. The basis for the design stems from hundred-year-old wooden moulds, used historically in glass blowing. Each Muutos piece is hand-blown by Preciosa masters, and together with further modern techniques, the overall result is one of enchanting, subtle beauty. Whether a stand-alone centre piece or a collection, Muutos creates a sense of ﬂuidity, rippling with gentle reﬂections and changes in tone and depth of colour, bringing tactility and wonder to any space."
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "18 x 31 cm",
+            "Weight": "2 Kg",
+            "Wattage": "6 W",
+            "Light sources": "1 x E14 LED",
+            "Glass": "Amber",
+            "Metal": "Nickel Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/2b75b6ae-401f-4a8f-946c-b5f253acbdc8/Amber_frosted_S",
+              "https://eshop.preciosalighting.com/getmetafile/39f5fa85-4c51-4ad6-9589-005ca0e77f79/Amber_S",
+              "https://eshop.preciosalighting.com/getmetafile/de3ef346-ad64-45ce-b439-22b35b04a05d/Black_Diamond_Frosted_S",
+              "https://eshop.preciosalighting.com/getmetafile/609048c6-480f-412c-8b74-ce2c8d8eb50d/Black_Diamond_S",
+              "https://eshop.preciosalighting.com/getmetafile/aff98a03-3a24-4b7b-934e-2193d51312bf/Black_Hyalit_Frosted_S",
+              "https://eshop.preciosalighting.com/getmetafile/41bcddbf-92f0-480b-88d7-000bd9afe2b9/Black_Hyalit_S",
+              "https://eshop.preciosalighting.com/getmetafile/9fd39043-11b1-4e90-86aa-e976654e38c3/Crystal_Frosted_S",
+              "https://eshop.preciosalighting.com/getmetafile/c7f8be77-9989-44d2-8a7b-06725804e29d/Crystal_S",
+              "https://eshop.preciosalighting.com/getmetafile/e4bec799-f71d-4d1f-926b-07ea7c897916/Marine_Blue_Frosted_S",
+              "https://eshop.preciosalighting.com/getmetafile/2f5a1396-7789-4193-8b76-20329bcf6fa5/Marine_Blue_S",
+              "https://eshop.preciosalighting.com/getmetafile/52759a2e-e08c-441f-a7b9-4f3b71d7012b/Opaline_White_Frosted_S",
+              "https://eshop.preciosalighting.com/getmetafile/54a1daad-be66-4121-bb63-52e51b047ae0/Opaline_White_S",
+              "https://eshop.preciosalighting.com/getattachment/Products/Solitaire/Muutos-(1)/Muutos-S/Visualization_Muutos_Amber_Crystal_Hyalit_L.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/39f5fa85-4c51-4ad6-9589-005ca0e77f79/Amber_S",
+            "product_id": "700847-A-1-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "27 x 47 cm",
+            "Weight": "8 Kg",
+            "Wattage": "6 W",
+            "Light sources": "1 x E14 LED",
+            "Glass": "Amber",
+            "Metal": "Nickel Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/2b75b6ae-401f-4a8f-946c-b5f253acbdc8/Amber_frosted_S",
+              "https://eshop.preciosalighting.com/getmetafile/39f5fa85-4c51-4ad6-9589-005ca0e77f79/Amber_S",
+              "https://eshop.preciosalighting.com/getmetafile/de3ef346-ad64-45ce-b439-22b35b04a05d/Black_Diamond_Frosted_S",
+              "https://eshop.preciosalighting.com/getmetafile/609048c6-480f-412c-8b74-ce2c8d8eb50d/Black_Diamond_S",
+              "https://eshop.preciosalighting.com/getmetafile/aff98a03-3a24-4b7b-934e-2193d51312bf/Black_Hyalit_Frosted_S",
+              "https://eshop.preciosalighting.com/getmetafile/41bcddbf-92f0-480b-88d7-000bd9afe2b9/Black_Hyalit_S",
+              "https://eshop.preciosalighting.com/getmetafile/9fd39043-11b1-4e90-86aa-e976654e38c3/Crystal_Frosted_S",
+              "https://eshop.preciosalighting.com/getmetafile/c7f8be77-9989-44d2-8a7b-06725804e29d/Crystal_S",
+              "https://eshop.preciosalighting.com/getmetafile/e4bec799-f71d-4d1f-926b-07ea7c897916/Marine_Blue_Frosted_S",
+              "https://eshop.preciosalighting.com/getmetafile/2f5a1396-7789-4193-8b76-20329bcf6fa5/Marine_Blue_S",
+              "https://eshop.preciosalighting.com/getmetafile/52759a2e-e08c-441f-a7b9-4f3b71d7012b/Opaline_White_Frosted_S",
+              "https://eshop.preciosalighting.com/getmetafile/54a1daad-be66-4121-bb63-52e51b047ae0/Opaline_White_S",
+              "https://eshop.preciosalighting.com/getattachment/Products/Solitaire/Muutos-(1)/Muutos-S/Visualization_Muutos_Amber_Crystal_Hyalit_L.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/4f2a4db7-e731-4700-a463-239c06037a06/Amber_M",
+            "product_id": "700847-A-1-B"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "35 x 58 cm",
+            "Weight": "10 Kg",
+            "Wattage": "6 W",
+            "Light sources": "1 x E14 LED",
+            "Glass": "Amber",
+            "Metal": "Nickel Plated Brass",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/66313b6b-37c7-4dc1-8711-a5169d72502b/Amber_frosted_M",
+              "https://eshop.preciosalighting.com/getmetafile/4f2a4db7-e731-4700-a463-239c06037a06/Amber_M",
+              "https://eshop.preciosalighting.com/getmetafile/b6dd801d-774c-40e4-b319-794960705562/Black_Diamond_Frosted_M",
+              "https://eshop.preciosalighting.com/getmetafile/bfc9b3ab-a6c9-459c-ba74-a5f90e2bd493/Black_Diamond_M",
+              "https://eshop.preciosalighting.com/getmetafile/d71cc3ba-e5f2-4f83-8672-16f8f1b841ae/Black_Hyalit_Frosted_M",
+              "https://eshop.preciosalighting.com/getmetafile/f5fbcc1f-ecdc-4172-b152-a7fb7a27bab1/Black_Hyalit_Frosted_M",
+              "https://eshop.preciosalighting.com/getmetafile/a4657e00-a541-4990-81a8-a85e002d1db7/Crystal_Frosted_M",
+              "https://eshop.preciosalighting.com/getmetafile/fbddab98-9d87-45fa-aef1-12455c4f6d12/Crystal_M",
+              "https://eshop.preciosalighting.com/getmetafile/1b9e3e78-c856-47a4-8d72-7865b8eea1ce/Marine_Blue_Frosted_M",
+              "https://eshop.preciosalighting.com/getmetafile/092fddda-7d68-46f2-9982-f7f1b0424afb/Marine_Blue_M",
+              "https://eshop.preciosalighting.com/getmetafile/742ce730-23dc-45e9-b0a1-030510da17fa/Opaline_White_Frosted_M",
+              "https://eshop.preciosalighting.com/getmetafile/b5918150-e8b4-4c0b-b607-a03d752b8d0a/Opaline_White_M",
+              "https://eshop.preciosalighting.com/getattachment/Products/Solitaire/Muutos-(1)/Muutos-M/Visualization_Muutos_Amber_Crystal_Hyalit_L.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/e6acfbcc-cce2-4454-8304-9854df0685b0/Amber_L",
+            "product_id": "700847-A-1-C"
+          }
+        ]
+      }
+    }
+  },
+  "Souls": {
+    "aile_data": {
+      "family_id": "700887",
+      "family_name": "Souls"
+    },
+    "Souls Solitaire": {
+      "seri_data": {
+        "series_id": "700887-A",
+        "series_name": "Souls Solitaire"
+      },
+      "Souls Solitaire Solitaire": {
+        "grup_data": {
+          "group_id": "700887-A-1",
+          "group_name": "Souls Solitaire Solitaire",
+          "group_link": "https://eshop.preciosalighting.com/en/products/solitaire/souls",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/products/solitaire/l-souls.jpg",
+          "group_description": "Simple and graceful forms born from Bohemian glass, Soul encompasses innovative design for a look that is singularly enticing. Available in five shapes, Soul can be grouped to sensational effect. The design describes purity, depth and mystery. The simple and graceful form of Souls oﬀers a quiet yet stunning presence to a space. The ﬂoating-like quality of the lamp is achieved through the use of both   frosted and clear glass, oﬀering diﬀuse light in combination with gentle, shining reﬂections. The lamps are available in three shapes and can be grouped to sensational eﬀect."
+        },
+        "urunler": [
+          {
+            "product_name": "S",
+            "Dimensions": "27 x 35 cm",
+            "Weight": "4 Kg",
+            "Wattage": "4 W",
+            "Light sources": "LED modul (integrated)\noptional:\ncold white (6500 K)\nwarm white (3000 K)",
+            "Glass": "Crystal / Crystal Frosted",
+            "Metal": "Polished Stainless Steel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getattachment/Products/Solitaire/Souls/Souls-S/Visualization_SOULS_Cluster-(3).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/c6940c89-5eac-4902-b259-733613a25d3f/s-soul",
+            "product_id": "700887-A-1-A"
+          },
+          {
+            "product_name": "M",
+            "Dimensions": "35 x 45 cm",
+            "Weight": "7 Kg",
+            "Wattage": "4 W",
+            "Light sources": "LED modul (integrated)\noptional:\ncold white (6500 K)\nwarm white (3000 K)",
+            "Glass": "Crystal Glass / Clear & Frosted",
+            "Metal": "Polished Stainless Steel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getattachment/Products/Solitaire/Souls/Souls-S/Visualization_SOULS_Cluster-(3).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/fa04e9e8-363f-45f3-bffe-a5c14017a6b5/m-souls",
+            "product_id": "700887-A-1-B"
+          },
+          {
+            "product_name": "L",
+            "Dimensions": "40 x 55 cm",
+            "Weight": "8 Kg",
+            "Wattage": "6 W",
+            "Light sources": "LED modul (integrated)\noptional:\ncold white (6500 K)\nwarm white (3000 K)",
+            "Glass": "Crystal Glass / Clear & Frosted",
+            "Metal": "Polished Stainless Steel",
+            "photos": [
+              "https://eshop.preciosalighting.com/getattachment/Products/Solitaire/Souls/Souls-S/Visualization_SOULS_Cluster-(3).jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/116a5426-ddf5-4d73-b20a-302877c82649/l-souls",
+            "product_id": "700887-A-1-C"
+          }
+        ]
+      }
+    }
+  },
+  "Glory": {
+    "aile_data": {
+      "family_id": "700927",
+      "family_name": "Glory"
+    },
+    "Glory Solitaire": {
+      "seri_data": {
+        "series_id": "700927-A",
+        "series_name": "Glory Solitaire"
+      },
+      "Glory Solitaire Solitaire": {
+        "grup_data": {
+          "group_id": "700927-A-1",
+          "group_name": "Glory Solitaire Solitaire",
+          "group_link": "https://eshop.preciosalighting.com/en/products/solitaire/glory-(2)",
+          "group_cover_photo": "https://eshop.preciosalighting.com/en/products/solitaire/nahled_4096x4096_glory.jpg",
+          "group_description": "The radiance of light is showcased in all its glory in the contrast between contemporary moulded glass on the outside and traditional cut glass on the inside. The soft opaque core suspended within sleek clear glass produces a delicate yet energetic light creating a timeless look for any space. With Glory, designer has perfectly balanced two contrasting glass elements—a softly muted, precisely cut, opaque core held suspended within a sleek casing of moulded clear glass. These two combined produce a beautifully delicate yet energetic light, which works wonderfully alone or in a cluster."
+        },
+        "urunler": [
+          {
+            "product_name": "Glory Solitaire Solitaire",
+            "Dimensions": "9 x 54 cm",
+            "Weight": "4 Kg",
+            "Wattage": "5 W",
+            "Light sources": "1 x G9 LED",
+            "photos": [
+              "https://eshop.preciosalighting.com/getmetafile/c9d3d6f6-62eb-424d-b89c-00f7268128c3/PRECIOSA_Lighting_Solitaires_Collection_Glory_Photographer_Zdenek_Rerych_3_full",
+              "https://eshop.preciosalighting.com/getattachment/Products/Solitaire/Glory-(2)/Glory-(1)/PRECIOSALighting_GLORY_vizualizace_AndrejKuzmin_HR_151208.jpg"
+            ],
+            "cover_photo": "https://eshop.preciosalighting.com/getmetafile/c9d3d6f6-62eb-424d-b89c-00f7268128c3/PRECIOSA_Lighting_Solitaires_Collection_Glory_Photographer_Zdenek_Rerych_3_full",
+            "product_id": "700927-A-1-A"
+          }
+        ]
+      }
+    }
+  }
+}

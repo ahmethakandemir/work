@@ -5,7 +5,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup as bs
 from time import sleep
-import aileler
 import time
 
 start_time = time.time()
@@ -60,7 +59,7 @@ for aile in aileler.aileler:
 id = 700006
 i = 0
 for familydiv in familydivs:
-    familyid = id + (i * 40)
+    
     webdriverwait = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.dcw-card')))
     soup = bs(driver.find_element(By.CSS_SELECTOR,'body').get_property('outerHTML'), 'lxml')
     
@@ -70,8 +69,8 @@ for familydiv in familydivs:
         seriadi = family_name
         indexi = aileler.aileler_ayni.index(family_name)
         family_name = aileler.aileler_asil[indexi]
+        familyid = jsondata[family_name]['aile_data']['family_id']
         try:
-            familyid = jsondata[family_name]['aile_data']['family_id']
             seriid = str(familyid) + '-2'
         except:
             seriid = str(familyid) + '-1'
@@ -79,9 +78,10 @@ for familydiv in familydivs:
     
     else:
         seriadi = family_name
+        familyid = jsondata[family_name]['aile_data']['family_id']
         seriid = str(familyid) + '-1'
 
-
+    
     family_designer = familydiv.select_one('div.name').text.strip()
     family_img_mainpage = photoUrlBeginning + familydiv.select_one('img')['src']
     
@@ -215,16 +215,13 @@ for familydiv in familydivs:
         
         tech_infosdiv = soup.select('div.container div.infos div.technical-infos > div.content > div.technical-infos-bloc')
         tech_infoslist = {}
-        techs = []
         for index in tech_infosdiv:
-            allll = index.select_one('div.technical-infos-content').text.split("\n\n")
+            allll = index.select_one('div.technical-infos-content').text.strip().split("\n\n")
             for aa in allll:
-                aa = aa.split('\n')
-                for a in aa:
-                    a = a.strip()
-            techs = allll
+                aa.split('\n')
+                
             
-            tech_infoslist[index.select_one('div.technical-infos-titre').text.strip()] = techs
+            tech_infoslist[index.select_one('div.technical-infos-titre').text.strip()] = allll
             try:
                 tech_infoslist['ip_class_img'] = photoUrlBeginning + index.select_one('div.technical-infos-content > img')['src']
             except:

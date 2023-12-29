@@ -1,0 +1,355 @@
+{
+  "Tik": {
+    "aile_data": {
+      "family_name": "Tik",
+      "family_id": "700008",
+      "family_url": "https://www.estiluz.com/en/collections/tik-collection",
+      "family_designer": "Boti de Dominicis Studio",
+      "family_surface_image": "https://www.estiluz.com/assets/img/cms/tik_a4096x_a4097x_floor-lamp_product.webp",
+      "family_inner_image": "https://www.estiluz.com/assets/img/cms/head_tik_family.webp",
+      "family_description": "Why TIK is different: Geometric Purity + Simple Shapes + Passion  Simplicity contrasted with the fine quality of detail. The delicate intersectionof different shapes gives TIK an interesting distinguishing feature in theoutdoor lighting landscape.The inspiration behind TIK originates from the idea of transforming a simple and accessible element like a tube into a captivating collection of lighting designed to enhance outdoor spaces.The family consists of two sleek wall sconces and four elegant bollards that play with proportions and intersections to create the different pieces in the collection. A minimalist product characterized by geometric purity, yet capable of conveying and adding significant visual richness to its environment.The simple shapes of TIK and the delicacy of its intersections are the soul of the collection, making it a set of luminaires with a bold personality."
+    },
+    "seriler": {
+      "Floor lamps": {
+        "seri_data": {
+          "series_name": "Floor lamps",
+          "series_id": "700008-A"
+        },
+        "gruplar": {
+          "TIK - Floor & Reading lamps": {
+            "grup_data": {
+              "group_name": "TIK - Floor & Reading lamps",
+              "group_id": "700008-A-1",
+              "group_url": "https://www.estiluz.com/en/floor-lamps/tik-4096X-4097X",
+              "group_surface_image": "https://www.estiluz.com/assets/img/cms/tik_a4096x_a4097x_floor-lamp_product.webp"
+            },
+            "urunler": [
+              {
+                "product_name": "Tik Floor lamps p-4096X",
+                "product_id": "700008-A-1-A",
+                "product_schema": "https://www.estiluz.com/assets/img/cms/tik_p-4097x_scheme.png",
+                "Technical": [
+                  "LED 6,2W",
+                  "(3000K / Ang. 45º / >90 CRI / 350mA)",
+                  "230V / Typ 763 lumens",
+                  "Non dimmable"
+                ],
+                "Finish Body": [
+                  {
+                    "color_name": "89 PALE GREEN",
+                    "color_code": "rgb(93, 111, 72)"
+                  },
+                  {
+                    "color_name": "88 GREY STONE",
+                    "color_code": "rgb(99, 95, 77)"
+                  },
+                  {
+                    "color_name": "96 BLACK ANTHRACITE",
+                    "color_code": "rgb(0, 0, 0)"
+                  }
+                ],
+                "downloads": {
+                  "Spec Sheet": "https://www.estiluz.com/assets/img/cms/estiluz_tik_p-4096x_p-4097x_bollard_light_spec_sheet.pdf",
+                  "BIM / 3D + 2D": "https://www.estiluz.com/en/downloads"
+                },
+                "product_icons": [
+                  "https://www.estiluz.com/assets/img/cms/CE.png",
+                  "https://www.estiluz.com/assets/img/cms/IP65.png"
+                ]
+              },
+              {
+                "product_name": "Tik Floor lamps p-4097X",
+                "product_id": "700008-A-1-B",
+                "product_schema": "https://www.estiluz.com/assets/img/cms/tik_p-4096x_scheme.png",
+                "Technical": [
+                  "LED 6,2W",
+                  "(3000K / Ang. 45º / >90 CRI / 350mA)",
+                  "230V / Typ 763 lumens",
+                  "Non dimmable"
+                ],
+                "Finish Body": [
+                  {
+                    "color_name": "89 PALE GREEN",
+                    "color_code": "rgb(93, 111, 72)"
+                  },
+                  {
+                    "color_name": "88 GREY STONE",
+                    "color_code": "rgb(99, 95, 77)"
+                  },
+                  {
+                    "color_name": "96 BLACK ANTHRACITE",
+                    "color_code": "rgb(0, 0, 0)"
+                  }
+                ],
+                "downloads": {
+                  "Spec Sheet": "https://www.estiluz.com/assets/img/cms/estiluz_tik_p-4096x_p-4097x_bollard_light_spec_sheet.pdf",
+                  "BIM / 3D + 2D": "https://www.estiluz.com/en/downloads"
+                },
+                "product_icons": [
+                  "https://www.estiluz.com/assets/img/cms/CE.png",
+                  "https://www.estiluz.com/assets/img/cms/IP65.png"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Wall Lights": {
+        "seri_data": {
+          "series_name": "Wall Lights",
+          "series_id": "700008-B"
+        },
+        "gruplar": {
+          "TIK - Wall lamps": {
+            "grup_data": {
+              "group_name": "TIK - Wall lamps",
+              "group_id": "700008-B-1",
+              "group_url": "https://www.estiluz.com/en/wall-lights/tik-4091X",
+              "group_surface_image": "https://www.estiluz.com/assets/img/cms/tik_a4091x_wall-light_product.webp"
+            },
+            "urunler": [
+              {
+                "product_name": "Tik Wall Lights A-4091X",
+                "product_id": "700008-B-1-A",
+                "product_schema": "https://www.estiluz.com/assets/img/cms/tik_a-4091x_scheme.png",
+                "Technical": [
+                  "LED 2x3W",
+                  "(3000K / Ang. 45º / >90CRI / 24V)",
+                  "230V / Typ 2x300 lumens",
+                  "Remote driver / Non Dimmable"
+                ],
+                "Finish Body": [
+                  {
+                    "color_name": "89 PALE GREEN",
+                    "color_code": "rgb(93, 111, 72)"
+                  },
+                  {
+                    "color_name": "88 GREY STONE",
+                    "color_code": "rgb(99, 95, 77)"
+                  },
+                  {
+                    "color_name": "96 BLACK ANTHRACITE",
+                    "color_code": "rgb(0, 0, 0)"
+                  }
+                ],
+                "downloads": {
+                  "Spec Sheet": "https://www.estiluz.com/assets/img/cms/estiluz_tik_a-4091x_wall_light_spec_sheet.pdf",
+                  "BIM / 3D + 2D": "https://www.estiluz.com/en/downloads"
+                },
+                "product_icons": [
+                  "https://www.estiluz.com/assets/img/cms/CE.png",
+                  "https://www.estiluz.com/assets/img/cms/IP65.png"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "Compass": {
+    "aile_data": {
+      "family_name": "Compass",
+      "family_id": "700048",
+      "family_url": "https://www.estiluz.com/en/collections/compass-collection",
+      "family_designer": "Nahtrang Studio",
+      "family_surface_image": "https://www.estiluz.com/assets/img/cms/compass_family_product.jpg",
+      "family_inner_image": "https://www.estiluz.com/assets/img/cms/compass_family.jpg",
+      "family_description": "Why COMPASS is Different: Movement and Sensitivity + Elaborated Craftmanship + Structured TechnologyCompass LIGHT distills into pure, simple structures. From delicate references from art and everyday life. The set of luminaires transform a rich diverse spaces into a timeless narrative of form and structure.The collection expands into a vivid, nuanced balance between improvisation and structure, control and intuition. Compass is conceived  as a composed lights, characterised by a subtle poetic yet rigorous interpretation of technology, materials and functions.The breaking starting point is an elegant tension of the movement of the compass, of how from a point of union we can vary the angles, the form and the light.Compass family of elements, have a vision of formal delicacy, whose almost imperceptible structure could generate flexible geometries tensioned by the small spheres of light that make up the main visual body of the ensemble.Theree is an interplay of weights and gravitational movement of the elements, and the same luminaire could change its geometry and functionality. Compass conforms a world of surprising and playfull compositional possibilities opens up. "
+    },
+    "seriler": {
+      "Wall Lights": {
+        "seri_data": {
+          "series_name": "Wall Lights",
+          "series_id": "700048-A"
+        },
+        "gruplar": {
+          "COMPASS - Wall lamps": {
+            "grup_data": {
+              "group_name": "COMPASS - Wall lamps",
+              "group_id": "700048-A-1",
+              "group_url": "https://www.estiluz.com/en/wall-lights/compass-4073",
+              "group_surface_image": "https://www.estiluz.com/assets/img/cms/compass_wall_product_-1.jpg"
+            },
+            "urunler": [
+              {
+                "product_name": "Compass Wall Lights A.4073",
+                "product_id": "700048-A-1-A",
+                "Technical": [
+                  "LED 3W",
+                  "(Ang. 38º/ 90CRI / 350mA)",
+                  "230V / Non Dimmable",
+                  "W (2700K / Typ* 285 lumens)",
+                  "M (3000K / Typ* 367 lumens)"
+                ],
+                "Finish Body": [
+                  {
+                    "color_name": "26 BLK",
+                    "color_code": "rgb(0, 0, 0)"
+                  },
+                  {
+                    "color_name": "55 BG",
+                    "color_code": "rgb(225, 198, 153)"
+                  },
+                  {
+                    "color_name": "59 TC",
+                    "color_code": "rgb(211, 129, 98)"
+                  }
+                ],
+                "downloads": {
+                  "BIM / 3D + 2D": "https://www.estiluz.com/en/downloads"
+                },
+                "product_icons": []
+              }
+            ]
+          }
+        }
+      },
+      "Suspension lights": {
+        "seri_data": {
+          "series_name": "Suspension lights",
+          "series_id": "700048-B"
+        },
+        "gruplar": {
+          "COMPASS - Suspension lamps | Pendants": {
+            "grup_data": {
+              "group_name": "COMPASS - Suspension lamps | Pendants",
+              "group_id": "700048-B-1",
+              "group_url": "https://www.estiluz.com/en/suspension-lights/compass-4074",
+              "group_surface_image": "https://www.estiluz.com/assets/img/cms/compass_suspension_product-1.jpg"
+            },
+            "urunler": [
+              {
+                "product_name": "Compass Suspension lights T-4074",
+                "product_id": "700048-B-1-A",
+                "Technical": [
+                  "LED 6,2W",
+                  "(Ang. 38º/ 90CRI / 300mA)",
+                  "230V / Dimmable Triac",
+                  "W (2700K / Typ* 625 lumens)",
+                  "M (3000K / Typ* 652 lumens)"
+                ],
+                "Finish Body": [
+                  {
+                    "color_name": "26 BLK",
+                    "color_code": "rgb(0, 0, 0)"
+                  },
+                  {
+                    "color_name": "55 BG",
+                    "color_code": "rgb(225, 198, 153)"
+                  },
+                  {
+                    "color_name": "59 TC",
+                    "color_code": "rgb(211, 129, 98)"
+                  }
+                ],
+                "downloads": {
+                  "BIM / 3D + 2D": "https://www.estiluz.com/en/downloads"
+                },
+                "product_icons": []
+              }
+            ]
+          }
+        }
+      },
+      "Table Lamps": {
+        "seri_data": {
+          "series_name": "Table Lamps",
+          "series_id": "700048-C"
+        },
+        "gruplar": {
+          "COMPASS - Table lamps": {
+            "grup_data": {
+              "group_name": "COMPASS - Table lamps",
+              "group_id": "700048-C-1",
+              "group_url": "https://www.estiluz.com/en/table-lamps/compass-4077",
+              "group_surface_image": "https://www.estiluz.com/assets/img/cms/compass_table_product.jpg"
+            },
+            "urunler": [
+              {
+                "product_name": "Compass Table Lamps M-4077",
+                "product_id": "700048-C-1-A",
+                "Technical": [
+                  "LED 3W",
+                  "(Ang. 38º/ 90CRI / 24V)",
+                  "100V - 240V",
+                  "Push button dimmer on the cord",
+                  "Universal plug",
+                  "W (2700K / Typ* 300 lumens)",
+                  "M (3000K / Typ* 330 lumens)"
+                ],
+                "Finish Body": [
+                  {
+                    "color_name": "26 BLK",
+                    "color_code": "rgb(0, 0, 0)"
+                  },
+                  {
+                    "color_name": "55 BG",
+                    "color_code": "rgb(225, 198, 153)"
+                  },
+                  {
+                    "color_name": "59 TC",
+                    "color_code": "rgb(211, 129, 98)"
+                  }
+                ],
+                "downloads": {
+                  "BIM / 3D + 2D": "https://www.estiluz.com/en/downloads"
+                },
+                "product_icons": []
+              }
+            ]
+          }
+        }
+      },
+      "Floor lamps": {
+        "seri_data": {
+          "series_name": "Floor lamps",
+          "series_id": "700048-D"
+        },
+        "gruplar": {
+          "COMPASS - Floor & Reading lamps": {
+            "grup_data": {
+              "group_name": "COMPASS - Floor & Reading lamps",
+              "group_id": "700048-D-1",
+              "group_url": "https://www.estiluz.com/en/floor-lamps/compass-4079",
+              "group_surface_image": "https://www.estiluz.com/assets/img/cms/compass_floor_product-2.jpg"
+            },
+            "urunler": [
+              {
+                "product_name": "Compass Floor lamps P-4079",
+                "product_id": "700048-D-1-A",
+                "Technical": [
+                  "LED 6,2W",
+                  "(Ang. 38º/ 90CRI / 300mA)",
+                  "100V - 240V",
+                  "Push button dimmer on the cord",
+                  "Universal plug",
+                  "W (2700K / Typ* 625 lumens)",
+                  "M (3000K / Typ* 652 lumens)"
+                ],
+                "Finish Body": [
+                  {
+                    "color_name": "26 BLK",
+                    "color_code": "rgb(0, 0, 0)"
+                  },
+                  {
+                    "color_name": "55 BG",
+                    "color_code": "rgb(225, 198, 153)"
+                  },
+                  {
+                    "color_name": "59 TC",
+                    "color_code": "rgb(211, 129, 98)"
+                  }
+                ],
+                "downloads": {
+                  "BIM / 3D + 2D": "https://www.estiluz.com/en/downloads"
+                },
+                "product_icons": []
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
