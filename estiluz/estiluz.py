@@ -6,7 +6,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup as bs
 from time import sleep
 import myfuncs
-# import preciosa.aileler as aileler
 import time
 
 start_time = time.time()
@@ -61,17 +60,17 @@ for familydiv in allfamiliesdivs:
     soup2 = bs(driver.find_element(By.CSS_SELECTOR, "body").get_property("outerHTML"), "lxml")
     gruplardivs = soup2.select("div.main_content.container-fluid div.row.mb-5 div.px-5 a")
     for grupdiv in gruplardivs:
-        grup_adi = grupdiv.select_one("p").text
+        grupadi = grupdiv.select_one("p").text.strip()
         grup_img = grupdiv.select_one("img")['src']
         gruplink = grupdiv['href']
         
         driver.get(gruplink)
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.col-md-12 li:nth-child(2) a span")))
         seriadi = driver.find_element(By.CSS_SELECTOR, "div.col-md-12 li:nth-child(2) a span").text
-        grupadi = driver.find_element(By.CSS_SELECTOR, "div.col-md-10 > h1").text.strip()
+
         
-        if seriadi in aile:
-            seri = aile[seriadi]
+        if seriadi in aile["seriler"]:
+            seri = aile["seriler"][seriadi]
         else:
             aile["seriler"][seriadi] = seri = {}
             seri["seri_data"] = seridata = {}
@@ -83,17 +82,21 @@ for familydiv in allfamiliesdivs:
                 desc += p.text.replace("\n"," ")
             
             seri["gruplar"] = {}
-        
-        seri["gruplar"][grupadi] = grup = {}
-        grup["grup_data"] = grupdata = {}
-        grupdata["group_name"] = grupadi
-        grupdata["group_id"] = ""
-        grupdata["group_url"] = gruplink
-        grupdata["group_surface_image"] = grup_img
-        
+            
+        if grupadi in seri["gruplar"]:
+            grup = seri["gruplar"][grupadi]
+        else:    
+            seri["gruplar"][grupadi] = grup = {}
+            grup["grup_data"] = grupdata = {}
+            grupdata["group_name"] = grupadi
+            grupdata["group_id"] = ""
+            grupdata["group_url"] = gruplink
+            grupdata["group_surface_image"] = grup_img
+            grup["urunler"] = []
+            
         ##grup desc alinacak
         
-        grup["urunler"] = urunler = []
+        urunler = []
         
         urunlerdivs = driver.find_elements(By.CSS_SELECTOR, "div.tech_div.px-3.py-5")
         for urundiv in urunlerdivs:
@@ -150,6 +153,7 @@ for familydiv in allfamiliesdivs:
             iconsdiv = urundiv.find_elements(By.CSS_SELECTOR, "div.icons img")
             icons = [img.get_attribute('src') for img in iconsdiv]
             
+            
             try:
                 downlinks = urundiv.find_elements(By.CSS_SELECTOR, "a.btn")
                 if len(downlinks) != 0:
@@ -165,10 +169,11 @@ for familydiv in allfamiliesdivs:
                             downloads[filename] = link 
             except:
                 pass
-            
+
             
             urun["product_icons"] = icons
             urunler.append(urun)
+        grup["urunler"].extend(urunler)
             
         
 

@@ -15,7 +15,7 @@ for i in range(65,91):
     for j in range(65,91):
         harfler.append(chr(i)+chr(j))
 
-initial_id = 0
+initial_id = 700009
 def addId(jsondata,initial_id):
     # id will added to jsondata as family_id = initial_id + ailecounter, series_id = family_id-"harfcounter" : like 700006-A, group_id = series_id-"sayicounter" : like 700006-A-1
     ailecounter = 0
