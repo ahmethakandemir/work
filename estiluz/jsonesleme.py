@@ -8,7 +8,7 @@ images = {}
 with open('estiluzimages.json', 'r', encoding="utf-8") as json_file:
     images = json.load(json_file)
 
-product_names = {}
+product_names = {"products":[]}
 
 for aile in data:
     for seri in data[aile]["seriler"]:
@@ -32,13 +32,14 @@ for aile in data:
                     last_word = fullad[0].split(' ')[-1]
                     result = last_word + '/' + '/'.join(fullad[1:])
                     urunadi = result
+                urunjson["urunadi"] = urunadi
                 urunjson["aile"] = aile
                 urunjson["seri"] = seri
                 urunjson["grup"] = grup
                 urunjson["urun"] = proname
                 urunjson["product_images"] = []
                 urunjson["application_images"] = []
-                product_names[urunadi] = urunjson
+                product_names["products"].append(urunjson)
 
     
 for img in images:
@@ -48,23 +49,32 @@ for img in images:
         splitted[i] = splitted[i].strip()
         if '.' or '-' in splitted[i]:
             urunkodlari.append(splitted[i])
-    for product in product_names:
-        if product in urunkodlari:
+    for product in product_names["products"]:
+        if product["urunadi"] in urunkodlari:
             if 'p' in images[img]["foto_adi"].split('_')[-1]:
-                product_names[product]["product_images"].append(images[img])
+                product["product_images"].append(images[img])
             elif 'a' in images[img]["foto_adi"].split('_')[-1]:
-                product_names[product]["application_images"].append(images[img])
-    
+                product["application_images"].append(images[img])
+        if product["product_images"] == [] or product["application_images"] == []:
+            changedname = product["urunadi"]     
+            if product["urunadi"][-1].isalpha():
+                changedname = product["urunadi"][:-1] 
+            if changedname in urunkodlari:
+                if 'p' in images[img]["foto_adi"].split('_')[-1]:
+                    product["product_images"].append(images[img])
+                elif 'a' in images[img]["foto_adi"].split('_')[-1]:
+                    product["application_images"].append(images[img])
+            
 
 
 with open('estiluzproductnames.json', 'w', encoding="utf-8") as json_file:
     json.dump(product_names, json_file, ensure_ascii=False, indent=4)
 
-for product in product_names:
-    for urun in data[product_names[product]["aile"]]["seriler"][product_names[product]["seri"]]["gruplar"][product_names[product]["grup"]]["urunler"]:
-        if urun["product_name"] == product_names[product]["urun"]:
-            urun["product_images"] = product_names[product]["product_images"]
-            urun["application_images"] = product_names[product]["application_images"]
+for product in product_names["products"]:
+    for urun in data[product["aile"]]["seriler"][product["seri"]]["gruplar"][product["grup"]]["urunler"]:
+        if urun["product_name"] == product["urun"]:
+            urun["product_images"] = product["product_images"]
+            urun["application_images"] = product["application_images"]
             
 
         
