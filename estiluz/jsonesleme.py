@@ -1,7 +1,7 @@
 import json
 from myfuncs import addId
 data = {}
-with open('data.json', 'r', encoding="utf-8") as json_file:
+with open('estiluz_data_noimg.json', 'r', encoding="utf-8") as json_file:
     data = json.load(json_file)
     
 images = {}

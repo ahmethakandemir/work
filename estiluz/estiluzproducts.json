@@ -1,0 +1,1201 @@
+{
+  "products": [
+    {
+      "urunadi": "p-4098X",
+      "aile": "Tik",
+      "seri": "Floor lamps",
+      "grup": "p-4098X / p-4099X",
+      "urun": "Tik Floor lamps p-4098X"
+    },
+    {
+      "urunadi": "p-4099X",
+      "aile": "Tik",
+      "seri": "Floor lamps",
+      "grup": "p-4098X / p-4099X",
+      "urun": "Tik Floor lamps p-4099X"
+    },
+    {
+      "urunadi": "p-4096X",
+      "aile": "Tik",
+      "seri": "Floor lamps",
+      "grup": "p-4096X / p-4097X",
+      "urun": "Tik Floor lamps p-4096X"
+    },
+    {
+      "urunadi": "p-4097X",
+      "aile": "Tik",
+      "seri": "Floor lamps",
+      "grup": "p-4096X / p-4097X",
+      "urun": "Tik Floor lamps p-4097X"
+    },
+    {
+      "urunadi": "A-4090X",
+      "aile": "Tik",
+      "seri": "Wall Lights",
+      "grup": "A-4090X",
+      "urun": "Tik Wall Lights A-4090X"
+    },
+    {
+      "urunadi": "A-4091X",
+      "aile": "Tik",
+      "seri": "Wall Lights",
+      "grup": "A-4091X",
+      "urun": "Tik Wall Lights A-4091X"
+    },
+    {
+      "urunadi": "A-4071",
+      "aile": "Compass",
+      "seri": "Wall Lights",
+      "grup": "A-4071 / A-4072",
+      "urun": "Compass Wall Lights A-4071"
+    },
+    {
+      "urunadi": "A-4072",
+      "aile": "Compass",
+      "seri": "Wall Lights",
+      "grup": "A-4071 / A-4072",
+      "urun": "Compass Wall Lights A-4072"
+    },
+    {
+      "urunadi": "A-4070",
+      "aile": "Compass",
+      "seri": "Wall Lights",
+      "grup": "A-4070",
+      "urun": "Compass Wall Lights A-4070"
+    },
+    {
+      "urunadi": "A.4073",
+      "aile": "Compass",
+      "seri": "Wall Lights",
+      "grup": "A-4073",
+      "urun": "Compass Wall Lights A.4073"
+    },
+    {
+      "urunadi": "T-4074",
+      "aile": "Compass",
+      "seri": "Suspension lights",
+      "grup": "T-4074",
+      "urun": "Compass Suspension lights T-4074"
+    },
+    {
+      "urunadi": "M-4077",
+      "aile": "Compass",
+      "seri": "Table Lamps",
+      "grup": "M-4077",
+      "urun": "Compass Table Lamps M-4077"
+    },
+    {
+      "urunadi": "p-4078",
+      "aile": "Compass",
+      "seri": "Floor lamps",
+      "grup": "p-4078",
+      "urun": "Compass Floor lamps p-4078"
+    },
+    {
+      "urunadi": "P-4079",
+      "aile": "Compass",
+      "seri": "Floor lamps",
+      "grup": "P-4079",
+      "urun": "Compass Floor lamps P-4079"
+    },
+    {
+      "urunadi": "T-4061S",
+      "aile": "Mood",
+      "seri": "Suspension lights",
+      "grup": "T-4061 / M-4066 + CEILING SUPPORT",
+      "urun": "Mood Suspension lights T-4061S"
+    },
+    {
+      "urunadi": "M-4066",
+      "aile": "Mood",
+      "seri": "Suspension lights",
+      "grup": "T-4061 / M-4066 + CEILING SUPPORT",
+      "urun": "Mood Suspension lights M-4066 + Ceiling Support"
+    },
+    {
+      "urunadi": "T-4061R",
+      "aile": "Mood",
+      "seri": "Suspension lights",
+      "grup": "T-4061 / M-4066 + CEILING SUPPORT",
+      "urun": "Mood Suspension lights T-4061R"
+    },
+    {
+      "urunadi": "T-4062S",
+      "aile": "Mood",
+      "seri": "Suspension lights",
+      "grup": "T-4062 / T-4063",
+      "urun": "Mood Suspension lights T-4062S"
+    },
+    {
+      "urunadi": "T-4063S",
+      "aile": "Mood",
+      "seri": "Suspension lights",
+      "grup": "T-4062 / T-4063",
+      "urun": "Mood Suspension lights T-4063S"
+    },
+    {
+      "urunadi": "T-4062R",
+      "aile": "Mood",
+      "seri": "Suspension lights",
+      "grup": "T-4062 / T-4063",
+      "urun": "Mood Suspension lights T-4062R"
+    },
+    {
+      "urunadi": "T-4063R",
+      "aile": "Mood",
+      "seri": "Suspension lights",
+      "grup": "T-4062 / T-4063",
+      "urun": "Mood Suspension lights T-4063R"
+    },
+    {
+      "urunadi": "M-4066",
+      "aile": "Mood",
+      "seri": "Table Lamps",
+      "grup": "M-4066",
+      "urun": "Mood Table Lamps M-4066"
+    },
+    {
+      "urunadi": "M-4066",
+      "aile": "Mood",
+      "seri": "Table Lamps",
+      "grup": "M-4066 + TABLE SUPPORT",
+      "urun": "Mood Table Lamps M-4066 + Table Support"
+    },
+    {
+      "urunadi": "M-4066",
+      "aile": "Mood",
+      "seri": "Wall Lights",
+      "grup": "M-4066 + WALL SUPPORT STEM",
+      "urun": "Mood Wall Lights M-4066 + Wall Support Stem"
+    },
+    {
+      "urunadi": "M-4066",
+      "aile": "Mood",
+      "seri": "Wall Lights",
+      "grup": "M-4066 + FLAT WALL SUPPORT",
+      "urun": "Mood Wall Lights M-4066 + Flat Wall Support"
+    },
+    {
+      "urunadi": "M-4066",
+      "aile": "Mood",
+      "seri": "Floor lamps",
+      "grup": "M-4066 + FLOOR SUPPORT",
+      "urun": "Mood Floor lamps M-4066 + Floor Support"
+    },
+    {
+      "urunadi": "A-3930",
+      "aile": "Cupolina",
+      "seri": "Wall Lights",
+      "grup": "A-3930",
+      "urun": "Cupolina Wall Lights A-3930"
+    },
+    {
+      "urunadi": "M-3937",
+      "aile": "Cupolina",
+      "seri": "Table Lamps",
+      "grup": "M-3937",
+      "urun": "Cupolina Table Lamps M-3937"
+    },
+    {
+      "urunadi": "p-3939",
+      "aile": "Cupolina",
+      "seri": "Floor lamps",
+      "grup": "p-3939",
+      "urun": "Cupolina Floor lamps p-3939"
+    },
+    {
+      "urunadi": "T-3934S",
+      "aile": "Cupolina",
+      "seri": "Suspension lights",
+      "grup": "T-3934",
+      "urun": "Cupolina Suspension lights T-3934S"
+    },
+    {
+      "urunadi": "T-3934R",
+      "aile": "Cupolina",
+      "seri": "Suspension lights",
+      "grup": "T-3934",
+      "urun": "Cupolina Suspension lights T-3934R"
+    },
+    {
+      "urunadi": "T-3935",
+      "aile": "Cupolina",
+      "seri": "Suspension lights",
+      "grup": "T-3935",
+      "urun": "Cupolina Suspension lights T-3935"
+    },
+    {
+      "urunadi": "P-4027X",
+      "aile": "Bols",
+      "seri": "Floor lamps",
+      "grup": "P-4027X",
+      "urun": "Bols Floor lamps P-4027X"
+    },
+    {
+      "urunadi": "P-4028X",
+      "aile": "Bols",
+      "seri": "Floor lamps",
+      "grup": "P-4028X",
+      "urun": "Bols Floor lamps P-4028X"
+    },
+    {
+      "urunadi": "t-4022X",
+      "aile": "Bols",
+      "seri": "Ceiling Lights",
+      "grup": "t-4022X",
+      "urun": "Bols Ceiling Lights t-4022X"
+    },
+    {
+      "urunadi": "t-4023X",
+      "aile": "Bols",
+      "seri": "Ceiling Lights",
+      "grup": "t-4023X",
+      "urun": "Bols Ceiling Lights t-4023X"
+    },
+    {
+      "urunadi": "T-4024X",
+      "aile": "Bols",
+      "seri": "Suspension lights",
+      "grup": "T-4024X",
+      "urun": "Bols Suspension lights T-4024X"
+    },
+    {
+      "urunadi": "T-4025X",
+      "aile": "Bols",
+      "seri": "Suspension lights",
+      "grup": "T-4025X",
+      "urun": "Bols Suspension lights T-4025X"
+    },
+    {
+      "urunadi": "A-4050",
+      "aile": "Frame",
+      "seri": "Wall Lights",
+      "grup": "A-4050 / A-4053X",
+      "urun": "Frame Wall Lights A-4050"
+    },
+    {
+      "urunadi": "A-4053X",
+      "aile": "Frame",
+      "seri": "Wall Lights",
+      "grup": "A-4050 / A-4053X",
+      "urun": "Frame Wall Lights A-4053X"
+    },
+    {
+      "urunadi": "A-4051",
+      "aile": "Frame",
+      "seri": "Wall Lights",
+      "grup": "A-4051",
+      "urun": "Frame Wall Lights A-4051"
+    },
+    {
+      "urunadi": "P-4054X",
+      "aile": "Frame",
+      "seri": "Floor lamps",
+      "grup": "P-4054X / P-4055X / P-4056X",
+      "urun": "Frame Floor lamps P-4054X"
+    },
+    {
+      "urunadi": "P-4055X",
+      "aile": "Frame",
+      "seri": "Floor lamps",
+      "grup": "P-4054X / P-4055X / P-4056X",
+      "urun": "Frame Floor lamps P-4055X"
+    },
+    {
+      "urunadi": "P-4056X",
+      "aile": "Frame",
+      "seri": "Floor lamps",
+      "grup": "P-4054X / P-4055X / P-4056X",
+      "urun": "Frame Floor lamps P-4056X"
+    },
+    {
+      "urunadi": "A-3900",
+      "aile": "Cyls",
+      "seri": "Wall Lights",
+      "grup": "A-3900",
+      "urun": "Cyls Wall Lights A-3900"
+    },
+    {
+      "urunadi": "T-3905",
+      "aile": "Cyls",
+      "seri": "Suspension lights",
+      "grup": "T-3905",
+      "urun": "Cyls Suspension lights T-3905"
+    },
+    {
+      "urunadi": "T-3905P",
+      "aile": "Cyls",
+      "seri": "Suspension lights",
+      "grup": "T-3905P",
+      "urun": "Cyls Suspension lights T-3905P"
+    },
+    {
+      "urunadi": "M-3907",
+      "aile": "Cyls",
+      "seri": "Table Lamps",
+      "grup": "M-3907",
+      "urun": "Cyls Table Lamps M-3907"
+    },
+    {
+      "urunadi": "M-3906",
+      "aile": "Cyls",
+      "seri": "Table Lamps",
+      "grup": "M-3906",
+      "urun": "Cyls Table Lamps M-3906"
+    },
+    {
+      "urunadi": "M-3906P",
+      "aile": "Cyls",
+      "seri": "Table Lamps",
+      "grup": "M-3906P",
+      "urun": "Cyls Table Lamps M-3906P"
+    },
+    {
+      "urunadi": "p-3908",
+      "aile": "Cyls",
+      "seri": "Floor lamps",
+      "grup": "p-3908",
+      "urun": "Cyls Floor lamps p-3908"
+    },
+    {
+      "urunadi": "p-3908M",
+      "aile": "Cyls",
+      "seri": "Floor lamps",
+      "grup": "p-3908",
+      "urun": "Cyls Floor lamps p-3908M"
+    },
+    {
+      "urunadi": "p-3908P",
+      "aile": "Cyls",
+      "seri": "Floor lamps",
+      "grup": "p-3908P",
+      "urun": "Cyls Floor lamps p-3908P"
+    },
+    {
+      "urunadi": "p-3908PM",
+      "aile": "Cyls",
+      "seri": "Floor lamps",
+      "grup": "p-3908P",
+      "urun": "Cyls Floor lamps p-3908PM"
+    },
+    {
+      "urunadi": "T-3924S",
+      "aile": "Gada",
+      "seri": "Suspension lights",
+      "grup": "T-3924 / T-3925",
+      "urun": "Gada Suspension lights T-3924S"
+    },
+    {
+      "urunadi": "T-3924R",
+      "aile": "Gada",
+      "seri": "Suspension lights",
+      "grup": "T-3924 / T-3925",
+      "urun": "Gada Suspension lights T-3924R"
+    },
+    {
+      "urunadi": "T-3925S",
+      "aile": "Gada",
+      "seri": "Suspension lights",
+      "grup": "T-3924 / T-3925",
+      "urun": "Gada Suspension lights T-3925S"
+    },
+    {
+      "urunadi": "T-3925R",
+      "aile": "Gada",
+      "seri": "Suspension lights",
+      "grup": "T-3924 / T-3925",
+      "urun": "Gada Suspension lights T-3925R"
+    },
+    {
+      "urunadi": "A-3921",
+      "aile": "Gada",
+      "seri": "Wall Lights",
+      "grup": "A-3921",
+      "urun": "Gada Wall Lights A-3921"
+    },
+    {
+      "urunadi": "M-3927",
+      "aile": "Gada",
+      "seri": "Table Lamps",
+      "grup": "M-3927",
+      "urun": "Gada Table Lamps M-3927"
+    },
+    {
+      "urunadi": "T-3915S",
+      "aile": "Morse",
+      "seri": "Suspension lights",
+      "grup": "T-3915",
+      "urun": "Morse Suspension lights T-3915S"
+    },
+    {
+      "urunadi": "T-3915R",
+      "aile": "Morse",
+      "seri": "Suspension lights",
+      "grup": "T-3915",
+      "urun": "Morse Suspension lights T-3915R"
+    },
+    {
+      "urunadi": "A-3702",
+      "aile": "Circ",
+      "seri": "Wall Lights",
+      "grup": "A-3702 / A-3703 / A-3706 / A-3706A",
+      "urun": "Circ Wall Lights A-3702"
+    },
+    {
+      "urunadi": "A-3703",
+      "aile": "Circ",
+      "seri": "Wall Lights",
+      "grup": "A-3702 / A-3703 / A-3706 / A-3706A",
+      "urun": "Circ Wall Lights A-3703"
+    },
+    {
+      "urunadi": "A-3706",
+      "aile": "Circ",
+      "seri": "Wall Lights",
+      "grup": "A-3702 / A-3703 / A-3706 / A-3706A",
+      "urun": "Circ Wall Lights A-3706"
+    },
+    {
+      "urunadi": "A-3720",
+      "aile": "Circ",
+      "seri": "Wall Lights",
+      "grup": "A-3720 / A-3720X",
+      "urun": "Circ Wall Lights A-3720"
+    },
+    {
+      "urunadi": "A-3720X",
+      "aile": "Circ",
+      "seri": "Wall Lights",
+      "grup": "A-3720 / A-3720X",
+      "urun": "Circ Wall Lights A-3720X"
+    },
+    {
+      "urunadi": "A-3722X",
+      "aile": "Circ",
+      "seri": "Wall Lights",
+      "grup": "A-3722 / A-3722X",
+      "urun": "Circ Wall Lights A-3722X"
+    },
+    {
+      "urunadi": "A-3722",
+      "aile": "Circ",
+      "seri": "Wall Lights",
+      "grup": "A-3722 / A-3722X",
+      "urun": "Circ Wall Lights A-3722"
+    },
+    {
+      "urunadi": "T-3714",
+      "aile": "Circ",
+      "seri": "Suspension lights",
+      "grup": "T-3714 / T-3715 / T-3716",
+      "urun": "Circ Suspension lights T-3714"
+    },
+    {
+      "urunadi": "T-3715",
+      "aile": "Circ",
+      "seri": "Suspension lights",
+      "grup": "T-3714 / T-3715 / T-3716",
+      "urun": "Circ Suspension lights T-3715"
+    },
+    {
+      "urunadi": "T-3716",
+      "aile": "Circ",
+      "seri": "Suspension lights",
+      "grup": "T-3714 / T-3715 / T-3716",
+      "urun": "Circ Suspension lights T-3716"
+    },
+    {
+      "urunadi": "T-3815S",
+      "aile": "Circ",
+      "seri": "Suspension lights",
+      "grup": "T-3815 / T-3816",
+      "urun": "Circ Suspension lights T-3815S"
+    },
+    {
+      "urunadi": "T-3815R",
+      "aile": "Circ",
+      "seri": "Suspension lights",
+      "grup": "T-3815 / T-3816",
+      "urun": "Circ Suspension lights T-3815R"
+    },
+    {
+      "urunadi": "T-3816S",
+      "aile": "Circ",
+      "seri": "Suspension lights",
+      "grup": "T-3815 / T-3816",
+      "urun": "Circ Suspension lights T-3816S"
+    },
+    {
+      "urunadi": "T-3816R",
+      "aile": "Circ",
+      "seri": "Suspension lights",
+      "grup": "T-3815 / T-3816",
+      "urun": "Circ Suspension lights T-3816R"
+    },
+    {
+      "urunadi": "R30.1MP1VK",
+      "aile": "Circ",
+      "seri": "Suspension lights",
+      "grup": "T-3815 / T-3816",
+      "urun": "Circ Suspension lights R30.1MP1VK"
+    },
+    {
+      "urunadi": "T-3815AS",
+      "aile": "Circ",
+      "seri": "Suspension lights",
+      "grup": "T-3815AS / T-3816AS",
+      "urun": "Circ Suspension lights T-3815AS"
+    },
+    {
+      "urunadi": "T-3816AS",
+      "aile": "Circ",
+      "seri": "Suspension lights",
+      "grup": "T-3815AS / T-3816AS",
+      "urun": "Circ Suspension lights T-3816AS"
+    },
+    {
+      "urunadi": "POT",
+      "aile": "Circ",
+      "seri": "Suspension lights",
+      "grup": "FLOWER POT",
+      "urun": "Circ Suspension lights FLOWER POT"
+    },
+    {
+      "urunadi": "M-3725",
+      "aile": "Circ",
+      "seri": "Table Lamps",
+      "grup": "M-3725 / M-3725X",
+      "urun": "Circ Table Lamps M-3725"
+    },
+    {
+      "urunadi": "M-3725X",
+      "aile": "Circ",
+      "seri": "Table Lamps",
+      "grup": "M-3725 / M-3725X",
+      "urun": "Circ Table Lamps M-3725X"
+    },
+    {
+      "urunadi": "M-3726X",
+      "aile": "Circ",
+      "seri": "Table Lamps",
+      "grup": "M-3726X / M-3727X",
+      "urun": "Circ Table Lamps M-3726X"
+    },
+    {
+      "urunadi": "M-3727X",
+      "aile": "Circ",
+      "seri": "Table Lamps",
+      "grup": "M-3726X / M-3727X",
+      "urun": "Circ Table Lamps M-3727X"
+    },
+    {
+      "urunadi": "M-3728",
+      "aile": "Circ",
+      "seri": "Table Lamps",
+      "grup": "M-3728 / M-3728X",
+      "urun": "Circ Table Lamps M-3728"
+    },
+    {
+      "urunadi": "M-3728X",
+      "aile": "Circ",
+      "seri": "Table Lamps",
+      "grup": "M-3728 / M-3728X",
+      "urun": "Circ Table Lamps M-3728X"
+    },
+    {
+      "urunadi": "M-3826X",
+      "aile": "Circ",
+      "seri": "Table Lamps",
+      "grup": "M-3826X",
+      "urun": "Circ Table Lamps M-3826X"
+    },
+    {
+      "urunadi": "M-3836",
+      "aile": "Circ",
+      "seri": "Table Lamps",
+      "grup": "M-3836",
+      "urun": "Circ Table Lamps M-3836"
+    },
+    {
+      "urunadi": "p-3729",
+      "aile": "Circ",
+      "seri": "Floor lamps",
+      "grup": "p-3729 / p-3729X",
+      "urun": "Circ Floor lamps p-3729"
+    },
+    {
+      "urunadi": "p-3729X",
+      "aile": "Circ",
+      "seri": "Floor lamps",
+      "grup": "p-3729 / p-3729X",
+      "urun": "Circ Floor lamps p-3729X"
+    },
+    {
+      "urunadi": "t-3820S",
+      "aile": "Circ",
+      "seri": "Ceiling Lights",
+      "grup": "t-3820 / t-3821",
+      "urun": "Circ Ceiling Lights t-3820S"
+    },
+    {
+      "urunadi": "t-3820R",
+      "aile": "Circ",
+      "seri": "Ceiling Lights",
+      "grup": "t-3820 / t-3821",
+      "urun": "Circ Ceiling Lights t-3820R"
+    },
+    {
+      "urunadi": "t-3821S",
+      "aile": "Circ",
+      "seri": "Ceiling Lights",
+      "grup": "t-3820 / t-3821",
+      "urun": "Circ Ceiling Lights t-3821S"
+    },
+    {
+      "urunadi": "t-3821R",
+      "aile": "Circ",
+      "seri": "Ceiling Lights",
+      "grup": "t-3820 / t-3821",
+      "urun": "Circ Ceiling Lights t-3821R"
+    },
+    {
+      "urunadi": "t-3810S",
+      "aile": "Circ",
+      "seri": "Ceiling Lights",
+      "grup": "t-3810 / t-3811",
+      "urun": "Circ Ceiling Lights t-3810S"
+    },
+    {
+      "urunadi": "t-3810R",
+      "aile": "Circ",
+      "seri": "Ceiling Lights",
+      "grup": "t-3810 / t-3811",
+      "urun": "Circ Ceiling Lights t-3810R"
+    },
+    {
+      "urunadi": "t-3811S",
+      "aile": "Circ",
+      "seri": "Ceiling Lights",
+      "grup": "t-3810 / t-3811",
+      "urun": "Circ Ceiling Lights t-3811S"
+    },
+    {
+      "urunadi": "t-3811R",
+      "aile": "Circ",
+      "seri": "Ceiling Lights",
+      "grup": "t-3810 / t-3811",
+      "urun": "Circ Ceiling Lights t-3811R"
+    },
+    {
+      "urunadi": "t-3810AS",
+      "aile": "Circ",
+      "seri": "Ceiling Lights",
+      "grup": "t-3810AS / t-3811AS",
+      "urun": "Circ Ceiling Lights t-3810AS"
+    },
+    {
+      "urunadi": "t-3811AS",
+      "aile": "Circ",
+      "seri": "Ceiling Lights",
+      "grup": "t-3810AS / t-3811AS",
+      "urun": "Circ Ceiling Lights t-3811AS"
+    },
+    {
+      "urunadi": "t-3825",
+      "aile": "Circ",
+      "seri": "Ceiling Lights",
+      "grup": "t-3825",
+      "urun": "Circ Ceiling Lights t-3825"
+    },
+    {
+      "urunadi": "t-3832",
+      "aile": "Circ",
+      "seri": "Ceiling Lights",
+      "grup": "t-3832",
+      "urun": "Circ Ceiling Lights t-3832"
+    },
+    {
+      "urunadi": "p-3748",
+      "aile": "Alfi",
+      "seri": "Floor lamps",
+      "grup": "Alfi P-3748",
+      "urun": "Alfi Floor lamps p-3748"
+    },
+    {
+      "urunadi": "F120.6/F120.6A",
+      "aile": "Alfi",
+      "seri": "Floor lamps",
+      "grup": "Alfi F120",
+      "urun": "Alfi Floor lamps F120.6 / F120.6A"
+    },
+    {
+      "urunadi": "A-3740A/t-3740A",
+      "aile": "Alfi",
+      "seri": "Wall Lights",
+      "grup": "Alfi A-3740 / A-3740A /A-3740A1 / A-3741",
+      "urun": "Alfi Wall Lights A-3740A / t-3740A"
+    },
+    {
+      "urunadi": "A-3740A1",
+      "aile": "Alfi",
+      "seri": "Wall Lights",
+      "grup": "Alfi A-3740 / A-3740A /A-3740A1 / A-3741",
+      "urun": "Alfi Wall Lights A-3740A1"
+    },
+    {
+      "urunadi": "A-3740/t-3740",
+      "aile": "Alfi",
+      "seri": "Wall Lights",
+      "grup": "Alfi A-3740 / A-3740A /A-3740A1 / A-3741",
+      "urun": "Alfi Wall Lights A-3740 / t-3740"
+    },
+    {
+      "urunadi": "A-3741",
+      "aile": "Alfi",
+      "seri": "Wall Lights",
+      "grup": "Alfi A-3740 / A-3740A /A-3740A1 / A-3741",
+      "urun": "Alfi Wall Lights A-3741"
+    },
+    {
+      "urunadi": "T-3744S",
+      "aile": "Alfi",
+      "seri": "Suspension lights",
+      "grup": "T-3744 / T-3744A",
+      "urun": "Alfi Suspension lights T-3744S"
+    },
+    {
+      "urunadi": "T-3744R",
+      "aile": "Alfi",
+      "seri": "Suspension lights",
+      "grup": "T-3744 / T-3744A",
+      "urun": "Alfi Suspension lights T-3744R"
+    },
+    {
+      "urunadi": "T-3744AS",
+      "aile": "Alfi",
+      "seri": "Suspension lights",
+      "grup": "T-3744 / T-3744A",
+      "urun": "Alfi Suspension lights T-3744AS"
+    },
+    {
+      "urunadi": "T-3744AR",
+      "aile": "Alfi",
+      "seri": "Suspension lights",
+      "grup": "T-3744 / T-3744A",
+      "urun": "Alfi Suspension lights T-3744AR"
+    },
+    {
+      "urunadi": "L120.6/L120.6A",
+      "aile": "Alfi",
+      "seri": "Suspension lights",
+      "grup": "Alfi L120",
+      "urun": "Alfi Suspension lights L120.6 / L120.6A"
+    },
+    {
+      "urunadi": "P-3768",
+      "aile": "Asana",
+      "seri": "Floor lamps",
+      "grup": "P-3768",
+      "urun": "Asana Floor lamps P-3768"
+    },
+    {
+      "urunadi": "P-3769",
+      "aile": "Asana",
+      "seri": "Floor lamps",
+      "grup": "P-3769",
+      "urun": "Asana Floor lamps P-3769"
+    },
+    {
+      "urunadi": "A-3730",
+      "aile": "Flow",
+      "seri": "Wall Lights",
+      "grup": "A-3730",
+      "urun": "Flow Wall Lights A-3730"
+    },
+    {
+      "urunadi": "T-3734",
+      "aile": "Flow",
+      "seri": "Suspension lights",
+      "grup": "T-3734 / T-3735 / T-3736",
+      "urun": "Flow Suspension lights T-3734"
+    },
+    {
+      "urunadi": "T-3735",
+      "aile": "Flow",
+      "seri": "Suspension lights",
+      "grup": "T-3734 / T-3735 / T-3736",
+      "urun": "Flow Suspension lights T-3735"
+    },
+    {
+      "urunadi": "T-3736",
+      "aile": "Flow",
+      "seri": "Suspension lights",
+      "grup": "T-3734 / T-3735 / T-3736",
+      "urun": "Flow Suspension lights T-3736"
+    },
+    {
+      "urunadi": "T-3805",
+      "aile": "LAVERD",
+      "seri": "Suspension lights",
+      "grup": "T-3805 / T-3806",
+      "urun": "LAVERD Suspension lights T-3805"
+    },
+    {
+      "urunadi": "T-3806",
+      "aile": "LAVERD",
+      "seri": "Suspension lights",
+      "grup": "T-3805 / T-3806",
+      "urun": "LAVERD Suspension lights T-3806"
+    },
+    {
+      "urunadi": "R11.1S1M",
+      "aile": "LAVERD",
+      "seri": "Suspension lights",
+      "grup": "T-3805 / T-3806",
+      "urun": "LAVERD Suspension lights R11.1S1M"
+    },
+    {
+      "urunadi": "A-3630",
+      "aile": "Revolta",
+      "seri": "Wall Lights",
+      "grup": "A-3630",
+      "urun": "Revolta Wall Lights A-3630"
+    },
+    {
+      "urunadi": "T-3635",
+      "aile": "Revolta",
+      "seri": "Suspension lights",
+      "grup": "T-3635 / T-3636",
+      "urun": "Revolta Suspension lights T-3635"
+    },
+    {
+      "urunadi": "T-3636",
+      "aile": "Revolta",
+      "seri": "Suspension lights",
+      "grup": "T-3635 / T-3636",
+      "urun": "Revolta Suspension lights T-3636"
+    },
+    {
+      "urunadi": "M-3637",
+      "aile": "Revolta",
+      "seri": "Table Lamps",
+      "grup": "M-3637",
+      "urun": "Revolta Table Lamps M-3637"
+    },
+    {
+      "urunadi": "A-3530",
+      "aile": "Volta",
+      "seri": "Wall Lights",
+      "grup": "A-3530 / A-3531",
+      "urun": "Volta Wall Lights A-3530"
+    },
+    {
+      "urunadi": "A-3531",
+      "aile": "Volta",
+      "seri": "Wall Lights",
+      "grup": "A-3530 / A-3531",
+      "urun": "Volta Wall Lights A-3531"
+    },
+    {
+      "urunadi": "T-3534",
+      "aile": "Volta",
+      "seri": "Suspension lights",
+      "grup": "T-3534",
+      "urun": "Volta Suspension lights T-3534"
+    },
+    {
+      "urunadi": "T-3535",
+      "aile": "Volta",
+      "seri": "Suspension lights",
+      "grup": "T-3535 / T-3536",
+      "urun": "Volta Suspension lights T-3535"
+    },
+    {
+      "urunadi": "T-3536",
+      "aile": "Volta",
+      "seri": "Suspension lights",
+      "grup": "T-3535 / T-3536",
+      "urun": "Volta Suspension lights T-3536"
+    },
+    {
+      "urunadi": "T-3532S",
+      "aile": "Volta",
+      "seri": "Suspension lights",
+      "grup": "T-3532",
+      "urun": "Volta Suspension lights T-3532S"
+    },
+    {
+      "urunadi": "M-3537",
+      "aile": "Volta",
+      "seri": "Table Lamps",
+      "grup": "M-3537",
+      "urun": "Volta Table Lamps M-3537"
+    },
+    {
+      "urunadi": "p-3538",
+      "aile": "Volta",
+      "seri": "Floor lamps",
+      "grup": "p-3538",
+      "urun": "Volta Floor lamps p-3538"
+    },
+    {
+      "urunadi": "t-3533R",
+      "aile": "Volta",
+      "seri": "Ceiling Lights",
+      "grup": "t-3533 / A-3533",
+      "urun": "Volta Ceiling Lights t-3533R"
+    },
+    {
+      "urunadi": "A-3700/t-3700",
+      "aile": "Eclipsi",
+      "seri": "Wall Lights",
+      "grup": "A-3700 / A-3701",
+      "urun": "Eclipsi Wall Lights A-3700 / t-3700"
+    },
+    {
+      "urunadi": "A-3701",
+      "aile": "Eclipsi",
+      "seri": "Wall Lights",
+      "grup": "A-3700 / A-3701",
+      "urun": "Eclipsi Wall Lights A-3701"
+    },
+    {
+      "urunadi": "T-3541-W",
+      "aile": "Aro",
+      "seri": "Suspension lights",
+      "grup": "T-3541",
+      "urun": "Aro Suspension lights T-3541-W"
+    },
+    {
+      "urunadi": "T-3542-W",
+      "aile": "Aro",
+      "seri": "Suspension lights",
+      "grup": "T-3542 / T-3543",
+      "urun": "Aro Suspension lights T-3542-W"
+    },
+    {
+      "urunadi": "T-3543-W",
+      "aile": "Aro",
+      "seri": "Suspension lights",
+      "grup": "T-3542 / T-3543",
+      "urun": "Aro Suspension lights T-3543-W"
+    },
+    {
+      "urunadi": "A-3410L/t-3410L",
+      "aile": "Maine",
+      "seri": "Ceiling Lights",
+      "grup": "t-3410L / A-3410L",
+      "urun": "Maine Ceiling Lights A-3410L / t-3410L"
+    },
+    {
+      "urunadi": "T-3415L",
+      "aile": "Maine",
+      "seri": "Suspension lights",
+      "grup": "T-3415",
+      "urun": "Maine Suspension lights T-3415L"
+    },
+    {
+      "urunadi": "T-3302S",
+      "aile": "Button",
+      "seri": "Suspension lights",
+      "grup": "T-3302",
+      "urun": "Button Suspension lights T-3302S"
+    },
+    {
+      "urunadi": "T-3302CS",
+      "aile": "Button",
+      "seri": "Suspension lights",
+      "grup": "T-3302",
+      "urun": "Button Suspension lights T-3302CS"
+    },
+    {
+      "urunadi": "T-3305-M",
+      "aile": "Button",
+      "seri": "Suspension lights",
+      "grup": "T-3305 / T-3306 / T-3307",
+      "urun": "Button Suspension lights T-3305-M"
+    },
+    {
+      "urunadi": "T-3306-M",
+      "aile": "Button",
+      "seri": "Suspension lights",
+      "grup": "T-3305 / T-3306 / T-3307",
+      "urun": "Button Suspension lights T-3306-M"
+    },
+    {
+      "urunadi": "T-3307-M",
+      "aile": "Button",
+      "seri": "Suspension lights",
+      "grup": "T-3305 / T-3306 / T-3307",
+      "urun": "Button Suspension lights T-3307-M"
+    },
+    {
+      "urunadi": "A-3050",
+      "aile": "Balloon",
+      "seri": "Wall Lights",
+      "grup": "A-3050",
+      "urun": "Balloon Wall Lights A-3050"
+    },
+    {
+      "urunadi": "t-3052",
+      "aile": "Balloon",
+      "seri": "Ceiling Lights",
+      "grup": "t-3052",
+      "urun": "Balloon Ceiling Lights t-3052"
+    },
+    {
+      "urunadi": "T-3055",
+      "aile": "Balloon",
+      "seri": "Suspension lights",
+      "grup": "T-3055",
+      "urun": "Balloon Suspension lights T-3055"
+    },
+    {
+      "urunadi": "A-3571",
+      "aile": "Canut",
+      "seri": "Wall Lights",
+      "grup": "A-3571",
+      "urun": "Canut Wall Lights A-3571"
+    },
+    {
+      "urunadi": "A-3370",
+      "aile": "Lune",
+      "seri": "Wall Lights",
+      "grup": "A-3370",
+      "urun": "Lune Wall Lights A-3370"
+    },
+    {
+      "urunadi": "T-2443",
+      "aile": "Luck",
+      "seri": "Suspension lights",
+      "grup": "Luck T-2443",
+      "urun": "Luck Suspension lights T-2443"
+    },
+    {
+      "urunadi": "T-2995",
+      "aile": "Siso",
+      "seri": "Suspension lights",
+      "grup": "T-2995 / T-2996",
+      "urun": "Siso Suspension lights T-2995"
+    },
+    {
+      "urunadi": "T-2996",
+      "aile": "Siso",
+      "seri": "Suspension lights",
+      "grup": "T-2995 / T-2996",
+      "urun": "Siso Suspension lights T-2996"
+    },
+    {
+      "urunadi": "A-3220L",
+      "aile": "Obs",
+      "seri": "Wall Lights",
+      "grup": "A-3220L",
+      "urun": "Obs Wall Lights A-3220L"
+    },
+    {
+      "urunadi": "T-3226",
+      "aile": "Obs",
+      "seri": "Suspension lights",
+      "grup": "T-3226",
+      "urun": "Obs Suspension lights T-3226"
+    },
+    {
+      "urunadi": "A-3520",
+      "aile": "Nit",
+      "seri": "Wall Lights",
+      "grup": "A-3520",
+      "urun": "Nit Wall Lights A-3520"
+    },
+    {
+      "urunadi": "A-3320L",
+      "aile": "Piu",
+      "seri": "Wall Lights",
+      "grup": "A-3320L",
+      "urun": "Piu Wall Lights A-3320L"
+    },
+    {
+      "urunadi": "P-2959",
+      "aile": "Pluma",
+      "seri": "Floor lamps",
+      "grup": "P-2959",
+      "urun": "Pluma Floor lamps P-2959"
+    },
+    {
+      "urunadi": "A-3350",
+      "aile": "Smile",
+      "seri": "Wall Lights",
+      "grup": "A-3350 / A-3351",
+      "urun": "Smile Wall Lights A-3350"
+    },
+    {
+      "urunadi": "A-3351",
+      "aile": "Smile",
+      "seri": "Wall Lights",
+      "grup": "A-3350 / A-3351",
+      "urun": "Smile Wall Lights A-3351"
+    },
+    {
+      "urunadi": "A-3350A",
+      "aile": "Smile",
+      "seri": "Wall Lights",
+      "grup": "A-3350A / A-3351A",
+      "urun": "Smile Wall Lights A-3350A"
+    },
+    {
+      "urunadi": "A-3351A",
+      "aile": "Smile",
+      "seri": "Wall Lights",
+      "grup": "A-3350A / A-3351A",
+      "urun": "Smile Wall Lights A-3351A"
+    },
+    {
+      "urunadi": "T-3555",
+      "aile": "Pila",
+      "seri": "Suspension lights",
+      "grup": "T-3555",
+      "urun": "Pila Suspension lights T-3555"
+    },
+    {
+      "urunadi": "t-2713",
+      "aile": "Iris",
+      "seri": "Ceiling Lights",
+      "grup": "t-2713",
+      "urun": "Iris Ceiling Lights t-2713"
+    },
+    {
+      "urunadi": "T-2714",
+      "aile": "Iris",
+      "seri": "Suspension lights",
+      "grup": "T-2714",
+      "urun": "Iris Suspension lights T-2714"
+    },
+    {
+      "urunadi": "P-2718",
+      "aile": "Iris",
+      "seri": "Floor lamps",
+      "grup": "P-2718",
+      "urun": "Iris Floor lamps P-2718"
+    },
+    {
+      "urunadi": "P-1127",
+      "aile": "Icons",
+      "seri": "Floor lamps",
+      "grup": "P-1127",
+      "urun": "Icons Floor lamps P-1127"
+    },
+    {
+      "urunadi": "P-1129",
+      "aile": "Icons",
+      "seri": "Floor lamps",
+      "grup": "P-1129",
+      "urun": "Icons Floor lamps P-1129"
+    },
+    {
+      "urunadi": "P-1139L",
+      "aile": "Icons",
+      "seri": "Floor lamps",
+      "grup": "p-1139L",
+      "urun": "Icons Floor lamps P-1139L"
+    }
+  ]
+}

@@ -922,7 +922,7 @@
                         },
                         "urunler": [
                             {
-                                "product_name": "Compass Wall Lights A.4073",
+                                "product_name": "Compass Wall Lights A-4073",
                                 "product_id": "700049-A-3-A",
                                 "Technical": [
                                     "LED 3W",
@@ -949,7 +949,38 @@
                                     "BIM / 3D + 2D": "https://www.estiluz.com/en/downloads"
                                 },
                                 "product_icons": [],
-                                "product_images": [],
+                                "product_images": [
+                                    {
+                                        "foto_adi": "Estiluz_Compass_A-4073_contract_wall_light_img_p01",
+                                        "surface_image": "https://uc5a1b9bcddbfdcf24f27aa76912.previews.dropboxusercontent.com/p/thumb/ACLWn33Dw7zpJ-MuP1G9dNtn1Oty33qrIl0ZDpth_J0htRtqAmU8vcXVasnQF5UIaP-9yqffX1w4AGP7L0CmZYMvWmvHGzDP3Kwdg_OE3E292Eg6k2FOnsNNb_atoPpqXwm4aKIfwT7grJeQyreAH298jlKhPbUMQf-KoayelMFrVtb2TJYz0dtFGXgjHGUvABtRM_8lnIKCvgT-bjS-S2Tx4tCf2CVyOd3uO2ycPngS6lkAOilIg4VjWxUi65Q10GlpI2hnjxq_evZCFe-VD8pB/p.jpeg?size=512x512&size_mode=2",
+                                        "full_foto": "https://uce3d7b940023217279ec65926e4.previews.dropboxusercontent.com/p/thumb/ACI0bx1_sOLZvfJyJQ3VNQe8sNbP1JAuavpxmHw7zgZS127coEw8toYie5AM_BfeSdVAMr8FPfDgYQTfWi9B4CJb9Z1aPRx833dFqMY8vc_P4s-4ZbiOuH87Mj3Ve01joxLsQ42fWS8M0VNm9ii1VSZqBP5Bjz44L6Rinl_kr-BIMccSyU7I8FvMWIOyIhunrzaTAyeNH1KI8KzjRXDgtbDnur2LBrTl67n9V5VyS1ha10pSJsRSiauwpFhlCWPkapXFgN-NdajxO9vqoZgK_s-aiAE7ht4xVowirTTTkQoKgbgkR-f3IGi9nNKhVs2l-NCZHbheakhsPg0HX32ZnheuokdNpgEEICYdcS8VR5-6mU5H4Hpv7CTOlOXGXVkiLqU/p.jpeg"
+                                    },
+                                    {
+                                        "foto_adi": "Estiluz_Compass_A-4073_contract_wall_light_img_p01",
+                                        "surface_image": "https://uc5a1b9bcddbfdcf24f27aa76912.previews.dropboxusercontent.com/p/thumb/ACLWn33Dw7zpJ-MuP1G9dNtn1Oty33qrIl0ZDpth_J0htRtqAmU8vcXVasnQF5UIaP-9yqffX1w4AGP7L0CmZYMvWmvHGzDP3Kwdg_OE3E292Eg6k2FOnsNNb_atoPpqXwm4aKIfwT7grJeQyreAH298jlKhPbUMQf-KoayelMFrVtb2TJYz0dtFGXgjHGUvABtRM_8lnIKCvgT-bjS-S2Tx4tCf2CVyOd3uO2ycPngS6lkAOilIg4VjWxUi65Q10GlpI2hnjxq_evZCFe-VD8pB/p.jpeg?size=512x512&size_mode=2",
+                                        "full_foto": "https://uce3d7b940023217279ec65926e4.previews.dropboxusercontent.com/p/thumb/ACI0bx1_sOLZvfJyJQ3VNQe8sNbP1JAuavpxmHw7zgZS127coEw8toYie5AM_BfeSdVAMr8FPfDgYQTfWi9B4CJb9Z1aPRx833dFqMY8vc_P4s-4ZbiOuH87Mj3Ve01joxLsQ42fWS8M0VNm9ii1VSZqBP5Bjz44L6Rinl_kr-BIMccSyU7I8FvMWIOyIhunrzaTAyeNH1KI8KzjRXDgtbDnur2LBrTl67n9V5VyS1ha10pSJsRSiauwpFhlCWPkapXFgN-NdajxO9vqoZgK_s-aiAE7ht4xVowirTTTkQoKgbgkR-f3IGi9nNKhVs2l-NCZHbheakhsPg0HX32ZnheuokdNpgEEICYdcS8VR5-6mU5H4Hpv7CTOlOXGXVkiLqU/p.jpeg"
+                                    },
+                                    {
+                                        "foto_adi": "Estiluz_Compass_A-4073_contract_wall_light_img_p02",
+                                        "surface_image": "https://uc5a1b9bcddbfdcf24f27aa76912.previews.dropboxusercontent.com/p/thumb/ACKc1IJdKKtLYW2uu0SBALxLh3l6IhdkWJ4RwdM4Scaonm1n3LYlnN7Q-NZkDkq25RbhhwCwBL-8VOOi9-zyPBTCO69bbAyCpoGUdUpOvBJTw0TLK-_UNUOwmpHAvHSIiOlAfg0C_h_rdmhaGrBsp0O_30YOiNASXZNviFkax11w6ThVfMZXBo7Z9RSrMaZmU65HLzZm5wy5ySkmFqecL_uEXJiDI3ujKcC-ZmTJN7MDyR6Ap_1QPTXJ1B4O6k3TXbfU5bzKB5jy9FAAPwmXaQ5w/p.jpeg?size=512x512&size_mode=2",
+                                        "full_foto": "https://ucd2fdbdeb8dd31143ee7e0f8270.previews.dropboxusercontent.com/p/thumb/ACJzXjySfM-xqM_ZzawwYT6nIZKJehOmP9DvYQlIYU0rwQPeCTg8CqhK_YFuwi8Co7WT-8RIXkGC98lPMuvD5cDYPWTxtK8flOum3XpnJq8RQJW3DeTl0iLoe6XkJ58VIPGvRg7ud2uDMtl_qLg-vfOnW8Le2I_v9z2kAW0rvxBqZ__VNFbot_dXu6l5WOSV-KPdTOzxx6q0kFtgfCyNtvOncr1Qb9MsmT3yaDx6FGGyy9M1XE8K0KODV7aRKfVPNMC-9W-TB7YQtYXTWUwV5GoVZllb8oAL6GEEKrBEheBFeKaFWzlfoMD6DihDBSNfTEq1zOGhZoTqUwLyMx77_WgdzTVoA6Fp9mGQtKrZ_2m7QqXBxT48DpyR6eynqOIotW8/p.jpeg"
+                                    },
+                                    {
+                                        "foto_adi": "Estiluz_Compass_A-4073_contract_wall_light_img_p02",
+                                        "surface_image": "https://uc5a1b9bcddbfdcf24f27aa76912.previews.dropboxusercontent.com/p/thumb/ACKc1IJdKKtLYW2uu0SBALxLh3l6IhdkWJ4RwdM4Scaonm1n3LYlnN7Q-NZkDkq25RbhhwCwBL-8VOOi9-zyPBTCO69bbAyCpoGUdUpOvBJTw0TLK-_UNUOwmpHAvHSIiOlAfg0C_h_rdmhaGrBsp0O_30YOiNASXZNviFkax11w6ThVfMZXBo7Z9RSrMaZmU65HLzZm5wy5ySkmFqecL_uEXJiDI3ujKcC-ZmTJN7MDyR6Ap_1QPTXJ1B4O6k3TXbfU5bzKB5jy9FAAPwmXaQ5w/p.jpeg?size=512x512&size_mode=2",
+                                        "full_foto": "https://ucd2fdbdeb8dd31143ee7e0f8270.previews.dropboxusercontent.com/p/thumb/ACJzXjySfM-xqM_ZzawwYT6nIZKJehOmP9DvYQlIYU0rwQPeCTg8CqhK_YFuwi8Co7WT-8RIXkGC98lPMuvD5cDYPWTxtK8flOum3XpnJq8RQJW3DeTl0iLoe6XkJ58VIPGvRg7ud2uDMtl_qLg-vfOnW8Le2I_v9z2kAW0rvxBqZ__VNFbot_dXu6l5WOSV-KPdTOzxx6q0kFtgfCyNtvOncr1Qb9MsmT3yaDx6FGGyy9M1XE8K0KODV7aRKfVPNMC-9W-TB7YQtYXTWUwV5GoVZllb8oAL6GEEKrBEheBFeKaFWzlfoMD6DihDBSNfTEq1zOGhZoTqUwLyMx77_WgdzTVoA6Fp9mGQtKrZ_2m7QqXBxT48DpyR6eynqOIotW8/p.jpeg"
+                                    },
+                                    {
+                                        "foto_adi": "Estiluz_Compass_A-4073_wall_light_img_p01",
+                                        "surface_image": "https://uc5a1b9bcddbfdcf24f27aa76912.previews.dropboxusercontent.com/p/thumb/ACKefFmkXfpEct8dBVlSsc9ezxgO4Gzwo8ZpIF4BxvXuv0uDlqOeCBKkeBacFW4ebEHJ7XCg4SIbH6OH-n0oto--15oj44PPEm8pxtbpK3_gx2UgwmAmqZQv7UQ5FuvLmno_Sw49RPzOO7agdFtQotVFU1IvanJUZLXCwwzXR_ki6g4l-qf4MHAnSpQWjzqeTqLCJ-tePh4gox9vExCVe8J8SoVvldjNpusSdpozeXrihUODp6NAkJ7KEIXagvJa7uvw_p0Su1CgjGhsUV7eEY8w/p.jpeg?size=512x512&size_mode=2",
+                                        "full_foto": "https://uc3b971c11ccabebd4117211fce5.previews.dropboxusercontent.com/p/thumb/ACJ2asX6h-7fusVsgnYPZw3SEw1lTstpmHFY8k3unJDSDoAX5JNQZnDmrWl484kxuayov6JuWg8hoUB21FLO5LSidfARhz4i4pswLax8oyWQkTujXYuyhCidzEOUeITo3mnrynkQl7VSjh7dP3oZnT7P2Cmj6OPkrbfiPzEKb17ddJqHp085AE2bOcBQ1FvOazXS6R06hgUktlyWcaycjNA2gGWGIvFftQd67toerfbSr8SkktnU888OhbC7YEcNsPGIh8-myAKkAY0M9f2dg_Op1I0JoEgNjoe_B6qb3wPgCE3FA44Mkyrcr9bHErVZVGlxVyqkSSZjrWc4o01eD0tcrYxVFRm-8WQXXS7-kP7AF-EiiGzSsCzvQjqNN8FeJCA/p.jpeg"
+                                    },
+                                    {
+                                        "foto_adi": "Estiluz_Compass_A-4073_wall_light_img_p01",
+                                        "surface_image": "https://uc5a1b9bcddbfdcf24f27aa76912.previews.dropboxusercontent.com/p/thumb/ACKefFmkXfpEct8dBVlSsc9ezxgO4Gzwo8ZpIF4BxvXuv0uDlqOeCBKkeBacFW4ebEHJ7XCg4SIbH6OH-n0oto--15oj44PPEm8pxtbpK3_gx2UgwmAmqZQv7UQ5FuvLmno_Sw49RPzOO7agdFtQotVFU1IvanJUZLXCwwzXR_ki6g4l-qf4MHAnSpQWjzqeTqLCJ-tePh4gox9vExCVe8J8SoVvldjNpusSdpozeXrihUODp6NAkJ7KEIXagvJa7uvw_p0Su1CgjGhsUV7eEY8w/p.jpeg?size=512x512&size_mode=2",
+                                        "full_foto": "https://uc3b971c11ccabebd4117211fce5.previews.dropboxusercontent.com/p/thumb/ACJ2asX6h-7fusVsgnYPZw3SEw1lTstpmHFY8k3unJDSDoAX5JNQZnDmrWl484kxuayov6JuWg8hoUB21FLO5LSidfARhz4i4pswLax8oyWQkTujXYuyhCidzEOUeITo3mnrynkQl7VSjh7dP3oZnT7P2Cmj6OPkrbfiPzEKb17ddJqHp085AE2bOcBQ1FvOazXS6R06hgUktlyWcaycjNA2gGWGIvFftQd67toerfbSr8SkktnU888OhbC7YEcNsPGIh8-myAKkAY0M9f2dg_Op1I0JoEgNjoe_B6qb3wPgCE3FA44Mkyrcr9bHErVZVGlxVyqkSSZjrWc4o01eD0tcrYxVFRm-8WQXXS7-kP7AF-EiiGzSsCzvQjqNN8FeJCA/p.jpeg"
+                                    }
+                                ],
                                 "application_images": []
                             }
                         ]
